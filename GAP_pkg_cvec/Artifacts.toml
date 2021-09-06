@@ -1,0 +1,6 @@
+[cvec]
+git-tree-sha1 = "1e054ac13d8f95ecf000e65608427e6db81c31a9"
+
+    [[cvec.download]]
+    sha256 = "1824490a7907b7db4877039605d98b81a499d93f6e8a6d60b7299c3fb4b15e65"
+    url = "https://github.com/gap-packages/cvec/releases/download/v2.7.5/cvec-2.7.5.tar.gz"

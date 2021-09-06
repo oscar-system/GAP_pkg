@@ -1,0 +1,13 @@
+name = "GAP_pkg_ferret"
+uuid = "13910343-4192-49a9-bb81-0d469eac0d3f"
+authors = ["Max Horn <max@quendi.de>"]
+version = "0.1.0"
+
+[deps]
+GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+GAP_pkg_ferret_jll = "d6652ff9-bdf9-5f19-9e6f-c10727807222"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+GAP = "0.6"
+GAP_pkg_ferret_jll = "~100.0.500"

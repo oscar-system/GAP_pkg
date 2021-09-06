@@ -1,0 +1,6 @@
+[io]
+git-tree-sha1 = "c45ef52c270962aed8e7a0eb65b8784e0e82dab4"
+
+    [[io.download]]
+    sha256 = "140d755d2beeff7229ce483d7c0837db9ac1207d906ac97e8208b9a4eb707761"
+    url = "https://github.com/gap-packages/io/releases/download/v4.7.1/io-4.7.1.tar.gz"
