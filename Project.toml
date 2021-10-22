@@ -1,0 +1,10 @@
+[deps]
+ArtifactUtils = "8b73e784-e7d8-4ea5-973d-377fed4e3bce"
+Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
+GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+GAP_pkg_cvec = "0c7c8706-c342-4f07-95b6-eaac458819d8"
+GAP_pkg_factint = "113a7fa3-442e-4d7c-81dd-9175ed5204cc"
+GAP_pkg_ferret = "13910343-4192-49a9-bb81-0d469eac0d3f"
+GAP_pkg_io = "b385582e-9628-4fed-8f60-9a4f3165a09f"
+GAP_pkg_unipot = "f7a7ecdb-feff-4c9b-bf4c-d8ba1d8a86c8"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

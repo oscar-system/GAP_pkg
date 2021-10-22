@@ -1,0 +1,6 @@
+[datastructures]
+git-tree-sha1 = "f9a80b7f9cbefc69c2a31b94bab2b471d8e91078"
+
+    [[datastructures.download]]
+    sha256 = "fa05bd5ece4392c78927c7069e8db6fbd0712f73f1b1a00b2d2a2eae712b6fbe"
+    url = "https://github.com/gap-packages/datastructures/releases/download/v0.2.6/datastructures-0.2.6.tar.gz"
