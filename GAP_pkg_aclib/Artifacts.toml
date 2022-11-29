@@ -1,0 +1,6 @@
+[aclib]
+git-tree-sha1 = "e91708d23a46159c10291635d44472f2ea9d10a4"
+
+    [[aclib.download]]
+    sha256 = "f672d0aee19f22b411352835a4730a6f88eecad7d79d8452b273f381b03e1a7b"
+    url = "https://github.com/gap-packages/aclib/releases/download/v1.3.2/aclib-1.3.2.tar.gz"

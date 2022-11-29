@@ -1,0 +1,6 @@
+[numericalsgps]
+git-tree-sha1 = "f71ecfdbfb7eccbdeb5dc3b6f55542c765c81439"
+
+    [[numericalsgps.download]]
+    sha256 = "7fa1966f3b5b50638eaf952a48667fd1ce09034d9e5d042c3f78f6d8d3c01e10"
+    url = "https://github.com/gap-packages/numericalsgps/releases/download/v1.3.1/NumericalSgps-1.3.1.tar.gz"

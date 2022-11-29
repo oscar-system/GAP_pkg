@@ -1,0 +1,6 @@
+[profiling]
+git-tree-sha1 = "fcf9f159582951889d9fb0476e0f12d4ab48b5e9"
+
+    [[profiling.download]]
+    sha256 = "e4ba8c9132a282561a8a315c29b0df127b145e0a129fd74f955b61cef56ffe09"
+    url = "https://github.com/gap-packages/profiling/releases/download/v2.5.1/profiling-2.5.1.tar.gz"

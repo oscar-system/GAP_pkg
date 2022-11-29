@@ -1,0 +1,6 @@
+[agt]
+git-tree-sha1 = "01f03e695257fc78b604f52a7cd66aab52b37113"
+
+    [[agt.download]]
+    sha256 = "545ef18a1c1c2215cdd5546813eb36bcf38176dcbd7edc45f2cd2f598e95bc5a"
+    url = "https://github.com/gap-packages/AGT/releases/download/v0.3/AGT-0.3.tar.gz"

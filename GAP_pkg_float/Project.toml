@@ -1,0 +1,12 @@
+name = "GAP_pkg_float"
+uuid = "7a1e5fa9-0d0e-4175-b8b4-d16cee386199"
+authors = ["Max Horn <max@quendi.de>"]
+version = "1.0.3"
+
+[deps]
+GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+GAP = "0.9"
+julia = "1.6"

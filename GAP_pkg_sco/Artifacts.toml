@@ -1,0 +1,6 @@
+[sco]
+git-tree-sha1 = "eb6a3772486f4bbf11d7395390a4efcc9efcd1d8"
+
+    [[sco.download]]
+    sha256 = "9a4fe472aeabb075be233f9c8072a8a10d3eaeb83d7090c6fc3870f9fadc17d9"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/SCO-2022.09-01/SCO-2022.09-01.tar.gz"

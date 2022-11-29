@@ -1,0 +1,6 @@
+[fga]
+git-tree-sha1 = "bfa9483c26218eb43db545ee0f41d881e97d1064"
+
+    [[fga.download]]
+    sha256 = "7c9e01ead442441bdf5635ebb9ccf1b75fa9eceae52b4c7957afb54ab9a23507"
+    url = "http://www.icm.tu-bs.de/ag_algebra/software/FGA/FGA-1.4.0.tar.gz"

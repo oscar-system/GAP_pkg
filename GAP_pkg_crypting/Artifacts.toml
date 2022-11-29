@@ -1,0 +1,6 @@
+[crypting]
+git-tree-sha1 = "5eb8e72300603f09d66b8db68583c238c1d70f35"
+
+    [[crypting.download]]
+    sha256 = "bbeaad5835567378f1ce65df900d96b94d74aee40d34bc827879ad78e38e2b28"
+    url = "https://github.com/gap-packages/crypting/releases/download/v0.10.4/crypting-0.10.4.tar.gz"

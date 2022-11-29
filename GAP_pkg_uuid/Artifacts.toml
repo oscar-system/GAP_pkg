@@ -1,0 +1,6 @@
+[uuid]
+git-tree-sha1 = "3edf3e902bac4378d681b3e6fb298d11e65618fd"
+
+    [[uuid.download]]
+    sha256 = "30d83223fde65db8be8a496428347416816a296ea63605cc9d54bca4e4f9436c"
+    url = "https://github.com/gap-packages/uuid/releases/download/v0.7/uuid-0.7.tar.gz"

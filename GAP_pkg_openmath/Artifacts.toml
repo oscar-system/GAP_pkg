@@ -1,0 +1,6 @@
+[openmath]
+git-tree-sha1 = "2afa5c9c1221bf0b800fcff17fb1c20943828477"
+
+    [[openmath.download]]
+    sha256 = "0bd9be052a487635cd2a45f4579136a05073247014b692db65e6dbe8de79b0fb"
+    url = "https://github.com/gap-packages/openmath/releases/download/v11.5.1/OpenMath-11.5.1.tar.gz"

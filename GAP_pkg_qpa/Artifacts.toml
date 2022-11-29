@@ -1,0 +1,6 @@
+[qpa]
+git-tree-sha1 = "00134923228f90c7496225711e8a36b562f6a62d"
+
+    [[qpa.download]]
+    sha256 = "45ddc986f798491824ec551c569b969bc5d4071a9710c360e572febb51e6d5b6"
+    url = "https://folk.ntnu.no/oyvinso/QPA/qpa-1.34.tar.gz"

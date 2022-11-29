@@ -1,0 +1,6 @@
+[majoranaalgebras]
+git-tree-sha1 = "dcd121a269c537ebfd38e31338dc01bf2b3e6ba6"
+
+    [[majoranaalgebras.download]]
+    sha256 = "bd6c1796e2457c3fb9d894a0acd4649b25306b92229040da5ab0efd69e486aa6"
+    url = "https://github.com/gap-packages/MajoranaAlgebras/releases/download/v1.5/MajoranaAlgebras-1.5.tar.gz"

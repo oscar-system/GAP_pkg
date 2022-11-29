@@ -1,0 +1,6 @@
+[modisom]
+git-tree-sha1 = "62ed3899996a89d2ceb58a3d2086c7da056b622f"
+
+    [[modisom.download]]
+    sha256 = "c002326f89ddbd5bc77d8aaca7fca1ca5b3947092c3961c1a04b2b24e2ee0446"
+    url = "https://github.com/gap-packages/modisom/releases/download/v2.5.3/modisom-2.5.3.tar.gz"

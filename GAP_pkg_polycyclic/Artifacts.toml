@@ -1,0 +1,6 @@
+[polycyclic]
+git-tree-sha1 = "19ffad54a31cc364e445481a652355b3591c8c1f"
+
+    [[polycyclic.download]]
+    sha256 = "6983a72c90d92d0e6a3706dde7686c4a5658e48b04b5889d24808939896df007"
+    url = "https://github.com/gap-packages/polycyclic/releases/download/v2.16/polycyclic-2.16.tar.gz"

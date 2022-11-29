@@ -1,0 +1,6 @@
+[matricesforhomalg]
+git-tree-sha1 = "086ad40de1efcddf509c627ffa268d5c906542aa"
+
+    [[matricesforhomalg.download]]
+    sha256 = "333794ca4cfe7e2847f96ce169410a9a29584e9278121128921bf4414ffb8912"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/MatricesForHomalg-2022.11-03/MatricesForHomalg-2022.11-03.tar.gz"

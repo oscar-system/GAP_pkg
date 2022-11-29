@@ -1,0 +1,6 @@
+[fr]
+git-tree-sha1 = "9fd62c8679f75481363db762e560c9753d2a60c1"
+
+    [[fr.download]]
+    sha256 = "ad2bdc0b29c8a7de545ebe330424f65a23d37354b1a213dc0100a86c5df50807"
+    url = "https://github.com/gap-packages/fr/releases/download/v2.4.11/fr-2.4.11.tar.gz"

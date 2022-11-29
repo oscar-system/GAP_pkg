@@ -1,0 +1,12 @@
+name = "GAP_pkg_alnuth"
+uuid = "22ffac92-d40c-43e5-873e-1aeb24efe941"
+authors = ["Max Horn <max@quendi.de>"]
+version = "3.2.1"
+
+[deps]
+GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+GAP = "0.9"
+julia = "1.6"

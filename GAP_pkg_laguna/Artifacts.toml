@@ -1,0 +1,6 @@
+[laguna]
+git-tree-sha1 = "59398fef8888d5050629b866b6090f94b91e7f09"
+
+    [[laguna.download]]
+    sha256 = "bba2a2354c548685e0085a385d6027927add32014c28ca5e3127539b68cd87bf"
+    url = "https://github.com/gap-packages/laguna/releases/download/v3.9.5/laguna-3.9.5.tar.gz"

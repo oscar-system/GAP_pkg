@@ -1,0 +1,6 @@
+[repndecomp]
+git-tree-sha1 = "7ca6efdc08987491bf86eb6482d9a5a51f7344b9"
+
+    [[repndecomp.download]]
+    sha256 = "6ac794bc0467d7c1c72aa74d07f1b4a11e68ec4e79ec28e4d79707ca81478352"
+    url = "https://github.com/gap-packages/RepnDecomp/releases/download/v1.2.1/RepnDecomp-1.2.1.tar.bz2"

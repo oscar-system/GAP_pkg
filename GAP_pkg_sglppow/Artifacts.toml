@@ -1,0 +1,6 @@
+[sglppow]
+git-tree-sha1 = "6befb559ad26a4804fcf3a98e69043e937847c30"
+
+    [[sglppow.download]]
+    sha256 = "15b2d346c94167984adf0ec8b7ac84ce2b6480227b5964e7108fb7afe369eb90"
+    url = "https://github.com/gap-packages/sglppow/releases/download/v2.3/sglppow-2.3.tar.gz"

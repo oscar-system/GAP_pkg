@@ -1,0 +1,6 @@
+[tomlib]
+git-tree-sha1 = "7ebc69ff592bbd4d590b6f993f1e50905bb1e8e6"
+
+    [[tomlib.download]]
+    sha256 = "6f1df43c3790f81868fe674deb4bbd96ddeb06520d07f493ccf993b4abf3a60b"
+    url = "https://github.com/gap-packages/tomlib/releases/download/v1.2.9/tomlib-1.2.9.tar.gz"

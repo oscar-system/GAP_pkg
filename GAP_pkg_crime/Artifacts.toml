@@ -1,0 +1,6 @@
+[crime]
+git-tree-sha1 = "e89f0706ac7d3b579fbb764dc10552f3bb7db85c"
+
+    [[crime.download]]
+    sha256 = "c6630c5d5385caa3a0e470599759f8e42bd5f0147eebfee164ca808cec83371e"
+    url = "https://github.com/gap-packages/crime/releases/download/v1.6/crime-1.6.tar.gz"

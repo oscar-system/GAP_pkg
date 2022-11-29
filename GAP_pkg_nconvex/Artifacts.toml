@@ -1,0 +1,6 @@
+[nconvex]
+git-tree-sha1 = "114fbaecd732ad1d7cba14d17b0ad1729739bb3f"
+
+    [[nconvex.download]]
+    sha256 = "425d1debd92b16782e6b18e684c21bb8248f87fe33c30ebcd1dc429320cb0112"
+    url = "https://github.com/homalg-project/NConvex/releases/download/v2022.09-01/NConvex-2022.09-01.tar.gz"

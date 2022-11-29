@@ -1,0 +1,6 @@
+[design]
+git-tree-sha1 = "9933ed6d58fff16d7195e0c116238de283ea61b6"
+
+    [[design.download]]
+    sha256 = "3ac0e3acac08cdec786362aa77192c7fc78df7764c0f9a2b01849238aef75641"
+    url = "https://github.com/gap-packages/design/releases/download/v1.7/design-1.7.tar.gz"

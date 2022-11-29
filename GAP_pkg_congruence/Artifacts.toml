@@ -1,0 +1,6 @@
+[congruence]
+git-tree-sha1 = "4838f4d536b59f9c149fbe59a8ee0181d9d4a2e5"
+
+    [[congruence.download]]
+    sha256 = "fe4d24dda39e6bccc170a6d55e690bc22b30e457101221f452a3cd7a48a05627"
+    url = "https://github.com/gap-packages/congruence/releases/download/v1.2.4/congruence-1.2.4.tar.gz"

@@ -1,0 +1,6 @@
+[digraphs]
+git-tree-sha1 = "3bb446599e9f865f224345e313b135d59b67c877"
+
+    [[digraphs.download]]
+    sha256 = "7a3a5a06ce64e4e36ded30d8a5372e19739a6547b8905f492eba990969ab646f"
+    url = "https://github.com/digraphs/Digraphs/releases/download/v1.6.0/digraphs-1.6.0.tar.gz"

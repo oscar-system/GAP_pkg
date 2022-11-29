@@ -1,0 +1,6 @@
+[idrel]
+git-tree-sha1 = "64b8834e17ac751bbd814b2be3711b1f4d21da29"
+
+    [[idrel.download]]
+    sha256 = "47a2590a72fb83b00dae7118dbff3bcd2e0786a7c31c8863b84954400197eea2"
+    url = "https://github.com/gap-packages/idrel/releases/download/v2.44/idrel-2.44.tar.gz"

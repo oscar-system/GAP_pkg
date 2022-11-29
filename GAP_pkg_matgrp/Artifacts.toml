@@ -1,0 +1,6 @@
+[matgrp]
+git-tree-sha1 = "c5ad9f9f34d45eae8cfb316211429097029f169b"
+
+    [[matgrp.download]]
+    sha256 = "4f773cadc9548553fbe3429acbda4a82b9e0eb110e11888663d5ca2079a7862f"
+    url = "http://www.math.colostate.edu/~hulpke/matgrp/matgrp0.70.tar.gz"

@@ -1,0 +1,6 @@
+[smallgrp]
+git-tree-sha1 = "94af8e5d8d729dcb573eab35635c18271ddc3a32"
+
+    [[smallgrp.download]]
+    sha256 = "4ffeab3c5f7b0f4fa6768d95e69b470c2c92e1ba197ac9515663082354541951"
+    url = "https://github.com/gap-packages/SmallGrp/releases/download/v1.5.1/SmallGrp-1.5.1.tar.gz"

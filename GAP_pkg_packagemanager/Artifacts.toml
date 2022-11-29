@@ -1,0 +1,6 @@
+[packagemanager]
+git-tree-sha1 = "313e73f7c1ea8f583ec237022b794e37aaf70ba6"
+
+    [[packagemanager.download]]
+    sha256 = "f6e56bdb553cfc9d52c79b3747014472aef640ba8a393cbc3f3334c3159657c2"
+    url = "https://github.com/gap-packages/PackageManager/releases/download/v1.3.2/PackageManager-1.3.2.tar.gz"

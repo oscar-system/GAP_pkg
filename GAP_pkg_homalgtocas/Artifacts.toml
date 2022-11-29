@@ -1,0 +1,6 @@
+[homalgtocas]
+git-tree-sha1 = "4102b3ef8698bb2907e8f249482efa41dc8faa50"
+
+    [[homalgtocas.download]]
+    sha256 = "7a5402a54b6ae76cbc3eb8450f5a80388801748fc5a112de3253aa9501c6362d"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/HomalgToCAS-2022.11-02/HomalgToCAS-2022.11-02.tar.gz"

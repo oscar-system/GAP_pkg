@@ -1,0 +1,6 @@
+[normalizinterface]
+git-tree-sha1 = "09621864208537f21ff58aabc6f244647cc45b8d"
+
+    [[normalizinterface.download]]
+    sha256 = "d9848429334d1309c9cb856274ae970b28e94f3fc19005a127035ce51a6cce67"
+    url = "https://github.com/gap-packages/NormalizInterface/releases/download/v1.3.5/NormalizInterface-1.3.5.tar.bz2"

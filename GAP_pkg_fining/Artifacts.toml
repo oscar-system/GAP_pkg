@@ -1,0 +1,6 @@
+[fining]
+git-tree-sha1 = "5899811ba6c999b0ad93985592b8a10c186b7dac"
+
+    [[fining.download]]
+    sha256 = "ac8f2e704d4b4af0b91fa14fbe649a878a80196a04e03d44ddaa7697a4be6855"
+    url = "https://github.com/gap-packages/FinInG/releases/download/v1.5.1/fining-1.5.1.tar.bz2"

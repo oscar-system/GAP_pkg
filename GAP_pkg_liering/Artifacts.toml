@@ -1,0 +1,6 @@
+[liering]
+git-tree-sha1 = "56034fd3340466c0a8c79f472b52f463757c1cdb"
+
+    [[liering.download]]
+    sha256 = "ae9fa477e5df51e4da024b96ac16a6f17c3b8715aa953dabb9a4004da782820f"
+    url = "https://github.com/gap-packages/liering/releases/download/v2.4.2/liering-2.4.2.tar.gz"

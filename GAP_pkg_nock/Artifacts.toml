@@ -1,0 +1,6 @@
+[nock]
+git-tree-sha1 = "3aa9a1de3583e4dd185087801cc15dbc071a7a89"
+
+    [[nock.download]]
+    sha256 = "69023293e9abc695f15c2740df5902ba6e95d53bd3441b9c3fe25c410c207fc6"
+    url = "https://github.com/gap-packages/NoCK/releases/download/v1.5/NoCK-1.5.tar.gz"

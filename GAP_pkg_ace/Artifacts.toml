@@ -1,0 +1,6 @@
+[ace]
+git-tree-sha1 = "a09ef7cc2a280abafad619162ff7e7f412624f34"
+
+    [[ace.download]]
+    sha256 = "17b8e969a20a1c1bb0dae75ead60dd463b41a59e688d913e30999b2f2248b7f7"
+    url = "https://github.com/gap-packages/ace/releases/download/v5.6.1/ace-5.6.1.tar.gz"

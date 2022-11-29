@@ -1,0 +1,6 @@
+[simpcomp]
+git-tree-sha1 = "ca5936133ce557706cfe69817878f7ee44456e3c"
+
+    [[simpcomp.download]]
+    sha256 = "2a1a33068b038776d6932f13b5eb63d32b0799906a2ec190f585b2931d724dcd"
+    url = "https://github.com/simpcomp-team/simpcomp/releases/download/v2.1.14/simpcomp-2.1.14.tar.gz"

@@ -1,0 +1,6 @@
+[examplesforhomalg]
+git-tree-sha1 = "6549c82f43448caa47af0f6616841bee3713e865"
+
+    [[examplesforhomalg.download]]
+    sha256 = "f4366df98d3e9253c62aef0fcc40359748b61bc9e17a35a9af3c735190cde79a"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/ExamplesForHomalg-2022.11-01/ExamplesForHomalg-2022.11-01.tar.gz"

@@ -1,0 +1,6 @@
+[rds]
+git-tree-sha1 = "d891d5374199f94ee57cf346e70848e2f6514ce8"
+
+    [[rds.download]]
+    sha256 = "d58c1320b84fde09d3b778f64de3ce312e9ee53f3aa4361ff846d8ffa4a34faa"
+    url = "https://github.com/gap-packages/rds/releases/download/v1.8/rds-1.8.tar.gz"

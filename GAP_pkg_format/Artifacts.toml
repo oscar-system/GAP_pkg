@@ -1,0 +1,6 @@
+[format]
+git-tree-sha1 = "ea46536a2ddac9b4f3ba6e445bf2a27a4989635e"
+
+    [[format.download]]
+    sha256 = "49e13347e5f8cb292e6d1b7b2b399a162aeca6c388ab132750d5558536d61015"
+    url = "https://github.com/gap-packages/format/releases/download/v1.4.3/format-1.4.3.tar.gz"

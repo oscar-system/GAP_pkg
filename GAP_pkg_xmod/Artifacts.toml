@@ -1,0 +1,6 @@
+[xmod]
+git-tree-sha1 = "d51fdbd86121a809a19bda3aebbe7536304f7b6f"
+
+    [[xmod.download]]
+    sha256 = "502884be429e43ceb868481e1ca7bbbab3f1490474eb374e37939f5b1eb71c30"
+    url = "https://github.com/gap-packages/xmod/releases/download/v2.88/XMod-2.88.tar.gz"

@@ -1,0 +1,6 @@
+[francy]
+git-tree-sha1 = "fb0237448a034e5e1eb2e8bbdbeff0fa9a5b693e"
+
+    [[francy.download]]
+    sha256 = "da7a3c4ed3e53b97292f1cc179de046d6fac588dda62e1a454767f0cce9719c5"
+    url = "https://github.com/gap-packages/francy/releases/download/v1.2.5/francy-1.2.5.tar.gz"

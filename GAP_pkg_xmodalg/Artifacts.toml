@@ -1,0 +1,6 @@
+[xmodalg]
+git-tree-sha1 = "781480a5a045f1bffe884812f23d97af1cb62c78"
+
+    [[xmodalg.download]]
+    sha256 = "f4c50f821ffca691b346f6f6172ddbb6f038c70abadce9dad923615df4f8ba08"
+    url = "https://github.com/gap-packages/xmodalg/releases/download/v1.22/XModAlg-1.22.tar.gz"

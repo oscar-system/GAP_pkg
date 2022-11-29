@@ -1,0 +1,6 @@
+[cddinterface]
+git-tree-sha1 = "7e42271f0555c6d4e2b416dab4a9f08b38882b8c"
+
+    [[cddinterface.download]]
+    sha256 = "7c2d18f178b1e3d3f682bac970b61e9b68a5120d8b64f0e3e928d818eb1b9de9"
+    url = "https://github.com/homalg-project/CddInterface/releases/download/v2022.11.01/CddInterface-2022.11.01.tar.gz"

@@ -1,0 +1,6 @@
+[circle]
+git-tree-sha1 = "0dc499119cfeee61ba061927464320a54711d903"
+
+    [[circle.download]]
+    sha256 = "77a152f718fed804b638992dcd0d66c488e97b08623281106ca4dce1f5c97a31"
+    url = "https://github.com/gap-packages/circle/releases/download/v1.6.5/circle-1.6.5.tar.gz"

@@ -1,0 +1,6 @@
+[thelma]
+git-tree-sha1 = "04609836484dc27b75de6196b78f10f4793aa1f7"
+
+    [[thelma.download]]
+    sha256 = "44a2957e7bc22c4569a2a8ac8b9acc7e762dad7b218cca352c876cbec8ff2c74"
+    url = "https://github.com/gap-packages/Thelma/releases/download/v1.3/Thelma-1.3.tar.gz"

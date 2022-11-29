@@ -1,0 +1,6 @@
+[intpic]
+git-tree-sha1 = "15beed56fd2d95e6f65836fedff11b9fadd54002"
+
+    [[intpic.download]]
+    sha256 = "fb3a3a5d83e5dc604345e71a88271990576a36f924afd02c6488f31cb1401c80"
+    url = "https://github.com/gap-packages/intpic/releases/download/v0.3.0/IntPic-0.3.0.tar.gz"

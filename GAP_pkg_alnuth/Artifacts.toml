@@ -1,0 +1,6 @@
+[alnuth]
+git-tree-sha1 = "af2c63bce5c78d0f874f545750f5e309e09cd66b"
+
+    [[alnuth.download]]
+    sha256 = "b474c879dcf28023a80608c1354974337e2e598287e5a81ded5ef5ba3e7d63ca"
+    url = "https://github.com/gap-packages/alnuth/releases/download/v3.2.1/alnuth-3.2.1.tar.gz"

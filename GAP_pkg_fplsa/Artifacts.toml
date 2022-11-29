@@ -1,0 +1,6 @@
+[fplsa]
+git-tree-sha1 = "9a08d90765655a2abab597cbd63792016baa402b"
+
+    [[fplsa.download]]
+    sha256 = "a6fac07a4af350cae94907c22f5c74b7d02effa5aa565ff141a47d9170c9b39a"
+    url = "https://github.com/gap-packages/FPLSA/releases/download/v1.2.5/FPLSA-1.2.5.tar.gz"

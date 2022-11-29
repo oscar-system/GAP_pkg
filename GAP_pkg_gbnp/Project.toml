@@ -1,0 +1,12 @@
+name = "GAP_pkg_gbnp"
+uuid = "ead2d776-d3f8-4a16-9f48-d61fa501b36d"
+authors = ["Max Horn <max@quendi.de>"]
+version = "1.0.5"
+
+[deps]
+GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+GAP = "0.9"
+julia = "1.6"

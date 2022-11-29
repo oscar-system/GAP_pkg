@@ -1,0 +1,6 @@
+[cryst]
+git-tree-sha1 = "fa7e3159a575cd98c2b0e9d5fdf7f63d0234e5e7"
+
+    [[cryst.download]]
+    sha256 = "f784398c06c5ccef550a4ff0767677bdaec3f4dbc744853471ea16accbaacf15"
+    url = "https://www.math.uni-bielefeld.de/~gaehler/gap/Cryst/cryst-4.1.25.tar.gz"

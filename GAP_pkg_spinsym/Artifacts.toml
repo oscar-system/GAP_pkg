@@ -1,0 +1,6 @@
+[spinsym]
+git-tree-sha1 = "9949383ff2d6ec81de7700cf87f54df349d92cd8"
+
+    [[spinsym.download]]
+    sha256 = "700b55f0b00b5578e2de014b286b815777644dde605c60f2095c8555eb508587"
+    url = "https://github.com/gap-packages/spinsym/releases/download/v1.5.2/spinsym-1.5.2.tar.gz"

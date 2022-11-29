@@ -1,0 +1,6 @@
+[generalizedmorphismsforcap]
+git-tree-sha1 = "d45c4d521fd248ceb4fc86748e62bb9c7dcb1a3e"
+
+    [[generalizedmorphismsforcap.download]]
+    sha256 = "84e5f65f7a3455c2f0c16e4d6695af296d9f66bbefb6893dab6bbaecfab07045"
+    url = "https://github.com/homalg-project/CAP_project/releases/download/GeneralizedMorphismsForCAP-2022.11-01/GeneralizedMorphismsForCAP-2022.11-01.tar.gz"

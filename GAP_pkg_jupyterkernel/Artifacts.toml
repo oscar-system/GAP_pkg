@@ -1,0 +1,6 @@
+[jupyterkernel]
+git-tree-sha1 = "caa5c8d3c477fa5d8a861d90ec9c35682c6a743d"
+
+    [[jupyterkernel.download]]
+    sha256 = "e3f7d2ab9d50bdaff6071bd478b6631495e2e46e79ac3328cd064d724a76bedc"
+    url = "https://github.com/gap-packages/JupyterKernel/releases/download/v1.4.1/JupyterKernel-1.4.1.tar.gz"

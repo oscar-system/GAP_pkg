@@ -1,0 +1,6 @@
+[symbcompcc]
+git-tree-sha1 = "cfab89d801f441773f3da3247318825d3122e432"
+
+    [[symbcompcc.download]]
+    sha256 = "3d00760f1670acbc66219d7d72b9be62218e91b14716522d7c1922d6a50cf856"
+    url = "https://github.com/gap-packages/SymbCompCC/releases/download/v1.3.2/SymbCompCC-1.3.2.tar.gz"

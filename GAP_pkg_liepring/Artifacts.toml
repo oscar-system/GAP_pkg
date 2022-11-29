@@ -1,0 +1,6 @@
+[liepring]
+git-tree-sha1 = "81a701d575b1efb726362d20e2341acae6d03793"
+
+    [[liepring.download]]
+    sha256 = "7db4e49e8c619f93d5fc784301a5e1a7ed1a6e607e44ab58248ca0d00d2fc304"
+    url = "https://github.com/gap-packages/liepring/releases/download/v2.8/liepring-2.8.tar.gz"

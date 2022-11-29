@@ -1,0 +1,6 @@
+[grpconst]
+git-tree-sha1 = "8ed96948e75f12af906c84f61ad656a6c2d34541"
+
+    [[grpconst.download]]
+    sha256 = "5116367669dd022d2f288217ed5d491cfe392e5b55c3decc929372211374ca28"
+    url = "https://github.com/gap-packages/grpconst/releases/download/v2.6.3/grpconst-2.6.3.tar.gz"

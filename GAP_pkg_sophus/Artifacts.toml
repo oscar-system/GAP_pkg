@@ -1,0 +1,6 @@
+[sophus]
+git-tree-sha1 = "4c406cd4e2cffb589b4ac16b44584f00befd571d"
+
+    [[sophus.download]]
+    sha256 = "cd7f173d7122b1e72a1f8ae3131e7685cd586dd362bd7efd21fe542fac5411c3"
+    url = "https://github.com/gap-packages/sophus/releases/download/v1.27/sophus-1.27.tar.gz"

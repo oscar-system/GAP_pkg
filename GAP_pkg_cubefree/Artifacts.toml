@@ -1,0 +1,6 @@
+[cubefree]
+git-tree-sha1 = "0bde05c618424437282b2a86febca05247a81b92"
+
+    [[cubefree.download]]
+    sha256 = "993f420922b48c9ab4f7e77c6de50041ebcf1cd6d13376a940ecd84684255676"
+    url = "https://github.com/gap-packages/cubefree/releases/download/v1.19/cubefree-1.19.tar.gz"

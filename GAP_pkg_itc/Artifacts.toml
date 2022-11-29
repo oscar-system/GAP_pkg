@@ -1,0 +1,6 @@
+[itc]
+git-tree-sha1 = "dba572f45d162daa9e0f1137b520eca1e73565d9"
+
+    [[itc.download]]
+    sha256 = "19875fb3407fbda5f3696114d2a381fedacbfae6df311f928c49887ce8b18675"
+    url = "https://github.com/gap-packages/itc/releases/download/v1.5.1/itc-1.5.1.tar.gz"

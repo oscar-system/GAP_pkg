@@ -1,0 +1,6 @@
+[quagroup]
+git-tree-sha1 = "3d38ed092b9396b54ec603f1b67829d7f9c1578f"
+
+    [[quagroup.download]]
+    sha256 = "b0ae5089e42d19be4c15e7422d3d4c94c0e79c533511a67b50ddc33630b12b56"
+    url = "https://github.com/gap-packages/quagroup/releases/download/v1.8.3/quagroup-1.8.3.tar.gz"

@@ -1,0 +1,6 @@
+[autpgrp]
+git-tree-sha1 = "dbf049a57136ecb5705a39bb8862c8696124ba2a"
+
+    [[autpgrp.download]]
+    sha256 = "ade6c143b5b9b03c5c4c5b121732287146aa79d40de53d5383383c76f8cc1eb2"
+    url = "https://github.com/gap-packages/autpgrp/releases/download/v1.11/autpgrp-1.11.tar.gz"

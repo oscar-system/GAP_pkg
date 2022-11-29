@@ -1,0 +1,6 @@
+[recog]
+git-tree-sha1 = "499f8e887617001e5270da49ecff3ced1f2bbdad"
+
+    [[recog.download]]
+    sha256 = "a3d91f4b9155418d75e0f98f453d5a11af4092882c6b830a5e96ac4dad90a1f6"
+    url = "https://github.com/gap-packages/recog/releases/download/v1.4.2/recog-1.4.2.tar.bz2"

@@ -1,0 +1,6 @@
+[sla]
+git-tree-sha1 = "63a25888ae13eca61c2bf400059d0fbb1b62bcc3"
+
+    [[sla.download]]
+    sha256 = "debcc69d2815dce644d7150987d7c1059127f7db1c668167880d272caaea09d5"
+    url = "https://github.com/gap-packages/sla/releases/download/v1.5.3/sla-1.5.3.tar.gz"

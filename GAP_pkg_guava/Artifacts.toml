@@ -1,0 +1,6 @@
+[guava]
+git-tree-sha1 = "40a69ae359ab56a73601c3a7273bee3dac17f500"
+
+    [[guava.download]]
+    sha256 = "4f5b2495ac44684bc6318d52ed25e934aff05a14a8e24add242e167c461624a8"
+    url = "https://github.com/gap-packages/guava/releases/download/v3.17/guava-3.17.tar.gz"

@@ -1,0 +1,6 @@
+[io_forhomalg]
+git-tree-sha1 = "c39eca28e40de437c167782ec369a166771e655b"
+
+    [[io_forhomalg.download]]
+    sha256 = "282f945407b84300017b3783e4a7ec10751409fb98755b1327d9d3450dfe6e4e"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/IO_ForHomalg-2022.11-01/IO_ForHomalg-2022.11-01.tar.gz"

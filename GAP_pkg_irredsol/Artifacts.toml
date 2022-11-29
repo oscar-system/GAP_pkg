@@ -1,0 +1,6 @@
+[irredsol]
+git-tree-sha1 = "a9f1d456b752a9af625cc9765a08533f394efab9"
+
+    [[irredsol.download]]
+    sha256 = "2e1f79f5da5b268f6ffd64f67ff60c1292653535672ce51b91c057cd781bbe98"
+    url = "https://github.com/bh11/irredsol/releases/download/IRREDSOL-1.4.4/irredsol-1.4.4.tar.bz2"

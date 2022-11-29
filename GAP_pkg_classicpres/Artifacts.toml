@@ -1,0 +1,6 @@
+[classicpres]
+git-tree-sha1 = "d2659aaf387ff675758d0b4c39ac143df9172386"
+
+    [[classicpres.download]]
+    sha256 = "d85d4a0ce522ae1dd74c015b794f0dab1e6568631d1834f1b769a6ac14c941fd"
+    url = "http://www.math.colostate.edu/~hulpke/classicpres/classicpres1.22.tar.gz"

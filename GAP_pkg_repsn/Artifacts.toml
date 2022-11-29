@@ -1,0 +1,6 @@
+[repsn]
+git-tree-sha1 = "25fdc564be5a0af4ac26b99a727a25b7b44460a5"
+
+    [[repsn.download]]
+    sha256 = "ea2c3e3b4193ded61b95704cdd4bdfab30deb740810d0a23129e690037ecdd2e"
+    url = "https://github.com/gap-packages/repsn/releases/download/v3.1.0/repsn-3.1.0.tar.gz"

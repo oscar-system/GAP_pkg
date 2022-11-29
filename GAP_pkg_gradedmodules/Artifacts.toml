@@ -1,0 +1,6 @@
+[gradedmodules]
+git-tree-sha1 = "177113e2f4e8ae42caeb5a0b265cfd5b0c29ab0f"
+
+    [[gradedmodules.download]]
+    sha256 = "cc6e4696b5930926e4fe0e53df142adfda6e6cb8b0d080261c5777f9b75d2daa"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/GradedModules-2022.09-02/GradedModules-2022.09-02.tar.gz"

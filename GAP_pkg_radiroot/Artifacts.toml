@@ -1,0 +1,6 @@
+[radiroot]
+git-tree-sha1 = "320d3c960ad89c90b5adc307e65fab5c1a7ecc92"
+
+    [[radiroot.download]]
+    sha256 = "9a14209632490ab1149022165c2936f57cb7044293ffb2aef0580b3d4085eb8a"
+    url = "https://github.com/gap-packages/radiroot/releases/download/v2.9/radiroot-2.9.tar.gz"

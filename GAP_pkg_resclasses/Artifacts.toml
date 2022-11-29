@@ -1,0 +1,6 @@
+[resclasses]
+git-tree-sha1 = "9cc64af17cb93bcc63c6716176b6ca83401cd54e"
+
+    [[resclasses.download]]
+    sha256 = "633c0300084f568a21c554c40d7dfc0a344e4de8eb16ca220724a7b44e0bd521"
+    url = "https://github.com/gap-packages/resclasses/releases/download/v4.7.3/resclasses-4.7.3.tar.gz"

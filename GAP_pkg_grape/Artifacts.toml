@@ -1,0 +1,6 @@
+[grape]
+git-tree-sha1 = "4f60b43ec73d849970faf6d8191f6bcf2654649b"
+
+    [[grape.download]]
+    sha256 = "affc932da0887aba1aa27e22e82f48908b8065ecf5e3c79952b4867743f6f413"
+    url = "https://github.com/gap-packages/grape/releases/download/v4.8.5/grape-4.8.5.tar.gz"

@@ -1,0 +1,6 @@
+[4ti2interface]
+git-tree-sha1 = "ed988e64138b752e00a1a15e9f3b24bdb7676f87"
+
+    [[4ti2interface.download]]
+    sha256 = "fbfc0d30b1ab6a107a564765b3e1b2075f87b7e3358db72ec108a560c5393cdd"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/4ti2Interface-2022.09-01/4ti2Interface-2022.09-01.tar.gz"

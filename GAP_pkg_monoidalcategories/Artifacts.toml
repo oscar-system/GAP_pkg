@@ -1,0 +1,6 @@
+[monoidalcategories]
+git-tree-sha1 = "7eecd5d1e8a36006f28cce4402e2efedea153b5c"
+
+    [[monoidalcategories.download]]
+    sha256 = "4fdd1794db0e0ef22dac49ab4e45aebf8a177bd4c489e182c85f1877825358a7"
+    url = "https://github.com/homalg-project/CAP_project/releases/download/MonoidalCategories-2022.11-05/MonoidalCategories-2022.11-05.tar.gz"

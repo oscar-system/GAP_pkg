@@ -1,0 +1,6 @@
+[singular]
+git-tree-sha1 = "02d9f270c4846e6a272f8e660e7448235fee7ea2"
+
+    [[singular.download]]
+    sha256 = "d055498079489bf74bf79a410019398330c67d57673a04d4c57fe2f939f47ad0"
+    url = "https://github.com/gap-packages/singular/releases/download/v2022.09.23/singular-2022.09.23.tar.gz"

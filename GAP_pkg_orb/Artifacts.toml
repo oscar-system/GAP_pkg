@@ -1,0 +1,6 @@
+[orb]
+git-tree-sha1 = "0163560bba1d64a3f5196ed3cba43cad2496151e"
+
+    [[orb.download]]
+    sha256 = "a1f81707743cbbf5eddecf0b195293b308987f17c7795690c65b5e4a92dfbc1f"
+    url = "https://github.com/gap-packages/orb/releases/download/v4.9.0/orb-4.9.0.tar.gz"

@@ -1,0 +1,6 @@
+[autodoc]
+git-tree-sha1 = "223492564e01ccad4be45b4aad3d3c67125e0f65"
+
+    [[autodoc.download]]
+    sha256 = "3eea38eeb4d1dc20cd74c3a213ed30a18e1480dd1f5a9ef999f639e885b93a5e"
+    url = "https://github.com/gap-packages/AutoDoc/releases/download/v2022.10.20/AutoDoc-2022.10.20.tar.gz"

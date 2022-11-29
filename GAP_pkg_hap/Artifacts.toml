@@ -1,0 +1,6 @@
+[hap]
+git-tree-sha1 = "f7556eee3364b3764eac4d34a1ef338f4276cd28"
+
+    [[hap.download]]
+    sha256 = "dc5aaaaa4b0c793a8192db2cc7182b044301d26ccb3abf619d31fd95b038cd68"
+    url = "https://github.com/gap-packages/hap/releases/download/v1.47/hap-1.47.tar.gz"

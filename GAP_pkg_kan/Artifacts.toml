@@ -1,0 +1,6 @@
+[kan]
+git-tree-sha1 = "0e7c5db2b5b2dc57eb09ba3a96999706a0eec735"
+
+    [[kan.download]]
+    sha256 = "f0e6fb53a4b5e6a6e698213a875ff43d53fae0c4f1a0efc8daacc5e975067e86"
+    url = "https://github.com/gap-packages/kan/releases/download/v1.34/kan-1.34.tar.gz"

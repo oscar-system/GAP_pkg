@@ -1,0 +1,6 @@
+[cohomolo]
+git-tree-sha1 = "5be07cccb8f5da617d57bb4e5909088268d22f17"
+
+    [[cohomolo.download]]
+    sha256 = "4c114eea27e54c26001f428ac6b4b92ca9620869dda367112fd1cfbf98e5b5e1"
+    url = "https://github.com/gap-packages/cohomolo/releases/download/v1.6.10/cohomolo-1.6.10.tar.gz"

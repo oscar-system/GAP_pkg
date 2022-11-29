@@ -1,0 +1,12 @@
+name = "GAP_pkg_hapcryst"
+uuid = "06f10aca-b50c-4449-afaa-6027349b56bf"
+authors = ["Max Horn <max@quendi.de>"]
+version = "0.1.15"
+
+[deps]
+GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+GAP = "0.9"
+julia = "1.6"

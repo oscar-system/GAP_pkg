@@ -1,0 +1,6 @@
+[walrus]
+git-tree-sha1 = "9b84b65e31ef4f3b64f1dfb98f90bd1381df5853"
+
+    [[walrus.download]]
+    sha256 = "53f9169ac7ebd7a0ac35597a31620ab0a7e2d8d096784f47e0ad1f93145bf84d"
+    url = "https://github.com/gap-packages/walrus/releases/download/v0.9991/walrus-0.9991.tar.gz"

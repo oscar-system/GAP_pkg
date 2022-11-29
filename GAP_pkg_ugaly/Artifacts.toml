@@ -1,0 +1,6 @@
+[ugaly]
+git-tree-sha1 = "86593023e1200edaad83ffb74d8e7de2ca8b4a26"
+
+    [[ugaly.download]]
+    sha256 = "741a65ca43fc81dff5d7c2181d47612006579dd67b54fb74aca30cb04bc5acd4"
+    url = "https://github.com/gap-packages/UGALY/releases/download/v4.0.3/UGALY-4.0.3.tar.gz"

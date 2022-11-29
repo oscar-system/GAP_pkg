@@ -1,0 +1,6 @@
+[jupyterviz]
+git-tree-sha1 = "a75bfef9b41abb362e8b6875d0c8b71b4ebf43ae"
+
+    [[jupyterviz.download]]
+    sha256 = "e9cb319ad599643259b8e8bb680a8a293fb29db2aff2b27cd8c358351b4d00f1"
+    url = "https://github.com/nathancarter/jupyterviz/releases/download/v1.5.6/jupyterviz-1.5.6.tar.gz"

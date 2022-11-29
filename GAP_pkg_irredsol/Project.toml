@@ -1,0 +1,12 @@
+name = "GAP_pkg_irredsol"
+uuid = "b6fd3638-9d77-441f-9a0a-73fadc3b9c2d"
+authors = ["Max Horn <max@quendi.de>"]
+version = "1.4.4"
+
+[deps]
+GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+GAP = "0.9"
+julia = "1.6"

@@ -1,0 +1,6 @@
+[toricvarieties]
+git-tree-sha1 = "8b9d4ab53becea6f8b2f5cb3f4a9de5ec80a488e"
+
+    [[toricvarieties.download]]
+    sha256 = "b438b60220e25a32717daa31ebdd953e434ffdeb133519284fe050916b37f0b1"
+    url = "https://github.com/homalg-project/ToricVarieties_project/releases/download/2022-07-13/ToricVarieties-2022.07.13.tar.gz"

@@ -1,0 +1,6 @@
+[kbmag]
+git-tree-sha1 = "ec0f0420349e1a5512ee36a11b270a88c113af0c"
+
+    [[kbmag.download]]
+    sha256 = "99e32540a97a65c1577e8a3b0ef19e067b464b2517df3a78311a2a7fffd9f9e6"
+    url = "https://github.com/gap-packages/kbmag/releases/download/v1.5.10/kbmag-1.5.10.tar.gz"

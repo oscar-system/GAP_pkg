@@ -1,0 +1,6 @@
+[mapclass]
+git-tree-sha1 = "62ce213993e347fe271d247d046ec2d977bc84f2"
+
+    [[mapclass.download]]
+    sha256 = "ec8cffca7e543662c522f0f6412cf994dc5fbe439d333f5f11e22923655b9c4e"
+    url = "https://github.com/gap-packages/MapClass/releases/download/v1.4.6/MapClass-1.4.6.tar.gz"

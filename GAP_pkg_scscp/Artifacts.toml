@@ -1,0 +1,6 @@
+[scscp]
+git-tree-sha1 = "837fd8be6fb7a82334d1c9a6419c0cac3657dc2e"
+
+    [[scscp.download]]
+    sha256 = "f316ff03a19ad4cc2982e9126e5facf5e296b25250e99cc3c5eddca2b9b5c5ff"
+    url = "https://github.com/gap-packages/scscp/releases/download/v2.3.1/SCSCP-2.3.1.tar.gz"

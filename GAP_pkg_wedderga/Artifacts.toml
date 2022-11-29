@@ -1,0 +1,6 @@
+[wedderga]
+git-tree-sha1 = "41cb2936c9b881325ef5ada3e2a8a338a99bc220"
+
+    [[wedderga.download]]
+    sha256 = "f47e4750eb4df8d0936262a27f512921081cfdbb2a8b0f58c7cbab3cde4ae6df"
+    url = "https://github.com/gap-packages/wedderga/releases/download/v4.10.2/wedderga-4.10.2.tar.gz"

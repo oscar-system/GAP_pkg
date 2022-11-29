@@ -1,0 +1,6 @@
+[liealgdb]
+git-tree-sha1 = "4631d89651457a9dc5441a978a2aac380e3eda2d"
+
+    [[liealgdb.download]]
+    sha256 = "378ee7dc82fde2e2e7fccf60bf6a92eb3fcefa9a05057f9404f7cc551968c427"
+    url = "https://github.com/gap-packages/liealgdb/releases/download/v2.2.1/liealgdb-2.2.1.tar.gz"

@@ -1,0 +1,6 @@
+[polenta]
+git-tree-sha1 = "1c645652101d0430827cb16c480c415e616eb4bd"
+
+    [[polenta.download]]
+    sha256 = "ac56bf90c26f39fc0d7af4158406c49b4d2a2948e7a82140c063076af36122c7"
+    url = "https://github.com/gap-packages/polenta/releases/download/v1.3.10/polenta-1.3.10.tar.bz2"

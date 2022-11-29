@@ -1,0 +1,6 @@
+[modulepresentationsforcap]
+git-tree-sha1 = "007685fa406917eb3bc614751d89ff28535ff98c"
+
+    [[modulepresentationsforcap.download]]
+    sha256 = "8f1007f0905387c0855cb6b917a352b996b51a06541b96628d7bb2c93ffde93b"
+    url = "https://github.com/homalg-project/CAP_project/releases/download/ModulePresentationsForCAP-2022.11-02/ModulePresentationsForCAP-2022.11-02.tar.gz"

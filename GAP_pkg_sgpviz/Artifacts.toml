@@ -1,0 +1,6 @@
+[sgpviz]
+git-tree-sha1 = "a8bd5fccce3c390ec8991845a1203462f32f24f1"
+
+    [[sgpviz.download]]
+    sha256 = "3a84588ff942b20930918be1ed82397da5cf2da2342f34d7d5462044c2758f52"
+    url = "https://github.com/gap-packages/sgpviz/releases/download/v0.999.5/SgpViz-0.999.5.tar.gz"

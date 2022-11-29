@@ -1,0 +1,6 @@
+[corelg]
+git-tree-sha1 = "57d7906b0359b53d112ef927909f652117c1361c"
+
+    [[corelg.download]]
+    sha256 = "06ee7fc8faf147e38f61a01c0178b061ed37f922dce4f065c6451f179865185f"
+    url = "https://github.com/gap-packages/corelg/releases/download/v1.56/corelg-1.56.tar.gz"

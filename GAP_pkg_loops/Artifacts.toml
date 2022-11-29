@@ -1,0 +1,6 @@
+[loops]
+git-tree-sha1 = "a570051e454b37c3cd12a6edd8ed87ee65c66f5b"
+
+    [[loops.download]]
+    sha256 = "494efed928bfa46d85944f08216cbd01a67e40dd82207a7b36cda1edb3fcf4cc"
+    url = "https://github.com/gap-packages/loops/releases/download/v3.4.3/loops-3.4.3.tar.gz"

@@ -1,0 +1,6 @@
+[smallsemi]
+git-tree-sha1 = "9c8880c3c6a92cc552f6bbe13f6225b0615410c8"
+
+    [[smallsemi.download]]
+    sha256 = "478cac504a429c9a7ccb00d2ad0abd383730cfccf1cde8c802aa4a42f809af78"
+    url = "https://github.com/gap-packages/smallsemi/releases/download/v0.6.13/smallsemi-0.6.13.tar.gz"

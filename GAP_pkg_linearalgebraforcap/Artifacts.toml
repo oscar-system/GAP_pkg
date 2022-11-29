@@ -1,0 +1,6 @@
+[linearalgebraforcap]
+git-tree-sha1 = "737c5d6b50c07347baceff7ad07f2aff3ee7748b"
+
+    [[linearalgebraforcap.download]]
+    sha256 = "5de0c681d130ddabf5c4d9524081c6424aba9405decc55025feccf5307e7934a"
+    url = "https://github.com/homalg-project/CAP_project/releases/download/LinearAlgebraForCAP-2022.11-07/LinearAlgebraForCAP-2022.11-07.tar.gz"

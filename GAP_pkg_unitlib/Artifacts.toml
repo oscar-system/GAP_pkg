@@ -1,0 +1,6 @@
+[unitlib]
+git-tree-sha1 = "8691f8611a8106666cc825c54f01ee903f5295e1"
+
+    [[unitlib.download]]
+    sha256 = "fbc3f89b1011c1d418dacb8a77f1fe15e1b2ae883c00c873a04e488a17af5ada"
+    url = "https://github.com/gap-packages/unitlib/releases/download/v4.1.0/unitlib-4.1.0.tar.gz"

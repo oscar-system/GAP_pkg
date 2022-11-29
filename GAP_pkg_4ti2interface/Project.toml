@@ -1,0 +1,12 @@
+name = "GAP_pkg_4ti2interface"
+uuid = "fbb5b279-2f8b-4c1e-8221-2eda3b79494e"
+authors = ["Max Horn <max@quendi.de>"]
+version = "2022.9.1"
+
+[deps]
+GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+
+[compat]
+GAP = "0.9"
+julia = "1.6"

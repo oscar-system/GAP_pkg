@@ -1,0 +1,6 @@
+[guarana]
+git-tree-sha1 = "e16a454c20f6e33ef785702b51225f594faeb17d"
+
+    [[guarana.download]]
+    sha256 = "14b487e9663bb0ad59aea03e2361631eb093f20f647b2574b31a05002eab12ed"
+    url = "https://github.com/gap-packages/guarana/releases/download/v0.96.3/guarana-0.96.3.tar.gz"

@@ -1,0 +1,6 @@
+[json]
+git-tree-sha1 = "e0213c3b867c58d2a7cdc906558d1fb389c04931"
+
+    [[json.download]]
+    sha256 = "b126fa3a76bbe050b261fd5ee415b46f14e9edbb67598ef45dc3f9c8ed8a9eb1"
+    url = "https://github.com/gap-packages/json/releases/download/v2.1.1/json-2.1.1.tar.gz"

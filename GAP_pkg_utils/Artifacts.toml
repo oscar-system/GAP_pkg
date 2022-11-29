@@ -1,0 +1,6 @@
+[utils]
+git-tree-sha1 = "80ade3d76934586ce0a6dcd57649f6bb18517fed"
+
+    [[utils.download]]
+    sha256 = "a65f1fc739020c09e92d789db319fc0c39e9aa24914be936c2e49fc587d57bdc"
+    url = "https://github.com/gap-packages/utils/releases/download/v0.78/utils-0.78.tar.gz"
