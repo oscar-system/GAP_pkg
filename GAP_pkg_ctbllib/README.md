@@ -1,12 +1,11 @@
-# GAP_pkg_io
+# GAP_pkg_ctbllib
 
-This is generated wrapper package for the GAP package IO 4.8.0.
+This is generated wrapper package for the GAP package CTblLib 1.3.4.
 
 ## Issues
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.
 
-Report general issues with the GAP package at <https://github.com/gap-packages/io/issues>.
 
 ## License
 

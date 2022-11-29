@@ -1,12 +1,12 @@
-# GAP_pkg_cvec
+# GAP_pkg_gapdoc
 
-This is generated wrapper package for the GAP package cvec 2.7.6.
+This is generated wrapper package for the GAP package GAPDoc 1.6.6.
 
 ## Issues
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.
 
-Report general issues with the GAP package at <https://github.com/gap-packages/cvec/issues>.
+Report general issues with the GAP package at <https://github.com/frankluebeck/GAPDoc/issues>.
 
 ## License
 

@@ -17,5 +17,4 @@ function load()
         error("failed to load GAP package factint")
     end
 end
-
 end # module

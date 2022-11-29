@@ -1,6 +1,6 @@
 [ferret]
-git-tree-sha1 = "d3456ac72966100a15564a9c4bb4099873c453de"
+git-tree-sha1 = "d01bb8959e6f22e59e06a32bc8ecff30c146b9a6"
 
     [[ferret.download]]
-    sha256 = "08ae9cd65c5e086962ca9025d5d51e03b1cc1ccaa39f52aeeff47bf79c6c17e8"
-    url = "https://github.com/gap-packages/ferret/releases/download/v1.0.5/ferret-1.0.5.tar.gz"
+    sha256 = "ec332222e2858410f861b0b184fab13aaf251e7c91977e45f7bb9dfd3a56e424"
+    url = "https://github.com/gap-packages/ferret/releases/download/v1.0.9/ferret-1.0.9.tar.gz"

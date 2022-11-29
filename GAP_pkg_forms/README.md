@@ -1,12 +1,12 @@
-# GAP_pkg_cvec
+# GAP_pkg_forms
 
-This is generated wrapper package for the GAP package cvec 2.7.6.
+This is generated wrapper package for the GAP package Forms 1.2.9.
 
 ## Issues
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.
 
-Report general issues with the GAP package at <https://github.com/gap-packages/cvec/issues>.
+Report general issues with the GAP package at <https://github.com/gap-packages/forms/issues>.
 
 ## License
 

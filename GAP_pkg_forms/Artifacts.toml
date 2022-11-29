@@ -1,0 +1,6 @@
+[forms]
+git-tree-sha1 = "2630d2c4a00a46ee8cccb1bc73ba3e8884c18309"
+
+    [[forms.download]]
+    sha256 = "a6ead2003887a5f460ee97e1102c6b53d90184611673de9f10a2e99490152836"
+    url = "https://github.com/gap-packages/forms/releases/download/v1.2.9/forms-1.2.9.tar.bz2"
