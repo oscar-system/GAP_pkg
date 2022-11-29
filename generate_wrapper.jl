@@ -57,11 +57,15 @@ function lookup_pkg(pkgname::String)
 end
 
 function parse_gap_pkg_version(vstr::String)
-    # deal with Homalg/CAP versions of the form 2022.11-04
+    # deal with Homalg/CAP versions of the form 2022.11-17
     vstr = replace(vstr, "-" => ".")
     v = VersionNumber(vstr)
-    if vstr != string(v) && vstr*".0" != string(v)
-        error("failed to handle GAP package version $vstr (parsed to $v)")
+
+    # we now check if the conversion was "faithful". Take special
+    # care to identify "1.2" with "1.2.0", and "1.2.04" with "1.2.4"
+    reduced_vstr = replace(vstr, r"\.0(\d)" => s".\1")
+    if reduced_vstr != string(v) && reduced_vstr*".0" != string(v)
+        error("failed to handle GAP package version $reduced_vstr (parsed to $v)")
     end
     return v
 end
