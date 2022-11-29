@@ -6,13 +6,16 @@
 # output: generate / update
 using ArtifactUtils
 using Downloads
-using GAP
+#using GAP
 using Pkg
+using JSON
+using LocalRegistry
 
-# GAP.jl version to require as compat
-GAP_jl_version = "v0.7.2"
+# GAP.jl compat string for use in Project.toml
+GAP_jl_version = "0.9"
 
 
+#=
 """
     parse_pkginfo(pkginfopath::String)
 
@@ -26,14 +29,15 @@ function parse_pkginfo(pkginfopath::String)
     @assert GAP.Globals.IsRecord(r)
 
     # convert the record, but skip AvailabilityTest or anything else bound to a function
-    pkginfo = Dict{Symbol,Any}()
-    for key in Vector{Symbol}(GAP.Globals.RecNames(r))
+    pkginfo = Dict{String,Any}()
+    for key in Vector{String}(GAP.Globals.RecNames(r))
         val = getproperty(r, key)
         GAP.Globals.IsFunction(val) && continue
         pkginfo[key] = GAP.gap_to_julia(val; recursive = true)
     end
     return pkginfo
 end
+=#
 
 """
     lookup_pkg(pkgname::String)
@@ -52,17 +56,22 @@ function lookup_pkg(pkgname::String)
     return first(uuids)
 end
 
+function parse_gap_pkg_version(vstr::String)
+    # deal with Homalg/CAP versions of the form 2022.11-04
+    vstr = replace(vstr, "-" => ".")
+    v = VersionNumber(vstr)
+    if vstr != string(v) && vstr*".0" != string(v)
+        error("failed to handle GAP package version $vstr (parsed to $v)")
+    end
+    return v
+end
 
-# given the path to a GAP package directory,
-function update_pkg(pkgpath::String)
-
-    # read PackageInfo.g
-    isdir(pkgpath) || error("$path is not a directory")
-    pkginfopath = joinpath(pkgpath, "PackageInfo.g")
-    pkginfo = parse_pkginfo(pkginfopath)
+# given a pkginfo record from package-infos.json, generate resp.
+# update the corresponding Julia wrapper
+function update_pkg(pkginfo)
 
     # get the names of the GAP package and the corresponding Julia package
-    gap_pkgname = pkginfo[:PackageName]
+    gap_pkgname = pkginfo["PackageName"]
     pkgname = lowercase(gap_pkgname)
     julia_pkgname = "GAP_pkg_$(pkgname)"
 
@@ -76,12 +85,12 @@ function update_pkg(pkgpath::String)
     #
     projpath = "$(julia_pkgname)/Project.toml"
     proj = Pkg.Types.read_project(projpath)
+    @assert proj.name == julia_pkgname
+    proj.version = parse_gap_pkg_version(pkginfo["Version"])
     proj.deps["Pkg"] = Base.UUID("44cfe95a-1eb2-52ea-b672-e2afdf69b78f")
     proj.deps["GAP"] = lookup_pkg("GAP")
-    proj.compat["GAP"] = "0.7" # FIXME adjust this sometimes? but when / who does it?
-    proj.compat["julia"] = "1.6"
-
-    println("TODO: adjust version...")
+    Pkg.Operations.set_compat(proj, "GAP", GAP_jl_version)
+    Pkg.Operations.set_compat(proj, "julia", "1.6")
 
     #
     # check if there is a corresponding JLL; if so, add it as a dependency
@@ -113,11 +122,33 @@ function update_pkg(pkgpath::String)
     #
     # generate README.md
     #
+    if haskey(pkginfo, "IssueTrackerURL")
+        issue_tracker = pkginfo["IssueTrackerURL"]
+        issue_tracker= "\nReport general issues with the GAP package at <$issue_tracker>."
+    else
+        issue_tracker = ""
+    end
+    if haskey(pkginfo, "License")
+        license = pkginfo["License"]
+    else
+        license = "unknown"
+    end
     open(joinpath(julia_pkgname, "README.md"), "w") do f
        write(f,"""
        # $(julia_pkgname)
 
-       This is generated wrapper package for the GAP package $(gap_pkgname) $(pkginfo[:Version]).
+       This is generated wrapper package for the GAP package $(gap_pkgname) $(pkginfo["Version"]).
+       
+       ## Issues
+       
+       Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.
+       $(issue_tracker)
+       
+       ## License
+       
+       This wrapper is under the MIT license (see file `LICENSE`).
+       
+       The license of the wrapped GAP package is $(license).
        """)
    end
 
@@ -129,8 +160,8 @@ function update_pkg(pkgpath::String)
     #
     # add the package tarball as an artifact
     #
-    url = pkginfo[:ArchiveURL]
-    types = split(pkginfo[:ArchiveFormats], " ")
+    url = pkginfo["ArchiveURL"]
+    types = split(pkginfo["ArchiveFormats"], " ")
     if ".tar.bz2" in types
         url *= ".tar.bz2"
     elseif ".tar.gz" in types
@@ -212,3 +243,19 @@ function update_pkg(pkgpath::String)
 
     return nothing
 end
+
+# TODO: add special data to implement overrides, to ...
+# - break dependency cycles (e.g. polycyclic <-> alnuth)
+# - add in use of JLLs were available (TODO: or perhaps this can be automated???)
+# ...
+
+function parse_package_infos(fname::String = "package-infos.json")
+    println("Parsing $fname")
+    pkgs = JSON.parsefile("package-infos.json")
+    for (name, pkginfo) in pkgs
+        println("Processing '$name'")
+        #update_pkg(pkginfo)
+    end
+end
+
+nothing
