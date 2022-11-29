@@ -254,11 +254,21 @@ end
 # ...
 
 function parse_package_infos(fname::String = "package-infos.json")
-    println("Parsing $fname")
     pkgs = JSON.parsefile("package-infos.json")
     for (name, pkginfo) in pkgs
         println("Processing '$name'")
-        #update_pkg(pkginfo)
+        update_pkg(pkginfo)
+    end
+end
+
+function add_all_to_registry(names::Vector{String} = String[])
+    if isempty(names)
+        pkgs = JSON.parsefile("package-infos.json")
+        names = colllect(keys(pkgs))
+    end
+    for name in names
+        println("Processing '$name'")
+        LocalRegistry.register("./GAP_pkg_$(name)" ; registry="GAP_Registry")
     end
 end
 
