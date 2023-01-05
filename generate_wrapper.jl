@@ -14,31 +14,6 @@ using LocalRegistry
 # GAP.jl compat string for use in Project.toml
 GAP_jl_version = "0.9"
 
-
-#=
-"""
-    parse_pkginfo(pkginfopath::String)
-
-Given the path `pkginfopath` to a GAP `PackageInfo.g` file, read it (or as
-much of it as possible, anyway) into a Julia dict which is returned.
-"""
-function parse_pkginfo(pkginfopath::String)
-    isfile(pkginfopath) || error("$pkginfopath is not a regular file")
-    GAP.Globals.Read(GapObj(pkginfopath))
-    r = GAP.Globals.GAPInfo.PackageInfoCurrent
-    @assert GAP.Globals.IsRecord(r)
-
-    # convert the record, but skip AvailabilityTest or anything else bound to a function
-    pkginfo = Dict{String,Any}()
-    for key in Vector{String}(GAP.Globals.RecNames(r))
-        val = getproperty(r, key)
-        GAP.Globals.IsFunction(val) && continue
-        pkginfo[key] = GAP.gap_to_julia(val; recursive = true)
-    end
-    return pkginfo
-end
-=#
-
 """
     lookup_pkg(pkgname::String)
 
@@ -101,6 +76,10 @@ function update_pkg(pkginfo)
     #
     jllname = "$(julia_pkgname)_jll"
     jlluuid = lookup_pkg(jllname)
+    if jlluuid !== nothing
+        proj.deps[jllname] = jlluuid
+        proj.deps["BinaryWrappers"] = lookup_pkg("BinaryWrappers")
+    end
     # TODO: can we automatically "guess" the corresponding version
     # of the JLL?? maybe in some cases, but not always...
 
@@ -141,7 +120,7 @@ function update_pkg(pkginfo)
        write(f,"""
        # $(julia_pkgname)
 
-       This is generated wrapper package for the GAP package $(gap_pkgname) $(pkginfo["Version"]).
+       This is a generated Julia wrapper package for the GAP package $(gap_pkgname) $(pkginfo["Version"]).
        
        ## Issues
        
@@ -181,18 +160,27 @@ function update_pkg(pkginfo)
     #
     mkpath("$(julia_pkgname)/src")
 
+    # NOTE: the following code assumes that no GAP package contains both a kernel
+    # extension *and* executables. If this ever happens, we could make it possible
+    # by using @generate_wrappers and then putting a symlink to the kext into bindir.
     jlluuid !== nothing && open(joinpath(julia_pkgname, "src", "jll.jl"), "w") do f
         write(f,"""
         module JLL
 
         using GAP
+        using BinaryWrappers
         using $jllname
+
+        const bindir = if isdir(joinpath($jllname.find_artifact_dir(), "bin"))
+                           @generate_wrappers($jllname)
+                       else
+                           joinpath($jllname.find_artifact_dir(), "lib", "gap")
+                       end
 
         function __init__()
             # ensure GAP finds kernel extensions or other binaries
-            sopath = joinpath($jllname.find_artifact_dir(), "lib", "gap")
-            @debug "GAP package '$pkgname' sopath = " * sopath
-            setproperty!(GAP.Globals.DirectoriesPackageProgramsOverrides, :$pkgname, GapObj(sopath))
+            @debug "GAP package '$pkgname' bindir = \$bindir"
+            setproperty!(GAP.Globals.DirectoriesPackageProgramsOverrides, :$pkgname, GapObj(bindir))
         end
 
         end # module
