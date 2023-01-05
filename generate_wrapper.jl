@@ -10,6 +10,7 @@ using Downloads
 using Pkg
 using JSON
 using LocalRegistry
+using TOML
 
 # GAP.jl compat string for use in Project.toml
 GAP_jl_version = "0.9"
@@ -117,22 +118,35 @@ function update_pkg(pkginfo)
         license = "unknown"
     end
     open(joinpath(julia_pkgname, "README.md"), "w") do f
-       write(f,"""
-       # $(julia_pkgname)
+        write(f,"""
+        # $(julia_pkgname)
 
-       This is a generated Julia wrapper package for the GAP package $(gap_pkgname) $(pkginfo["Version"]).
-       
-       ## Issues
-       
-       Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.
-       $(issue_tracker)
-       
-       ## License
-       
-       This wrapper is under the MIT license (see file `LICENSE`).
-       
-       The license of the wrapped GAP package is $(license).
-       """)
+        This is a generated Julia wrapper package for the GAP package $(gap_pkgname) $(pkginfo["Version"]).
+
+        ## Usage
+
+        Using $(gap_pkgname) in your Julia session for technical reasons requires two steps:
+
+            using $(julia_pkgname)
+            $(julia_pkgname).load()
+
+        This is necessary to deal with difference between how GAP and Julia
+        resolve dependencies between packages. In addition, it allows passings
+        arguments to load. For example:
+
+            $(julia_pkgname).load(banner=true, onlyneeded=false)
+
+        ## Issues
+
+        Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.
+        $(issue_tracker)
+
+        ## License
+
+        This wrapper is under the MIT license (see file `LICENSE`).
+
+        The license of the wrapped GAP package is $(license).
+        """)
    end
 
     #
@@ -145,15 +159,16 @@ function update_pkg(pkginfo)
     #
     url = pkginfo["ArchiveURL"]
     types = split(pkginfo["ArchiveFormats"], " ")
-    if ".tar.bz2" in types
-        url *= ".tar.bz2"
-    elseif ".tar.gz" in types
-        url *= ".tar.gz"
-    else
-        url *= first(types)
-    end
+    url *= first(types)  # this matches what the PackageDistro does, and allow us to use ArchiveSHA256
     artifacts_toml = joinpath(julia_pkgname, "Artifacts.toml")
-    ArtifactUtils.add_artifact!(artifacts_toml, pkgname, url; force=true)
+
+    # determine whether the artifact needs to be updated
+    arti = TOML.parsefile(artifacts_toml)
+    sha256 = pkginfo["ArchiveSHA256"]
+    d = Dict("sha256" => sha256, "url" => url)
+    if !(d in arti[pkgname]["download"])
+        ArtifactUtils.add_artifact!(artifacts_toml, pkgname, url; force=true)
+    end
 
     #
     # generate source code
@@ -194,9 +209,15 @@ function update_pkg(pkginfo)
         """
     end
 
+    TRI = "\"\"\"" # HACK to get triple quote strings inside triple quoted strings
     open(joinpath(julia_pkgname, "src", "$(julia_pkgname).jl"), "w") do f
         write(f,"""
         # ATTENTION: This file was generated, do not edit by hand.
+        $TRI
+            $julia_pkgname
+
+        A wrapper for the GAP package $(gap_pkgname) $(pkginfo["Version"]).
+        $TRI
         module $julia_pkgname
 
         using Pkg.Artifacts
@@ -209,8 +230,21 @@ function update_pkg(pkginfo)
             GAP.Globals.SetPackagePath(GapObj("$pkgname"), GapObj(path))
         end
 
-        function load()
-            res = GAP.Globals.LoadPackage(GapObj("$pkgname"))
+        $TRI
+            load(; banner::Bool=true, only_needed::Bool=true)
+
+        Load the GAP package $(gap_pkgname) into GAP. Use `banner` to control
+        whether package banners are shown. Use `only_needed` to control
+        whether GAP should try to load all dependencies of the package
+        (including optional ones, if there are any), or only the needed ones.
+
+        Note that this Julia wrapper only declares dependencies on Julia
+        wrappers for the *needed* GAP dependencies, but not for any optional
+        ones. Thus `only_needed=false` may not actually load all optional
+        dependencies.
+        $TRI
+        function load(; banner::Bool=true, only_needed::Bool=true)
+            res = GAP.Globals.LoadPackage(GapObj("$pkgname"), banner; OnlyNeeded=only_needed)
             if res != true
                 error("failed to load GAP package $pkgname")
             end
@@ -229,7 +263,7 @@ function update_pkg(pkginfo)
         using Test
 
         import $julia_pkgname
-        println("TODO")
+        $julia_pkgname.load()
         """)
     end
 
