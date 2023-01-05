@@ -1,6 +1,6 @@
 [linearalgebraforcap]
-git-tree-sha1 = "737c5d6b50c07347baceff7ad07f2aff3ee7748b"
+git-tree-sha1 = "dbd3043d852141dbbefc5748810c782600ad2999"
 
     [[linearalgebraforcap.download]]
-    sha256 = "5de0c681d130ddabf5c4d9524081c6424aba9405decc55025feccf5307e7934a"
-    url = "https://github.com/homalg-project/CAP_project/releases/download/LinearAlgebraForCAP-2022.11-07/LinearAlgebraForCAP-2022.11-07.tar.gz"
+    sha256 = "f2ad2932f3826c8c019d02874e6588fde1b1d73d6fc3863470aa8cfab984c813"
+    url = "https://github.com/homalg-project/CAP_project/releases/download/LinearAlgebraForCAP-2022.12-04/LinearAlgebraForCAP-2022.12-04.tar.gz"

@@ -1,6 +1,6 @@
 # GAP_pkg_thelma
 
-This is generated wrapper package for the GAP package Thelma 1.3.
+This is a generated Julia wrapper package for the GAP package Thelma 1.3.
 
 ## Issues
 

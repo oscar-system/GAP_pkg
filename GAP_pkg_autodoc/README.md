@@ -1,6 +1,6 @@
 # GAP_pkg_autodoc
 
-This is generated wrapper package for the GAP package AutoDoc 2022.10.20.
+This is a generated Julia wrapper package for the GAP package AutoDoc 2022.10.20.
 
 ## Issues
 

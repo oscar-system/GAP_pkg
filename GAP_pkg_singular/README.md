@@ -1,6 +1,6 @@
 # GAP_pkg_singular
 
-This is generated wrapper package for the GAP package singular 2022.09.23.
+This is a generated Julia wrapper package for the GAP package singular 2022.09.23.
 
 ## Issues
 

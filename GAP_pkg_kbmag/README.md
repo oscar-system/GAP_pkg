@@ -1,6 +1,6 @@
 # GAP_pkg_kbmag
 
-This is generated wrapper package for the GAP package kbmag 1.5.10.
+This is a generated Julia wrapper package for the GAP package kbmag 1.5.10.
 
 ## Issues
 

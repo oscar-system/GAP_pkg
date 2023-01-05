@@ -1,6 +1,6 @@
 [modulepresentationsforcap]
-git-tree-sha1 = "007685fa406917eb3bc614751d89ff28535ff98c"
+git-tree-sha1 = "c60bb7b200f614a6ab9b8f826e37e316456131cd"
 
     [[modulepresentationsforcap.download]]
-    sha256 = "8f1007f0905387c0855cb6b917a352b996b51a06541b96628d7bb2c93ffde93b"
-    url = "https://github.com/homalg-project/CAP_project/releases/download/ModulePresentationsForCAP-2022.11-02/ModulePresentationsForCAP-2022.11-02.tar.gz"
+    sha256 = "d65cf713a0c6159add5b46923a723807de0fc6a0be43b592d652768aee9045d1"
+    url = "https://github.com/homalg-project/CAP_project/releases/download/ModulePresentationsForCAP-2022.12-01/ModulePresentationsForCAP-2022.12-01.tar.gz"

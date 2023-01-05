@@ -1,6 +1,6 @@
 # GAP_pkg_cubefree
 
-This is generated wrapper package for the GAP package Cubefree 1.19.
+This is a generated Julia wrapper package for the GAP package Cubefree 1.19.
 
 ## Issues
 

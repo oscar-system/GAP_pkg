@@ -1,6 +1,6 @@
 # GAP_pkg_profiling
 
-This is generated wrapper package for the GAP package profiling 2.5.1.
+This is a generated Julia wrapper package for the GAP package profiling 2.5.1.
 
 ## Issues
 

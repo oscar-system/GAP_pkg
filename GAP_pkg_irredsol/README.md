@@ -1,6 +1,6 @@
 # GAP_pkg_irredsol
 
-This is generated wrapper package for the GAP package IRREDSOL 1.4.4.
+This is a generated Julia wrapper package for the GAP package IRREDSOL 1.4.4.
 
 ## Issues
 

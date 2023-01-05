@@ -4,6 +4,7 @@ authors = ["Max Horn <max@quendi.de>"]
 version = "1.0.9"
 
 [deps]
+BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
 GAP_pkg_ferret_jll = "d6652ff9-bdf9-5f19-9e6f-c10727807222"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

@@ -1,6 +1,6 @@
 # GAP_pkg_nconvex
 
-This is generated wrapper package for the GAP package NConvex 2022.09-01.
+This is a generated Julia wrapper package for the GAP package NConvex 2022.09-01.
 
 ## Issues
 

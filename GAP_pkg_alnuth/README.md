@@ -1,6 +1,6 @@
 # GAP_pkg_alnuth
 
-This is generated wrapper package for the GAP package Alnuth 3.2.1.
+This is a generated Julia wrapper package for the GAP package Alnuth 3.2.1.
 
 ## Issues
 

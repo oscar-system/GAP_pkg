@@ -1,6 +1,6 @@
 # GAP_pkg_autpgrp
 
-This is generated wrapper package for the GAP package AutPGrp 1.11.
+This is a generated Julia wrapper package for the GAP package AutPGrp 1.11.
 
 ## Issues
 

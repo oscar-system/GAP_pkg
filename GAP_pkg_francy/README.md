@@ -1,6 +1,6 @@
 # GAP_pkg_francy
 
-This is generated wrapper package for the GAP package Francy 1.2.5.
+This is a generated Julia wrapper package for the GAP package Francy 1.2.5.
 
 ## Issues
 

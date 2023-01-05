@@ -1,6 +1,6 @@
 # GAP_pkg_recog
 
-This is generated wrapper package for the GAP package recog 1.4.2.
+This is a generated Julia wrapper package for the GAP package recog 1.4.2.
 
 ## Issues
 

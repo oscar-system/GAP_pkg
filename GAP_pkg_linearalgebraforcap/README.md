@@ -1,6 +1,6 @@
 # GAP_pkg_linearalgebraforcap
 
-This is generated wrapper package for the GAP package LinearAlgebraForCAP 2022.11-07.
+This is a generated Julia wrapper package for the GAP package LinearAlgebraForCAP 2022.12-04.
 
 ## Issues
 

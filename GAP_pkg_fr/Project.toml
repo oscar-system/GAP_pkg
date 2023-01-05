@@ -1,7 +1,7 @@
 name = "GAP_pkg_fr"
 uuid = "a176a613-d15d-400c-a19e-2eaa60571079"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.4.11"
+version = "2.4.12"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

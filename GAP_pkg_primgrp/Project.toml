@@ -1,7 +1,7 @@
 name = "GAP_pkg_primgrp"
 uuid = "72b31b48-d8bf-4014-9d0c-1184f7a06e9d"
 authors = ["Max Horn <max@quendi.de>"]
-version = "3.4.2"
+version = "3.4.3"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

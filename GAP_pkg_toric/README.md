@@ -1,6 +1,6 @@
 # GAP_pkg_toric
 
-This is generated wrapper package for the GAP package Toric 1.9.5.
+This is a generated Julia wrapper package for the GAP package Toric 1.9.5.
 
 ## Issues
 

@@ -1,6 +1,6 @@
 # GAP_pkg_permut
 
-This is generated wrapper package for the GAP package permut 2.0.4.
+This is a generated Julia wrapper package for the GAP package permut 2.0.4.
 
 ## Issues
 

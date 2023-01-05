@@ -1,6 +1,6 @@
 # GAP_pkg_wedderga
 
-This is generated wrapper package for the GAP package Wedderga 4.10.2.
+This is a generated Julia wrapper package for the GAP package Wedderga 4.10.2.
 
 ## Issues
 

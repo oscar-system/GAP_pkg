@@ -1,6 +1,6 @@
 # GAP_pkg_loops
 
-This is generated wrapper package for the GAP package loops 3.4.3.
+This is a generated Julia wrapper package for the GAP package loops 3.4.3.
 
 ## Issues
 

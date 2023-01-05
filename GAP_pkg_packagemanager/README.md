@@ -1,6 +1,6 @@
 # GAP_pkg_packagemanager
 
-This is generated wrapper package for the GAP package PackageManager 1.3.2.
+This is a generated Julia wrapper package for the GAP package PackageManager 1.3.2.
 
 ## Issues
 

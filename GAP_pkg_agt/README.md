@@ -1,6 +1,6 @@
 # GAP_pkg_agt
 
-This is generated wrapper package for the GAP package AGT 0.3.
+This is a generated Julia wrapper package for the GAP package AGT 0.3.
 
 ## Issues
 

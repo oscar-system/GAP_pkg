@@ -1,6 +1,6 @@
 # GAP_pkg_design
 
-This is generated wrapper package for the GAP package DESIGN 1.7.
+This is a generated Julia wrapper package for the GAP package DESIGN 1.7.
 
 ## Issues
 

@@ -1,7 +1,7 @@
 name = "GAP_pkg_scscp"
 uuid = "6eb2a77a-36a7-4472-aa5b-afe33100b1db"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.3.1"
+version = "2.4.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

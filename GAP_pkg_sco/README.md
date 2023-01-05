@@ -1,6 +1,6 @@
 # GAP_pkg_sco
 
-This is generated wrapper package for the GAP package SCO 2022.09-01.
+This is a generated Julia wrapper package for the GAP package SCO 2022.09-01.
 
 ## Issues
 

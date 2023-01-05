@@ -1,6 +1,6 @@
 # GAP_pkg_digraphs
 
-This is generated wrapper package for the GAP package Digraphs 1.6.0.
+This is a generated Julia wrapper package for the GAP package Digraphs 1.6.1.
 
 ## Issues
 

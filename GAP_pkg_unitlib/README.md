@@ -1,6 +1,6 @@
 # GAP_pkg_unitlib
 
-This is generated wrapper package for the GAP package UnitLib 4.1.0.
+This is a generated Julia wrapper package for the GAP package UnitLib 4.1.0.
 
 ## Issues
 

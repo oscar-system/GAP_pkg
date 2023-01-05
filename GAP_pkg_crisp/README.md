@@ -1,6 +1,6 @@
 # GAP_pkg_crisp
 
-This is generated wrapper package for the GAP package CRISP 1.4.5.
+This is a generated Julia wrapper package for the GAP package CRISP 1.4.6.
 
 ## Issues
 
@@ -12,4 +12,4 @@ Report general issues with the GAP package at <https://github.com/bh11/crisp/iss
 
 This wrapper is under the MIT license (see file `LICENSE`).
 
-The license of the wrapped GAP package is unknown.
+The license of the wrapped GAP package is BSD-2-Clause.

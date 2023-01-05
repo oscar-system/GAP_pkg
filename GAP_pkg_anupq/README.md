@@ -1,6 +1,6 @@
 # GAP_pkg_anupq
 
-This is generated wrapper package for the GAP package ANUPQ 3.2.6.
+This is a generated Julia wrapper package for the GAP package ANUPQ 3.2.6.
 
 ## Issues
 

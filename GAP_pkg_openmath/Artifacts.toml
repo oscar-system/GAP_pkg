@@ -1,6 +1,6 @@
 [openmath]
-git-tree-sha1 = "2afa5c9c1221bf0b800fcff17fb1c20943828477"
+git-tree-sha1 = "dab969a703da2d75d73f8b3d3f61e6580a9887c3"
 
     [[openmath.download]]
-    sha256 = "0bd9be052a487635cd2a45f4579136a05073247014b692db65e6dbe8de79b0fb"
-    url = "https://github.com/gap-packages/openmath/releases/download/v11.5.1/OpenMath-11.5.1.tar.gz"
+    sha256 = "bb13f5fe0440c40d563fd82374a29b5f52df6babe7bd88d17dd37295a1544007"
+    url = "https://github.com/gap-packages/openmath/releases/download/v11.5.2/OpenMath-11.5.2.tar.gz"

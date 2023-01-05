@@ -1,6 +1,6 @@
 # GAP_pkg_4ti2interface
 
-This is generated wrapper package for the GAP package 4ti2Interface 2022.09-01.
+This is a generated Julia wrapper package for the GAP package 4ti2Interface 2022.09-01.
 
 ## Issues
 

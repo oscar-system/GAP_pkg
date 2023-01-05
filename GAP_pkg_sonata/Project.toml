@@ -1,7 +1,7 @@
 name = "GAP_pkg_sonata"
 uuid = "1f755745-7eb7-42ec-bcb8-84ba474b7b54"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.9.5"
+version = "2.9.6"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

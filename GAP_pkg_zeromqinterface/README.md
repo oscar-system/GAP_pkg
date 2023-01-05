@@ -1,6 +1,6 @@
 # GAP_pkg_zeromqinterface
 
-This is generated wrapper package for the GAP package ZeroMQInterface 0.14.
+This is a generated Julia wrapper package for the GAP package ZeroMQInterface 0.14.
 
 ## Issues
 

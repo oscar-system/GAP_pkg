@@ -1,6 +1,6 @@
 # GAP_pkg_numericalsgps
 
-This is generated wrapper package for the GAP package NumericalSgps 1.3.1.
+This is a generated Julia wrapper package for the GAP package NumericalSgps 1.3.1.
 
 ## Issues
 

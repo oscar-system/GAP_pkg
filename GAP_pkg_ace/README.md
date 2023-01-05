@@ -1,6 +1,6 @@
 # GAP_pkg_ace
 
-This is generated wrapper package for the GAP package ACE 5.6.1.
+This is a generated Julia wrapper package for the GAP package ACE 5.6.1.
 
 ## Issues
 

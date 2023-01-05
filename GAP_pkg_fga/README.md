@@ -1,6 +1,6 @@
 # GAP_pkg_fga
 
-This is generated wrapper package for the GAP package FGA 1.4.0.
+This is a generated Julia wrapper package for the GAP package FGA 1.4.0.
 
 ## Issues
 

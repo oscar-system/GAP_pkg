@@ -1,6 +1,6 @@
 # GAP_pkg_polycyclic
 
-This is generated wrapper package for the GAP package Polycyclic 2.16.
+This is a generated Julia wrapper package for the GAP package Polycyclic 2.16.
 
 ## Issues
 

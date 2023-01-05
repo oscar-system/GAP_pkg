@@ -1,6 +1,6 @@
 # GAP_pkg_sgpviz
 
-This is generated wrapper package for the GAP package SgpViz 0.999.5.
+This is a generated Julia wrapper package for the GAP package SgpViz 0.999.5.
 
 ## Issues
 

@@ -1,6 +1,6 @@
 # GAP_pkg_nock
 
-This is generated wrapper package for the GAP package NoCK 1.5.
+This is a generated Julia wrapper package for the GAP package NoCK 1.5.
 
 ## Issues
 

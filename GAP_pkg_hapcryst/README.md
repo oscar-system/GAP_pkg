@@ -1,6 +1,6 @@
 # GAP_pkg_hapcryst
 
-This is generated wrapper package for the GAP package HAPcryst 0.1.15.
+This is a generated Julia wrapper package for the GAP package HAPcryst 0.1.15.
 
 ## Issues
 

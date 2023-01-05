@@ -1,6 +1,6 @@
 # GAP_pkg_liering
 
-This is generated wrapper package for the GAP package LieRing 2.4.2.
+This is a generated Julia wrapper package for the GAP package LieRing 2.4.2.
 
 ## Issues
 

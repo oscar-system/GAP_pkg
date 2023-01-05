@@ -1,6 +1,6 @@
 # GAP_pkg_crypting
 
-This is generated wrapper package for the GAP package crypting 0.10.4.
+This is a generated Julia wrapper package for the GAP package crypting 0.10.4.
 
 ## Issues
 

@@ -4,6 +4,8 @@ module GAP_pkg_deepthought
 using Pkg.Artifacts
 using GAP
 
+include("jll.jl")
+
 function __init__()
     # ensure GAP will load the correct instance of this package
     path = artifact"deepthought"

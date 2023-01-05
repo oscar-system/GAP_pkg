@@ -1,6 +1,6 @@
 # GAP_pkg_resclasses
 
-This is generated wrapper package for the GAP package ResClasses 4.7.3.
+This is a generated Julia wrapper package for the GAP package ResClasses 4.7.3.
 
 ## Issues
 

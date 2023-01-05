@@ -4,7 +4,9 @@ authors = ["Max Horn <max@quendi.de>"]
 version = "4.9.0"
 
 [deps]
+BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+GAP_pkg_orb_jll = "b689cd95-dcfd-544e-a174-ce2fd787c795"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [compat]

@@ -1,6 +1,6 @@
 # GAP_pkg_classicpres
 
-This is generated wrapper package for the GAP package classicpres 1.22.
+This is a generated Julia wrapper package for the GAP package classicpres 1.22.
 
 ## Issues
 

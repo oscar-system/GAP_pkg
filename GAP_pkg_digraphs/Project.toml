@@ -1,10 +1,12 @@
 name = "GAP_pkg_digraphs"
 uuid = "cd076ae3-e278-400e-8806-78c90db70d4c"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.6.0"
+version = "1.6.1"
 
 [deps]
+BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+GAP_pkg_digraphs_jll = "ce5c30f6-a98c-53bc-b643-089f5717f8db"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [compat]

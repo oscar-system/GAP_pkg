@@ -1,6 +1,6 @@
 # GAP_pkg_unipot
 
-This is generated wrapper package for the GAP package Unipot 1.5.
+This is a generated Julia wrapper package for the GAP package Unipot 1.5.
 
 ## Issues
 

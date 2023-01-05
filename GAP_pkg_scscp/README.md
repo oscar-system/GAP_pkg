@@ -1,6 +1,6 @@
 # GAP_pkg_scscp
 
-This is generated wrapper package for the GAP package SCSCP 2.3.1.
+This is a generated Julia wrapper package for the GAP package SCSCP 2.4.0.
 
 ## Issues
 

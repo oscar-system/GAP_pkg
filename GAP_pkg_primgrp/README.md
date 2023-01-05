@@ -1,6 +1,6 @@
 # GAP_pkg_primgrp
 
-This is generated wrapper package for the GAP package PrimGrp 3.4.2.
+This is a generated Julia wrapper package for the GAP package PrimGrp 3.4.3.
 
 ## Issues
 

@@ -1,6 +1,6 @@
 [crisp]
-git-tree-sha1 = "65685403f19cd67a8913e1c0e7b42dc90a06f976"
+git-tree-sha1 = "587a4459a87cf325f86861a69756574850846f50"
 
     [[crisp.download]]
-    sha256 = "07764ccd055fbefc9feaac56dab88de872c8f785b1c178128c8258aa5df2a884"
-    url = "http://www.icm.tu-bs.de/~bhoeflin/crisp/crisp-1.4.5.tar.bz2"
+    sha256 = "31a8d37b577208dc22c27b479d391b3bd89ba9dcab528b1570726af57098ccb1"
+    url = "http://www.icm.tu-bs.de/~bhoeflin/crisp/crisp-1.4.6.tar.bz2"

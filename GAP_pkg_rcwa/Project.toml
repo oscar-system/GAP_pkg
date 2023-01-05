@@ -1,7 +1,7 @@
 name = "GAP_pkg_rcwa"
 uuid = "f3b929aa-bac2-4347-acd5-2e9d685d5b74"
 authors = ["Max Horn <max@quendi.de>"]
-version = "4.7.0"
+version = "4.7.1"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

@@ -1,6 +1,6 @@
 # GAP_pkg_sonata
 
-This is generated wrapper package for the GAP package SONATA 2.9.5.
+This is a generated Julia wrapper package for the GAP package SONATA 2.9.6.
 
 ## Issues
 

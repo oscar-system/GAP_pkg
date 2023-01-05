@@ -1,13 +1,19 @@
 module JLL
 
 using GAP
+using BinaryWrappers
 using GAP_pkg_edim_jll
+
+const bindir = if isdir(joinpath(GAP_pkg_edim_jll.find_artifact_dir(), "bin"))
+                   @generate_wrappers(GAP_pkg_edim_jll)
+               else
+                   joinpath(GAP_pkg_edim_jll.find_artifact_dir(), "lib", "gap")
+               end
 
 function __init__()
     # ensure GAP finds kernel extensions or other binaries
-    sopath = joinpath(GAP_pkg_edim_jll.find_artifact_dir(), "lib", "gap")
-    @debug "GAP package 'edim' sopath = " * sopath
-    setproperty!(GAP.Globals.DirectoriesPackageProgramsOverrides, :edim, GapObj(sopath))
+    @debug "GAP package 'edim' bindir = $bindir"
+    setproperty!(GAP.Globals.DirectoriesPackageProgramsOverrides, :edim, GapObj(bindir))
 end
 
 end # module

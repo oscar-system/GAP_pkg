@@ -1,6 +1,6 @@
 [xmodalg]
-git-tree-sha1 = "781480a5a045f1bffe884812f23d97af1cb62c78"
+git-tree-sha1 = "b715df6da5b840bfd7bfd53e7b39f8460a2b7363"
 
     [[xmodalg.download]]
-    sha256 = "f4c50f821ffca691b346f6f6172ddbb6f038c70abadce9dad923615df4f8ba08"
-    url = "https://github.com/gap-packages/xmodalg/releases/download/v1.22/XModAlg-1.22.tar.gz"
+    sha256 = "007ea97b88eade9fe0d5ccd59e61051aecd53bee44aa504a7d7ec84e6c5e75e9"
+    url = "https://github.com/gap-packages/xmodalg/releases/download/v1.23/XModAlg-1.23.tar.gz"

@@ -1,6 +1,6 @@
 # GAP_pkg_curlinterface
 
-This is generated wrapper package for the GAP package curlInterface 2.3.1.
+This is a generated Julia wrapper package for the GAP package curlInterface 2.3.1.
 
 ## Issues
 

@@ -1,6 +1,6 @@
 # GAP_pkg_toolsforhomalg
 
-This is generated wrapper package for the GAP package ToolsForHomalg 2022.10-01.
+This is a generated Julia wrapper package for the GAP package ToolsForHomalg 2022.12-01.
 
 ## Issues
 

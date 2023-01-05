@@ -1,6 +1,6 @@
 # GAP_pkg_nilmat
 
-This is generated wrapper package for the GAP package Nilmat 1.4.2.
+This is a generated Julia wrapper package for the GAP package Nilmat 1.4.2.
 
 ## Issues
 

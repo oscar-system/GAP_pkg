@@ -1,6 +1,6 @@
 # GAP_pkg_hecke
 
-This is generated wrapper package for the GAP package hecke 1.5.3.
+This is a generated Julia wrapper package for the GAP package hecke 1.5.3.
 
 ## Issues
 

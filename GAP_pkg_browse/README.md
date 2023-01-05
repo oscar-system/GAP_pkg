@@ -1,6 +1,6 @@
 # GAP_pkg_browse
 
-This is generated wrapper package for the GAP package Browse 1.8.18.
+This is a generated Julia wrapper package for the GAP package Browse 1.8.19.
 
 ## Issues
 

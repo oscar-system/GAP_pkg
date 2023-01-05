@@ -1,6 +1,6 @@
 # GAP_pkg_patternclass
 
-This is generated wrapper package for the GAP package PatternClass 2.4.3.
+This is a generated Julia wrapper package for the GAP package PatternClass 2.4.3.
 
 ## Issues
 

@@ -1,6 +1,6 @@
 # GAP_pkg_xmodalg
 
-This is generated wrapper package for the GAP package XModAlg 1.22.
+This is a generated Julia wrapper package for the GAP package XModAlg 1.23.
 
 ## Issues
 

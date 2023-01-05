@@ -1,6 +1,6 @@
 # GAP_pkg_jupyterviz
 
-This is generated wrapper package for the GAP package JupyterViz 1.5.6.
+This is a generated Julia wrapper package for the GAP package JupyterViz 1.5.6.
 
 ## Issues
 

@@ -1,6 +1,6 @@
 # GAP_pkg_radiroot
 
-This is generated wrapper package for the GAP package RadiRoot 2.9.
+This is a generated Julia wrapper package for the GAP package RadiRoot 2.9.
 
 ## Issues
 

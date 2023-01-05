@@ -1,6 +1,6 @@
 # GAP_pkg_polenta
 
-This is generated wrapper package for the GAP package Polenta 1.3.10.
+This is a generated Julia wrapper package for the GAP package Polenta 1.3.10.
 
 ## Issues
 

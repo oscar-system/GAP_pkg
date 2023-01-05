@@ -1,6 +1,6 @@
 # GAP_pkg_simpcomp
 
-This is generated wrapper package for the GAP package simpcomp 2.1.14.
+This is a generated Julia wrapper package for the GAP package simpcomp 2.1.14.
 
 ## Issues
 

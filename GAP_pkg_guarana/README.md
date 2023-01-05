@@ -1,6 +1,6 @@
 # GAP_pkg_guarana
 
-This is generated wrapper package for the GAP package Guarana 0.96.3.
+This is a generated Julia wrapper package for the GAP package Guarana 0.96.3.
 
 ## Issues
 

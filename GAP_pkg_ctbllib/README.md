@@ -1,6 +1,6 @@
 # GAP_pkg_ctbllib
 
-This is generated wrapper package for the GAP package CTblLib 1.3.4.
+This is a generated Julia wrapper package for the GAP package CTblLib 1.3.4.
 
 ## Issues
 

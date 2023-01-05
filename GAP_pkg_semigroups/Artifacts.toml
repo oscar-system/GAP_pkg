@@ -1,6 +1,6 @@
 [semigroups]
-git-tree-sha1 = "5df33dc0e3816bae6916e6ec6fbcc1340788da78"
+git-tree-sha1 = "72f2871c122790b412c3b2a2ce7d09f06019e177"
 
     [[semigroups.download]]
-    sha256 = "9eaf7fe079ac47e2a6c6a6c2e2a341fa40fc92f4040092674c1944ee4e48ad0c"
-    url = "https://github.com/semigroups/Semigroups/releases/download/v5.1.0/semigroups-5.1.0.tar.gz"
+    sha256 = "30ee075d0548998b154f572c802681c642705355667d7f956116bfe36c39a24c"
+    url = "https://github.com/semigroups/Semigroups/releases/download/v5.2.0/semigroups-5.2.0.tar.gz"

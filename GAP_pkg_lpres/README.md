@@ -1,6 +1,6 @@
 # GAP_pkg_lpres
 
-This is generated wrapper package for the GAP package lpres 1.0.3.
+This is a generated Julia wrapper package for the GAP package lpres 1.0.3.
 
 ## Issues
 

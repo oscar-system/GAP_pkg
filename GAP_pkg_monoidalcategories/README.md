@@ -1,6 +1,6 @@
 # GAP_pkg_monoidalcategories
 
-This is generated wrapper package for the GAP package MonoidalCategories 2022.11-05.
+This is a generated Julia wrapper package for the GAP package MonoidalCategories 2022.12-01.
 
 ## Issues
 

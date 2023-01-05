@@ -1,6 +1,6 @@
 # GAP_pkg_gradedmodules
 
-This is generated wrapper package for the GAP package GradedModules 2022.09-02.
+This is a generated Julia wrapper package for the GAP package GradedModules 2022.09-02.
 
 ## Issues
 

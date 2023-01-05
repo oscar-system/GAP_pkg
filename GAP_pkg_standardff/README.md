@@ -1,6 +1,6 @@
 # GAP_pkg_standardff
 
-This is generated wrapper package for the GAP package StandardFF 0.9.4.
+This is a generated Julia wrapper package for the GAP package StandardFF 0.9.4.
 
 ## Issues
 

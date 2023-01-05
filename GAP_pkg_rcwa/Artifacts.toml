@@ -1,6 +1,6 @@
 [rcwa]
-git-tree-sha1 = "117509028d9d22383c7c00ada7ade6677a1b637e"
+git-tree-sha1 = "3e30ffdff8a48660542ffd825e69ee41fd815966"
 
     [[rcwa.download]]
-    sha256 = "1941aa4df9f03582a59fdcb32058cc63a219f3ba6bfed1615facd703f135f537"
-    url = "https://github.com/gap-packages/rcwa/releases/download/v4.7.0/rcwa-4.7.0.tar.gz"
+    sha256 = "181e5b7e69f5267ede042a5d505217c01ceccc3d21baa96b2bc71341caf33728"
+    url = "https://github.com/gap-packages/rcwa/releases/download/v4.7.1/rcwa-4.7.1.tar.gz"

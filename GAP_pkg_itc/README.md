@@ -1,6 +1,6 @@
 # GAP_pkg_itc
 
-This is generated wrapper package for the GAP package ITC 1.5.1.
+This is a generated Julia wrapper package for the GAP package ITC 1.5.1.
 
 ## Issues
 

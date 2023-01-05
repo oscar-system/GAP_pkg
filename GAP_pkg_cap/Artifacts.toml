@@ -1,6 +1,6 @@
 [cap]
-git-tree-sha1 = "2349f655e2c8bde4ee23a4e6cbd3691b0896e3ad"
+git-tree-sha1 = "0ecdc75a62186f71a18aab8d304e6a96aa8503e6"
 
     [[cap.download]]
-    sha256 = "ff9fbe0c58bb12fbd530ac7e7b2b0f5df8a43910400210bfb680ba9c3b9c18ba"
-    url = "https://github.com/homalg-project/CAP_project/releases/download/CAP-2022.11-26/CAP-2022.11-26.tar.gz"
+    sha256 = "4aa396758899678de7b0338a262a3a9adf988d28b90498cab7ecbd2632f3e3ed"
+    url = "https://github.com/homalg-project/CAP_project/releases/download/CAP-2022.12-11/CAP-2022.12-11.tar.gz"

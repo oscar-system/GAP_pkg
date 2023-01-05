@@ -1,6 +1,6 @@
 # GAP_pkg_crystcat
 
-This is generated wrapper package for the GAP package CrystCat 1.1.10.
+This is a generated Julia wrapper package for the GAP package CrystCat 1.1.10.
 
 ## Issues
 

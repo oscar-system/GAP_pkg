@@ -1,6 +1,6 @@
 [sonata]
-git-tree-sha1 = "214c92cf804613eb881948bdb196fc030d1dc4be"
+git-tree-sha1 = "d31bd1642e2f6c324e5928810cd3e54dad245a10"
 
     [[sonata.download]]
-    sha256 = "78df73483c5b1d49d55ee151666ec4d02c0f00959281e7f53c2b6c0a0e89376e"
-    url = "https://github.com/gap-packages/sonata/releases/download/v2.9.5/sonata-2.9.5.tar.gz"
+    sha256 = "0a44ef0b269766c69b59681ea3a640bc95e2ce17455a4e70088491b471f39cce"
+    url = "https://github.com/gap-packages/sonata/releases/download/v2.9.6/sonata-2.9.6.tar.gz"

@@ -1,6 +1,6 @@
 # GAP_pkg_float
 
-This is generated wrapper package for the GAP package float 1.0.3.
+This is a generated Julia wrapper package for the GAP package float 1.0.3.
 
 ## Issues
 

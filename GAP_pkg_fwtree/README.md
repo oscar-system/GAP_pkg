@@ -1,6 +1,6 @@
 # GAP_pkg_fwtree
 
-This is generated wrapper package for the GAP package fwtree 1.3.
+This is a generated Julia wrapper package for the GAP package fwtree 1.3.
 
 ## Issues
 

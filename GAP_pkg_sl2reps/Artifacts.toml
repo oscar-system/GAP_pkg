@@ -1,0 +1,6 @@
+[sl2reps]
+git-tree-sha1 = "7a42c929d2a89852337574d13f2f17f09538c167"
+
+    [[sl2reps.download]]
+    sha256 = "b0a3036e70e194ef761d932c45de92ab7ce5c1eb7da9665be1a6a76a8847820a"
+    url = "https://github.com/snw-0/sl2-reps/releases/download/v1.1/sl2-reps-1.1.tar.gz"

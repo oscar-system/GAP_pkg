@@ -1,6 +1,6 @@
 # GAP_pkg_rds
 
-This is generated wrapper package for the GAP package RDS 1.8.
+This is a generated Julia wrapper package for the GAP package RDS 1.8.
 
 ## Issues
 

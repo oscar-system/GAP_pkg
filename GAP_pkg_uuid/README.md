@@ -1,6 +1,6 @@
 # GAP_pkg_uuid
 
-This is generated wrapper package for the GAP package uuid 0.7.
+This is a generated Julia wrapper package for the GAP package uuid 0.7.
 
 ## Issues
 

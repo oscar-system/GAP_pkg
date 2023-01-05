@@ -1,6 +1,6 @@
 # GAP_pkg_transgrp
 
-This is generated wrapper package for the GAP package TransGrp 3.6.3.
+This is a generated Julia wrapper package for the GAP package TransGrp 3.6.3.
 
 ## Issues
 

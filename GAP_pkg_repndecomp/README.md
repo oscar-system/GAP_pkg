@@ -1,6 +1,6 @@
 # GAP_pkg_repndecomp
 
-This is generated wrapper package for the GAP package RepnDecomp 1.2.1.
+This is a generated Julia wrapper package for the GAP package RepnDecomp 1.2.1.
 
 ## Issues
 

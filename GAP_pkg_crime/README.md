@@ -1,6 +1,6 @@
 # GAP_pkg_crime
 
-This is generated wrapper package for the GAP package CRIME 1.6.
+This is a generated Julia wrapper package for the GAP package CRIME 1.6.
 
 ## Issues
 

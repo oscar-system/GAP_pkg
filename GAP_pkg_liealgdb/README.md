@@ -1,6 +1,6 @@
 # GAP_pkg_liealgdb
 
-This is generated wrapper package for the GAP package LieAlgDB 2.2.1.
+This is a generated Julia wrapper package for the GAP package LieAlgDB 2.2.1.
 
 ## Issues
 

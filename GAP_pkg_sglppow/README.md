@@ -1,6 +1,6 @@
 # GAP_pkg_sglppow
 
-This is generated wrapper package for the GAP package SglPPow 2.3.
+This is a generated Julia wrapper package for the GAP package SglPPow 2.3.
 
 ## Issues
 

@@ -1,7 +1,7 @@
 name = "GAP_pkg_openmath"
 uuid = "f7443f58-60ca-4cbe-8bff-daf52e2d823c"
 authors = ["Max Horn <max@quendi.de>"]
-version = "11.5.1"
+version = "11.5.2"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

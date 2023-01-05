@@ -1,6 +1,6 @@
 # GAP_pkg_gbnp
 
-This is generated wrapper package for the GAP package GBNP 1.0.5.
+This is a generated Julia wrapper package for the GAP package GBNP 1.0.5.
 
 ## Issues
 

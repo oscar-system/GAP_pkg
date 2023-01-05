@@ -1,6 +1,6 @@
 [monoidalcategories]
-git-tree-sha1 = "7eecd5d1e8a36006f28cce4402e2efedea153b5c"
+git-tree-sha1 = "221e92a8bafe0f0994b53612aac2e0763a10fd35"
 
     [[monoidalcategories.download]]
-    sha256 = "4fdd1794db0e0ef22dac49ab4e45aebf8a177bd4c489e182c85f1877825358a7"
-    url = "https://github.com/homalg-project/CAP_project/releases/download/MonoidalCategories-2022.11-05/MonoidalCategories-2022.11-05.tar.gz"
+    sha256 = "1d4e6aa838fc53e6ccc20e08d8c34b6d585804e3687960df213048a051bf08c4"
+    url = "https://github.com/homalg-project/CAP_project/releases/download/MonoidalCategories-2022.12-01/MonoidalCategories-2022.12-01.tar.gz"

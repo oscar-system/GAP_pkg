@@ -1,6 +1,6 @@
 # GAP_pkg_openmath
 
-This is generated wrapper package for the GAP package OpenMath 11.5.1.
+This is a generated Julia wrapper package for the GAP package OpenMath 11.5.2.
 
 ## Issues
 

@@ -1,6 +1,6 @@
 # GAP_pkg_rcwa
 
-This is generated wrapper package for the GAP package RCWA 4.7.0.
+This is a generated Julia wrapper package for the GAP package RCWA 4.7.1.
 
 ## Issues
 

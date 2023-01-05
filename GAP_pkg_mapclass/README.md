@@ -1,6 +1,6 @@
 # GAP_pkg_mapclass
 
-This is generated wrapper package for the GAP package MapClass 1.4.6.
+This is a generated Julia wrapper package for the GAP package MapClass 1.4.6.
 
 ## Issues
 

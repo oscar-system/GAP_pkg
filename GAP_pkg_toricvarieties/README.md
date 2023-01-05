@@ -1,6 +1,6 @@
 # GAP_pkg_toricvarieties
 
-This is generated wrapper package for the GAP package ToricVarieties 2022.07.13.
+This is a generated Julia wrapper package for the GAP package ToricVarieties 2022.07.13.
 
 ## Issues
 

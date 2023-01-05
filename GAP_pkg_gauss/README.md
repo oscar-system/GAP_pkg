@@ -1,6 +1,6 @@
 # GAP_pkg_gauss
 
-This is generated wrapper package for the GAP package Gauss 2022.11-01.
+This is a generated Julia wrapper package for the GAP package Gauss 2022.11-01.
 
 ## Issues
 

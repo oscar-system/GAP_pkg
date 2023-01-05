@@ -1,6 +1,6 @@
 # GAP_pkg_normalizinterface
 
-This is generated wrapper package for the GAP package NormalizInterface 1.3.5.
+This is a generated Julia wrapper package for the GAP package NormalizInterface 1.3.5.
 
 ## Issues
 

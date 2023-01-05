@@ -1,6 +1,6 @@
 [browse]
-git-tree-sha1 = "0801889ade31af4d68f4512f2b112c97efcf32ee"
+git-tree-sha1 = "66b8acc459d4accb565f7959b3ab019958b4f75a"
 
     [[browse.download]]
-    sha256 = "14d00406f95ef3764beaaf5de8ea01f030e8d2492ad05e9fa1fe06574dbfebfe"
-    url = "https://www.math.rwth-aachen.de/~Browse/Browse-1.8.18.tar.bz2"
+    sha256 = "5eb792caca5a7ef4e0c04e272963c956bb23743defc573d49ede2f169662ccdb"
+    url = "https://www.math.rwth-aachen.de/~Browse/Browse-1.8.19.tar.bz2"
