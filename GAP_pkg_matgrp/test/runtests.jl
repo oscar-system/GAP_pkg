@@ -2,4 +2,4 @@ using GAP_pkg_matgrp
 using Test
 
 import GAP_pkg_matgrp
-println("TODO")
+GAP_pkg_matgrp.load()

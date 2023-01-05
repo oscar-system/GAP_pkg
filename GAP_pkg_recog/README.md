@@ -2,6 +2,19 @@
 
 This is a generated Julia wrapper package for the GAP package recog 1.4.2.
 
+## Usage
+
+Using recog in your Julia session for technical reasons requires two steps:
+
+    using GAP_pkg_recog
+    GAP_pkg_recog.load()
+
+This is necessary to deal with difference between how GAP and Julia
+resolve dependencies between packages. In addition, it allows passings
+arguments to load. For example:
+
+    GAP_pkg_recog.load(banner=true, onlyneeded=false)
+
 ## Issues
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.

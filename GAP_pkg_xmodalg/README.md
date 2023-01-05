@@ -2,6 +2,19 @@
 
 This is a generated Julia wrapper package for the GAP package XModAlg 1.23.
 
+## Usage
+
+Using XModAlg in your Julia session for technical reasons requires two steps:
+
+    using GAP_pkg_xmodalg
+    GAP_pkg_xmodalg.load()
+
+This is necessary to deal with difference between how GAP and Julia
+resolve dependencies between packages. In addition, it allows passings
+arguments to load. For example:
+
+    GAP_pkg_xmodalg.load(banner=true, onlyneeded=false)
+
 ## Issues
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.

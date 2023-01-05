@@ -2,5 +2,5 @@
 git-tree-sha1 = "bf3d6aee5b5ec890fb0e6c9b3036e5de19a881a9"
 
     [[automata.download]]
-    sha256 = "ce3a772c4724f4846709b34e9458b1f656f8c7a8c6de4e64d6e30dfe0a586c0d"
-    url = "https://github.com/gap-packages/automata/releases/download/v1.15/automata-1.15.tar.bz2"
+    sha256 = "0098035c11d4583055cdc391f6b08aa2603ed3259f605fe5cc5c4ed8adb7b3a7"
+    url = "https://github.com/gap-packages/automata/releases/download/v1.15/automata-1.15.tar.gz"

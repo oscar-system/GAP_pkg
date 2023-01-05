@@ -2,5 +2,5 @@
 git-tree-sha1 = "8ad9889cc1e419f39a2b49330ed4ab80c0c57114"
 
     [[permut.download]]
-    sha256 = "dd7948d9b58b3eacf48356162b515333b6767ae055cce2c5ae3fdc56a2f73467"
-    url = "https://github.com/gap-packages/permut/releases/download/v2.0.4/permut-2.0.4.tar.bz2"
+    sha256 = "568a27986066c2a389e6647b72c6987fd5fc4ff66aa3fdb99bf3d164e770273d"
+    url = "https://github.com/gap-packages/permut/releases/download/v2.0.4/permut-2.0.4.tar.gz"

@@ -2,6 +2,19 @@
 
 This is a generated Julia wrapper package for the GAP package ToolsForHomalg 2022.12-01.
 
+## Usage
+
+Using ToolsForHomalg in your Julia session for technical reasons requires two steps:
+
+    using GAP_pkg_toolsforhomalg
+    GAP_pkg_toolsforhomalg.load()
+
+This is necessary to deal with difference between how GAP and Julia
+resolve dependencies between packages. In addition, it allows passings
+arguments to load. For example:
+
+    GAP_pkg_toolsforhomalg.load(banner=true, onlyneeded=false)
+
 ## Issues
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.

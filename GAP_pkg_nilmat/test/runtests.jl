@@ -2,4 +2,4 @@ using GAP_pkg_nilmat
 using Test
 
 import GAP_pkg_nilmat
-println("TODO")
+GAP_pkg_nilmat.load()

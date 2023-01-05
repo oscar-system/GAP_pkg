@@ -1,4 +1,9 @@
 # ATTENTION: This file was generated, do not edit by hand.
+"""
+    GAP_pkg_factint
+
+A wrapper for the GAP package FactInt 1.6.3.
+"""
 module GAP_pkg_factint
 
 using Pkg.Artifacts
@@ -11,8 +16,21 @@ function __init__()
     GAP.Globals.SetPackagePath(GapObj("factint"), GapObj(path))
 end
 
-function load()
-    res = GAP.Globals.LoadPackage(GapObj("factint"))
+"""
+    load(; banner::Bool=true, only_needed::Bool=true)
+
+Load the GAP package FactInt into GAP. Use `banner` to control
+whether package banners are shown. Use `only_needed` to control
+whether GAP should try to load all dependencies of the package
+(including optional ones, if there are any), or only the needed ones.
+
+Note that this Julia wrapper only declares dependencies on Julia
+wrappers for the *needed* GAP dependencies, but not for any optional
+ones. Thus `only_needed=false` may not actually load all optional
+dependencies.
+"""
+function load(; banner::Bool=true, only_needed::Bool=true)
+    res = GAP.Globals.LoadPackage(GapObj("factint"), banner; OnlyNeeded=only_needed)
     if res != true
         error("failed to load GAP package factint")
     end

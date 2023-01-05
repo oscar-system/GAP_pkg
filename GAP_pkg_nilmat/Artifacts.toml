@@ -2,5 +2,5 @@
 git-tree-sha1 = "a6b95173e0e503d4fde5fd64a48e33e8dfa5207d"
 
     [[nilmat.download]]
-    sha256 = "cb59d2a6e3572fb5798c4665c37fc342893e0f19f2b1e9540b7cd21d430c27ed"
-    url = "https://github.com/gap-packages/nilmat/releases/download/v1.4.2/nilmat-1.4.2.tar.bz2"
+    sha256 = "4580fc05e4bcfc272165e7e4fd8b4266e8a38de2fce16523d976fd521c0f4404"
+    url = "https://github.com/gap-packages/nilmat/releases/download/v1.4.2/nilmat-1.4.2.tar.gz"

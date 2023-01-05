@@ -2,6 +2,19 @@
 
 This is a generated Julia wrapper package for the GAP package Polenta 1.3.10.
 
+## Usage
+
+Using Polenta in your Julia session for technical reasons requires two steps:
+
+    using GAP_pkg_polenta
+    GAP_pkg_polenta.load()
+
+This is necessary to deal with difference between how GAP and Julia
+resolve dependencies between packages. In addition, it allows passings
+arguments to load. For example:
+
+    GAP_pkg_polenta.load(banner=true, onlyneeded=false)
+
 ## Issues
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.

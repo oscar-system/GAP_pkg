@@ -1,4 +1,9 @@
 # ATTENTION: This file was generated, do not edit by hand.
+"""
+    GAP_pkg_linearalgebraforcap
+
+A wrapper for the GAP package LinearAlgebraForCAP 2022.12-04.
+"""
 module GAP_pkg_linearalgebraforcap
 
 using Pkg.Artifacts
@@ -11,8 +16,21 @@ function __init__()
     GAP.Globals.SetPackagePath(GapObj("linearalgebraforcap"), GapObj(path))
 end
 
-function load()
-    res = GAP.Globals.LoadPackage(GapObj("linearalgebraforcap"))
+"""
+    load(; banner::Bool=true, only_needed::Bool=true)
+
+Load the GAP package LinearAlgebraForCAP into GAP. Use `banner` to control
+whether package banners are shown. Use `only_needed` to control
+whether GAP should try to load all dependencies of the package
+(including optional ones, if there are any), or only the needed ones.
+
+Note that this Julia wrapper only declares dependencies on Julia
+wrappers for the *needed* GAP dependencies, but not for any optional
+ones. Thus `only_needed=false` may not actually load all optional
+dependencies.
+"""
+function load(; banner::Bool=true, only_needed::Bool=true)
+    res = GAP.Globals.LoadPackage(GapObj("linearalgebraforcap"), banner; OnlyNeeded=only_needed)
     if res != true
         error("failed to load GAP package linearalgebraforcap")
     end

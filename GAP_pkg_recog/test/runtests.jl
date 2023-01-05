@@ -2,4 +2,4 @@ using GAP_pkg_recog
 using Test
 
 import GAP_pkg_recog
-println("TODO")
+GAP_pkg_recog.load()

@@ -2,4 +2,4 @@ using GAP_pkg_sgpviz
 using Test
 
 import GAP_pkg_sgpviz
-println("TODO")
+GAP_pkg_sgpviz.load()

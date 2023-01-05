@@ -2,6 +2,19 @@
 
 This is a generated Julia wrapper package for the GAP package idrel 2.44.
 
+## Usage
+
+Using idrel in your Julia session for technical reasons requires two steps:
+
+    using GAP_pkg_idrel
+    GAP_pkg_idrel.load()
+
+This is necessary to deal with difference between how GAP and Julia
+resolve dependencies between packages. In addition, it allows passings
+arguments to load. For example:
+
+    GAP_pkg_idrel.load(banner=true, onlyneeded=false)
+
 ## Issues
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.

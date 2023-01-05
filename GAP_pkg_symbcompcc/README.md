@@ -2,6 +2,19 @@
 
 This is a generated Julia wrapper package for the GAP package SymbCompCC 1.3.2.
 
+## Usage
+
+Using SymbCompCC in your Julia session for technical reasons requires two steps:
+
+    using GAP_pkg_symbcompcc
+    GAP_pkg_symbcompcc.load()
+
+This is necessary to deal with difference between how GAP and Julia
+resolve dependencies between packages. In addition, it allows passings
+arguments to load. For example:
+
+    GAP_pkg_symbcompcc.load(banner=true, onlyneeded=false)
+
 ## Issues
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.
