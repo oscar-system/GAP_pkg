@@ -2,5 +2,8 @@
 ArtifactUtils = "8b73e784-e7d8-4ea5-973d-377fed4e3bce"
 Downloads = "f43a241f-c20a-4ad4-852c-f6b1247861c6"
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+GAP_pkg_ace = "814d6671-9727-4bca-80ea-0e15a460a414"
+GAP_pkg_crypting = "83efc43a-97b2-41ad-9494-899b3fbce1d7"
+GAP_pkg_nq = "b153fd4b-a316-4999-8822-2d185fbd7c1d"
 LocalRegistry = "89398ba2-070a-4b16-a995-9893c55d93cf"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
