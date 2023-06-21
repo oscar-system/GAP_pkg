@@ -277,8 +277,9 @@ end
 
 function parse_package_infos(fname::String = "package-infos.json")
     pkgs = JSON.parsefile("package-infos.json")
-    for (name, pkginfo) in pkgs
+    for name in sort(collect(keys(pkgs)))
         println("Processing '$name'")
+        pkginfo = pkgs[name]
         update_pkg(pkginfo)
     end
 end
