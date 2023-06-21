@@ -6,6 +6,12 @@ A wrapper for the GAP package singular 2022.09.23.
 """
 module GAP_pkg_singular
 
+# disable optimizer and method inference if possible, they just cost
+# us here without any benefit (copied from JLLWrappers.jl)
+if isdefined(Base, :Experimental) && isdefined(Base.Experimental, Symbol("@compiler_options"))
+    @eval Base.Experimental.@compiler_options compile=min optimize=0 infer=false
+end
+
 using Pkg.Artifacts
 using GAP
 

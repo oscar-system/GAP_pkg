@@ -6,6 +6,12 @@ A wrapper for the GAP package ZeroMQInterface 0.14.
 """
 module GAP_pkg_zeromqinterface
 
+# disable optimizer and method inference if possible, they just cost
+# us here without any benefit (copied from JLLWrappers.jl)
+if isdefined(Base, :Experimental) && isdefined(Base.Experimental, Symbol("@compiler_options"))
+    @eval Base.Experimental.@compiler_options compile=min optimize=0 infer=false
+end
+
 using Pkg.Artifacts
 using GAP
 

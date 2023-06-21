@@ -6,6 +6,12 @@ A wrapper for the GAP package MajoranaAlgebras 1.5.1.
 """
 module GAP_pkg_majoranaalgebras
 
+# disable optimizer and method inference if possible, they just cost
+# us here without any benefit (copied from JLLWrappers.jl)
+if isdefined(Base, :Experimental) && isdefined(Base.Experimental, Symbol("@compiler_options"))
+    @eval Base.Experimental.@compiler_options compile=min optimize=0 infer=false
+end
+
 using Pkg.Artifacts
 using GAP
 

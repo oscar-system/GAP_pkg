@@ -6,6 +6,12 @@ A wrapper for the GAP package IO_ForHomalg 2022.11-01.
 """
 module GAP_pkg_io_forhomalg
 
+# disable optimizer and method inference if possible, they just cost
+# us here without any benefit (copied from JLLWrappers.jl)
+if isdefined(Base, :Experimental) && isdefined(Base.Experimental, Symbol("@compiler_options"))
+    @eval Base.Experimental.@compiler_options compile=min optimize=0 infer=false
+end
+
 using Pkg.Artifacts
 using GAP
 
