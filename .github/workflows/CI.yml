@@ -1,0 +1,56 @@
+name: Run tests
+
+on:
+  push:
+    branches:
+      - 'main'
+      - 'release-'
+    tags: '*'
+  pull_request:
+
+concurrency:
+  # group by workflow and ref; the last slightly strange component ensures that for pull
+  # requests, we limit to 1 concurrent job, but for the master branch we don't
+  group: ${{ github.workflow }}-${{ github.ref }}-${{ github.ref != 'refs/heads/master' || github.run_number }}
+  # Cancel intermediate builds, but only if it is a pull request build.
+  cancel-in-progress: ${{ startsWith(github.ref, 'refs/pull/') }}
+
+jobs:
+  generate-matrix:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.get-names.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: "Generate job matrix"
+        id: get-names
+        run: |
+            MATRIX="{\"package\":["
+            for PKG in GAP_pkg_*; do
+              PKG=${PKG#"GAP_pkg_"}
+              MATRIX="${MATRIX}\"${PKG}\","
+            done
+            MATRIX="${MATRIX}]}"
+            echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
+
+  test:
+    name: "${{ matrix.package }}"
+    needs: generate-matrix
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.generate-matrix.outputs.matrix) }}
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: julia-actions/setup-julia@v1
+        with:
+          version: 1
+      - uses: julia-actions/cache@v1
+      - uses: julia-actions/julia-buildpkg@latest
+        with:
+          project: "GAP_pkg_${{ matrix.package }}"
+      - uses: julia-actions/julia-runtest@latest
+        with:
+          project: "GAP_pkg_${{ matrix.package }}"
+          depwarn: error
