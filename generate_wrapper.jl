@@ -163,10 +163,9 @@ function update_pkg(pkginfo)
     artifacts_toml = joinpath(julia_pkgname, "Artifacts.toml")
 
     # determine whether the artifact needs to be updated
-    arti = TOML.parsefile(artifacts_toml)
     sha256 = pkginfo["ArchiveSHA256"]
     d = Dict("sha256" => sha256, "url" => url)
-    if !(d in arti[pkgname]["download"])
+    if !(isfile(artifacts_toml) && d in TOML.parsefile(artifacts_toml)[pkgname]["download"])
         ArtifactUtils.add_artifact!(artifacts_toml, pkgname, url; force=true)
     end
 
