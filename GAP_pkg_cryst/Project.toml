@@ -1,7 +1,7 @@
 name = "GAP_pkg_cryst"
 uuid = "d08811e0-629b-48c0-9751-0d44467bdff1"
 authors = ["Max Horn <max@quendi.de>"]
-version = "4.1.25"
+version = "4.1.27"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

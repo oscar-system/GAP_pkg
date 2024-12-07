@@ -2,7 +2,7 @@
 """
     GAP_pkg_corelg
 
-A wrapper for the GAP package CoReLG 1.56.
+A wrapper for the GAP package CoReLG 1.57.
 """
 module GAP_pkg_corelg
 

@@ -1,7 +1,7 @@
 name = "GAP_pkg_modulepresentationsforcap"
 uuid = "d59dae47-2be5-4d10-9fed-98519994d9cb"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.12.1"
+version = "2024.9.2"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

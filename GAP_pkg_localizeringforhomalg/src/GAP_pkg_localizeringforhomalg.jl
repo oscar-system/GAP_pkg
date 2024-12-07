@@ -2,7 +2,7 @@
 """
     GAP_pkg_localizeringforhomalg
 
-A wrapper for the GAP package LocalizeRingForHomalg 2022.11-01.
+A wrapper for the GAP package LocalizeRingForHomalg 2023.10-01.
 """
 module GAP_pkg_localizeringforhomalg
 

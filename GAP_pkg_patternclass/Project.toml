@@ -1,7 +1,7 @@
 name = "GAP_pkg_patternclass"
 uuid = "b4f5e156-9cd7-46d7-9ceb-64aeeadb89cb"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.4.3"
+version = "2.4.5"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

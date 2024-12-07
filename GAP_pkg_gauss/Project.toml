@@ -1,7 +1,7 @@
 name = "GAP_pkg_gauss"
 uuid = "d58ecb00-a8a6-4d3f-86bc-32d45d4ca100"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.11.1"
+version = "2024.11.1"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

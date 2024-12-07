@@ -2,7 +2,7 @@
 """
     GAP_pkg_homalgtocas
 
-A wrapper for the GAP package HomalgToCAS 2022.11-02.
+A wrapper for the GAP package HomalgToCAS 2023.11-01.
 """
 module GAP_pkg_homalgtocas
 

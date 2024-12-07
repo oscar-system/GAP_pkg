@@ -2,7 +2,7 @@
 """
     GAP_pkg_recog
 
-A wrapper for the GAP package recog 1.4.2.
+A wrapper for the GAP package recog 1.4.3.
 """
 module GAP_pkg_recog
 

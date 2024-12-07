@@ -1,6 +1,6 @@
 # GAP_pkg_polymaking
 
-This is a generated Julia wrapper package for the GAP package polymaking 0.8.6.
+This is a generated Julia wrapper package for the GAP package polymaking 0.8.7.
 
 ## Usage
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_smallgrp
 
-A wrapper for the GAP package SmallGrp 1.5.1.
+A wrapper for the GAP package SmallGrp 1.5.4.
 """
 module GAP_pkg_smallgrp
 

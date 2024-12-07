@@ -2,7 +2,7 @@
 """
     GAP_pkg_digraphs
 
-A wrapper for the GAP package Digraphs 1.6.1.
+A wrapper for the GAP package Digraphs 1.9.0.
 """
 module GAP_pkg_digraphs
 

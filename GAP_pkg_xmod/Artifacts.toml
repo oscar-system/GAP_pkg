@@ -1,6 +1,6 @@
 [xmod]
-git-tree-sha1 = "d51fdbd86121a809a19bda3aebbe7536304f7b6f"
+git-tree-sha1 = "7d2e8966c7bd61e54516d7f6fdde3fb948e8df7b"
 
     [[xmod.download]]
-    sha256 = "502884be429e43ceb868481e1ca7bbbab3f1490474eb374e37939f5b1eb71c30"
-    url = "https://github.com/gap-packages/xmod/releases/download/v2.88/XMod-2.88.tar.gz"
+    sha256 = "9fcab572ae9fcbdc7af3355b4d5fc1aa29911e8edd8d50df5d7ad79f42965ccf"
+    url = "https://github.com/gap-packages/xmod/releases/download/v2.92/XMod-2.92.tar.gz"

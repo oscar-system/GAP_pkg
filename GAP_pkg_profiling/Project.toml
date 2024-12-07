@@ -1,7 +1,7 @@
 name = "GAP_pkg_profiling"
 uuid = "65fa85ae-6610-4c80-aea7-1356be075951"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.5.1"
+version = "2.6.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

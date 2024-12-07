@@ -2,7 +2,7 @@
 """
     GAP_pkg_modisom
 
-A wrapper for the GAP package ModIsom 2.5.3.
+A wrapper for the GAP package ModIsom 3.0.0.
 """
 module GAP_pkg_modisom
 

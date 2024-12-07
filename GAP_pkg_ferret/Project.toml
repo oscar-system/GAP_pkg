@@ -1,7 +1,7 @@
 name = "GAP_pkg_ferret"
 uuid = "13910343-4192-49a9-bb81-0d469eac0d3f"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.0.9"
+version = "1.0.14"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

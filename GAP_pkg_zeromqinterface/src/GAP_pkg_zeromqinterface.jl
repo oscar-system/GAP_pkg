@@ -2,7 +2,7 @@
 """
     GAP_pkg_zeromqinterface
 
-A wrapper for the GAP package ZeroMQInterface 0.14.
+A wrapper for the GAP package ZeroMQInterface 0.16.
 """
 module GAP_pkg_zeromqinterface
 

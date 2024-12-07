@@ -1,6 +1,6 @@
 [transgrp]
-git-tree-sha1 = "7dc249f9c66311816e082fc7c1186a4a8b31055b"
+git-tree-sha1 = "0308e773edbd0fa6000220e96226e6aa5aaad28d"
 
     [[transgrp.download]]
-    sha256 = "0e59431e4a349dfe7213c3a92408bd4219cd7998243bb97417d698c2b3619a5e"
-    url = "https://www.math.colostate.edu/~hulpke/transgrp/transgrp3.6.3.tar.gz"
+    sha256 = "6f2ec142a004f9d5e3b28bfa03246472fee93ceb12837206960bcb560eb72376"
+    url = "https://www.math.colostate.edu/~hulpke/transgrp/transgrp3.6.5.tar.gz"

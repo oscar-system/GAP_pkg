@@ -2,7 +2,7 @@
 """
     GAP_pkg_repndecomp
 
-A wrapper for the GAP package RepnDecomp 1.2.1.
+A wrapper for the GAP package RepnDecomp 1.3.0.
 """
 module GAP_pkg_repndecomp
 

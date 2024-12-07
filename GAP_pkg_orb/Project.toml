@@ -1,7 +1,7 @@
 name = "GAP_pkg_orb"
 uuid = "65eeee20-b562-414d-b9b5-c0471d49b84d"
 authors = ["Max Horn <max@quendi.de>"]
-version = "4.9.0"
+version = "4.9.1"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

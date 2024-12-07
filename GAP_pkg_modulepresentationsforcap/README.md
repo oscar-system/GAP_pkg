@@ -1,6 +1,6 @@
 # GAP_pkg_modulepresentationsforcap
 
-This is a generated Julia wrapper package for the GAP package ModulePresentationsForCAP 2022.12-01.
+This is a generated Julia wrapper package for the GAP package ModulePresentationsForCAP 2024.09-02.
 
 ## Usage
 

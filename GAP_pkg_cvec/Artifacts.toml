@@ -1,6 +1,6 @@
 [cvec]
-git-tree-sha1 = "7b1d44ef6cab9123feafc53e32cfafedf7b1cfd7"
+git-tree-sha1 = "408ae9c34b89b536a0da80d9951896af9db6a9b1"
 
     [[cvec.download]]
-    sha256 = "a06b10295a8a109b27a8f48d86d92ad94e0efcde1f37b6b7d88efbb297b8bd5e"
-    url = "https://github.com/gap-packages/cvec/releases/download/v2.7.6/cvec-2.7.6.tar.gz"
+    sha256 = "6232ed29003713263ec95b0c562d710cf3fd18015266dc34a4b51581c2a1461b"
+    url = "https://github.com/gap-packages/cvec/releases/download/v2.8.2/cvec-2.8.2.tar.gz"

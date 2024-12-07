@@ -1,6 +1,6 @@
 # GAP_pkg_homalgtocas
 
-This is a generated Julia wrapper package for the GAP package HomalgToCAS 2022.11-02.
+This is a generated Julia wrapper package for the GAP package HomalgToCAS 2023.11-01.
 
 ## Usage
 

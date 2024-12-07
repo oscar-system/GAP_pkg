@@ -1,6 +1,6 @@
 # GAP_pkg_ugaly
 
-This is a generated Julia wrapper package for the GAP package UGALY 4.0.3.
+This is a generated Julia wrapper package for the GAP package UGALY 4.1.3.
 
 ## Usage
 

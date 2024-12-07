@@ -2,7 +2,7 @@
 """
     GAP_pkg_standardff
 
-A wrapper for the GAP package StandardFF 0.9.4.
+A wrapper for the GAP package StandardFF 1.0.
 """
 module GAP_pkg_standardff
 

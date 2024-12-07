@@ -2,7 +2,7 @@
 """
     GAP_pkg_scscp
 
-A wrapper for the GAP package SCSCP 2.4.0.
+A wrapper for the GAP package SCSCP 2.4.3.
 """
 module GAP_pkg_scscp
 

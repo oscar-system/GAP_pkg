@@ -1,6 +1,6 @@
 [cryst]
-git-tree-sha1 = "fa7e3159a575cd98c2b0e9d5fdf7f63d0234e5e7"
+git-tree-sha1 = "6bf4041a528ca0b2015502922f1c8339eee97707"
 
     [[cryst.download]]
-    sha256 = "f784398c06c5ccef550a4ff0767677bdaec3f4dbc744853471ea16accbaacf15"
-    url = "https://www.math.uni-bielefeld.de/~gaehler/gap/Cryst/cryst-4.1.25.tar.gz"
+    sha256 = "f9beb977b9b032b9757c06d0054f2884a10831aaaafcf916e5419cedc93d6a50"
+    url = "https://www.math.uni-bielefeld.de/~gaehler/gap/Cryst/cryst-4.1.27.tar.gz"

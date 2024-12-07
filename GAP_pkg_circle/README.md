@@ -1,6 +1,6 @@
 # GAP_pkg_circle
 
-This is a generated Julia wrapper package for the GAP package Circle 1.6.5.
+This is a generated Julia wrapper package for the GAP package Circle 1.6.6.
 
 ## Usage
 

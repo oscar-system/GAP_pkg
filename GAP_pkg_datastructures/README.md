@@ -1,6 +1,6 @@
 # GAP_pkg_datastructures
 
-This is a generated Julia wrapper package for the GAP package datastructures 0.3.0.
+This is a generated Julia wrapper package for the GAP package datastructures 0.3.1.
 
 ## Usage
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_hap
 
-A wrapper for the GAP package HAP 1.47.
+A wrapper for the GAP package HAP 1.66.
 """
 module GAP_pkg_hap
 

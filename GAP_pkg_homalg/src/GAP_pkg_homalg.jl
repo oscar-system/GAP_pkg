@@ -2,7 +2,7 @@
 """
     GAP_pkg_homalg
 
-A wrapper for the GAP package homalg 2022.11-01.
+A wrapper for the GAP package homalg 2024.01-01.
 """
 module GAP_pkg_homalg
 

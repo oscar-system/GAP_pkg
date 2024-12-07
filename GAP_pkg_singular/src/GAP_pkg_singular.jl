@@ -2,7 +2,7 @@
 """
     GAP_pkg_singular
 
-A wrapper for the GAP package singular 2022.09.23.
+A wrapper for the GAP package singular 2024.06.03.
 """
 module GAP_pkg_singular
 

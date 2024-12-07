@@ -2,7 +2,7 @@
 """
     GAP_pkg_cubefree
 
-A wrapper for the GAP package Cubefree 1.19.
+A wrapper for the GAP package Cubefree 1.20.
 """
 module GAP_pkg_cubefree
 

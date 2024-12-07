@@ -1,0 +1,6 @@
+[lins]
+git-tree-sha1 = "ecf184ab819e5666ea9c8c6158d0961d38835fbb"
+
+    [[lins.download]]
+    sha256 = "bc3c2c82a50a7e091389a065cdeecc343096b266a72c2fe779e5f4e1491f35f3"
+    url = "https://github.com/gap-packages/LINS/releases/download/v0.9/LINS-0.9.tar.gz"

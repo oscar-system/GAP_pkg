@@ -2,7 +2,7 @@
 """
     GAP_pkg_gradedringforhomalg
 
-A wrapper for the GAP package GradedRingForHomalg 2022.11-01.
+A wrapper for the GAP package GradedRingForHomalg 2024.07-01.
 """
 module GAP_pkg_gradedringforhomalg
 

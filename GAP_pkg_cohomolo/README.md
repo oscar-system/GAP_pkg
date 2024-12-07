@@ -1,6 +1,6 @@
 # GAP_pkg_cohomolo
 
-This is a generated Julia wrapper package for the GAP package cohomolo 1.6.10.
+This is a generated Julia wrapper package for the GAP package cohomolo 1.6.11.
 
 ## Usage
 

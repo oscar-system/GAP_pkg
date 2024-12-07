@@ -1,6 +1,6 @@
 # GAP_pkg_kan
 
-This is a generated Julia wrapper package for the GAP package kan 1.34.
+This is a generated Julia wrapper package for the GAP package kan 1.37.
 
 ## Usage
 

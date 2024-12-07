@@ -2,7 +2,7 @@
 """
     GAP_pkg_kan
 
-A wrapper for the GAP package kan 1.34.
+A wrapper for the GAP package kan 1.37.
 """
 module GAP_pkg_kan
 

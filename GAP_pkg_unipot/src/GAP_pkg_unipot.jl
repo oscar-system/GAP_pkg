@@ -2,7 +2,7 @@
 """
     GAP_pkg_unipot
 
-A wrapper for the GAP package Unipot 1.5.
+A wrapper for the GAP package Unipot 1.6.
 """
 module GAP_pkg_unipot
 

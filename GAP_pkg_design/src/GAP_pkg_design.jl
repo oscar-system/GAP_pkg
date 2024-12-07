@@ -2,7 +2,7 @@
 """
     GAP_pkg_design
 
-A wrapper for the GAP package DESIGN 1.7.
+A wrapper for the GAP package DESIGN 1.8.2.
 """
 module GAP_pkg_design
 

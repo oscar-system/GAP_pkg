@@ -1,6 +1,6 @@
 [hecke]
-git-tree-sha1 = "e636ba6cf493a2f497db352fe80df020e23a5133"
+git-tree-sha1 = "eed5d374e2fcaedc449507e6c6b777c473c1a75a"
 
     [[hecke.download]]
-    sha256 = "f8847a80b74ee979f0275ee8496232475e1c2939990a091f44e31ef39b7718ed"
-    url = "https://github.com/gap-packages/hecke/releases/download/v1.5.3/hecke-1.5.3.tar.gz"
+    sha256 = "5f048ba8b62283de5ce3b2aeaae87338d9c89f4e74e59618bc5d546b77faf877"
+    url = "https://github.com/gap-packages/hecke/releases/download/v1.5.4/hecke-1.5.4.tar.gz"

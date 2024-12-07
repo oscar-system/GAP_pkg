@@ -1,0 +1,6 @@
+[qdistrnd]
+git-tree-sha1 = "005fc01c885703dd4f02f036473eff2c65607964"
+
+    [[qdistrnd.download]]
+    sha256 = "40c9751415e799e024a6cd01543fc9ae033673365fc66dbaeee1b052e30e2561"
+    url = "https://github.com/QEC-pages/QDistRnd/releases/download/v0.9.4/qdistrnd-0.9.4.tar.gz"

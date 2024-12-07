@@ -1,6 +1,6 @@
 [toric]
-git-tree-sha1 = "f19b147b54968b74f5821604460ac02c182c67df"
+git-tree-sha1 = "eeeb3a5a147b0417f4b9e053ba4521ccfe264bea"
 
     [[toric.download]]
-    sha256 = "8eb65c64bc38038957e9552fc8f409023407a0ed079884fd484fffe8d61e03de"
-    url = "https://github.com/gap-packages/toric/releases/download/v1.9.5/Toric-1.9.5.tar.gz"
+    sha256 = "3cc7fd0da3c258371f41b15718212ade864d1ddc7dcc28a0b3e82cf8316db4bd"
+    url = "https://github.com/gap-packages/toric/releases/download/v1.9.6/Toric-1.9.6.tar.gz"

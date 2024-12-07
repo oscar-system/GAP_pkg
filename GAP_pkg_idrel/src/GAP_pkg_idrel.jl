@@ -2,7 +2,7 @@
 """
     GAP_pkg_idrel
 
-A wrapper for the GAP package idrel 2.44.
+A wrapper for the GAP package idrel 2.48.
 """
 module GAP_pkg_idrel
 

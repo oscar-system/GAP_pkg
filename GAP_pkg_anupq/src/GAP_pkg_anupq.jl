@@ -2,7 +2,7 @@
 """
     GAP_pkg_anupq
 
-A wrapper for the GAP package ANUPQ 3.2.6.
+A wrapper for the GAP package ANUPQ 3.3.1.
 """
 module GAP_pkg_anupq
 

@@ -1,6 +1,6 @@
 # GAP_pkg_yangbaxter
 
-This is a generated Julia wrapper package for the GAP package YangBaxter 0.10.2.
+This is a generated Julia wrapper package for the GAP package YangBaxter 0.10.6.
 
 ## Usage
 

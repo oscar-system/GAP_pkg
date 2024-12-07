@@ -1,6 +1,6 @@
 # GAP_pkg_help
 
-This is a generated Julia wrapper package for the GAP package HeLP 3.5.
+This is a generated Julia wrapper package for the GAP package HeLP 4.0.
 
 ## Usage
 

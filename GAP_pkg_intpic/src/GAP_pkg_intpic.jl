@@ -2,7 +2,7 @@
 """
     GAP_pkg_intpic
 
-A wrapper for the GAP package IntPic 0.3.0.
+A wrapper for the GAP package IntPic 0.4.0.
 """
 module GAP_pkg_intpic
 

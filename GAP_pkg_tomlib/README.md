@@ -1,6 +1,6 @@
 # GAP_pkg_tomlib
 
-This is a generated Julia wrapper package for the GAP package TomLib 1.2.9.
+This is a generated Julia wrapper package for the GAP package TomLib 1.2.11.
 
 ## Usage
 

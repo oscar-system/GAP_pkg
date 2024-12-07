@@ -1,6 +1,6 @@
 # GAP_pkg_xgap
 
-This is a generated Julia wrapper package for the GAP package XGAP 4.31.
+This is a generated Julia wrapper package for the GAP package XGAP 4.32.
 
 ## Usage
 

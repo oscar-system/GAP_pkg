@@ -1,6 +1,6 @@
 # GAP_pkg_corelg
 
-This is a generated Julia wrapper package for the GAP package CoReLG 1.56.
+This is a generated Julia wrapper package for the GAP package CoReLG 1.57.
 
 ## Usage
 

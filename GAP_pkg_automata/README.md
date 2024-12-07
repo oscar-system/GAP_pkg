@@ -1,6 +1,6 @@
 # GAP_pkg_automata
 
-This is a generated Julia wrapper package for the GAP package Automata 1.15.
+This is a generated Julia wrapper package for the GAP package Automata 1.16.
 
 ## Usage
 

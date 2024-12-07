@@ -1,7 +1,7 @@
 name = "GAP_pkg_float"
 uuid = "7a1e5fa9-0d0e-4175-b8b4-d16cee386199"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.0.3"
+version = "1.0.5"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

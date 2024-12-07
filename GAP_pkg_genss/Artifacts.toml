@@ -1,6 +1,6 @@
 [genss]
-git-tree-sha1 = "95afcab28c3f8d94e41f456263ce926fd6ff7305"
+git-tree-sha1 = "3bd5aa8803ed3ecf4febde53e2c27a242d2631e1"
 
     [[genss.download]]
-    sha256 = "5878d828a1fd442bbc97703c738c0ee690d7822765ba603a36eed00de317177f"
-    url = "https://github.com/gap-packages/genss/releases/download/v1.6.8/genss-1.6.8.tar.gz"
+    sha256 = "3b34a226f780352f115472078af764567d2e75c5a189300cf2e2915e8f7d1429"
+    url = "https://github.com/gap-packages/genss/releases/download/v1.6.9/genss-1.6.9.tar.gz"

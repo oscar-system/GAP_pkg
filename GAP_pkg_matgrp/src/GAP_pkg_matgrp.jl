@@ -2,7 +2,7 @@
 """
     GAP_pkg_matgrp
 
-A wrapper for the GAP package matgrp 0.70.
+A wrapper for the GAP package matgrp 0.71.
 """
 module GAP_pkg_matgrp
 

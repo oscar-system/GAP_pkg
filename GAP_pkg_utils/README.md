@@ -1,6 +1,6 @@
 # GAP_pkg_utils
 
-This is a generated Julia wrapper package for the GAP package utils 0.81.
+This is a generated Julia wrapper package for the GAP package utils 0.85.
 
 ## Usage
 

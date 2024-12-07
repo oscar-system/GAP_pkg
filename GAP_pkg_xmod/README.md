@@ -1,6 +1,6 @@
 # GAP_pkg_xmod
 
-This is a generated Julia wrapper package for the GAP package XMod 2.88.
+This is a generated Julia wrapper package for the GAP package XMod 2.92.
 
 ## Usage
 

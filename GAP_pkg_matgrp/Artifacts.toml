@@ -1,6 +1,6 @@
 [matgrp]
-git-tree-sha1 = "c5ad9f9f34d45eae8cfb316211429097029f169b"
+git-tree-sha1 = "d413d757f11ee7db9016b638b55ccbddd10e1411"
 
     [[matgrp.download]]
-    sha256 = "4f773cadc9548553fbe3429acbda4a82b9e0eb110e11888663d5ca2079a7862f"
-    url = "http://www.math.colostate.edu/~hulpke/matgrp/matgrp0.70.tar.gz"
+    sha256 = "e93ee0ade034f9971a22c95781e55bdf728e5e951327e9b85d1e6cd667bb375a"
+    url = "https://www.math.colostate.edu/~hulpke/matgrp/matgrp0.71.tar.gz"

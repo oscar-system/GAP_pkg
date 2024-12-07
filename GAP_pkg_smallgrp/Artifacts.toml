@@ -1,6 +1,6 @@
 [smallgrp]
-git-tree-sha1 = "94af8e5d8d729dcb573eab35635c18271ddc3a32"
+git-tree-sha1 = "051592b40f95a6f5d5b80d6d417f6c442b446de1"
 
     [[smallgrp.download]]
-    sha256 = "4ffeab3c5f7b0f4fa6768d95e69b470c2c92e1ba197ac9515663082354541951"
-    url = "https://github.com/gap-packages/SmallGrp/releases/download/v1.5.1/SmallGrp-1.5.1.tar.gz"
+    sha256 = "dea2172de9aa89a128aa8846192b7144df03cf54b12459241db7b5fbb7091905"
+    url = "https://github.com/gap-packages/SmallGrp/releases/download/v1.5.4/SmallGrp-1.5.4.tar.gz"

@@ -1,6 +1,6 @@
 # GAP_pkg_modisom
 
-This is a generated Julia wrapper package for the GAP package ModIsom 2.5.3.
+This is a generated Julia wrapper package for the GAP package ModIsom 3.0.0.
 
 ## Usage
 

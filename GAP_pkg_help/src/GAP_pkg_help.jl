@@ -2,7 +2,7 @@
 """
     GAP_pkg_help
 
-A wrapper for the GAP package HeLP 3.5.
+A wrapper for the GAP package HeLP 4.0.
 """
 module GAP_pkg_help
 

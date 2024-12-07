@@ -2,7 +2,7 @@
 """
     GAP_pkg_gradedmodules
 
-A wrapper for the GAP package GradedModules 2022.09-02.
+A wrapper for the GAP package GradedModules 2024.01-01.
 """
 module GAP_pkg_gradedmodules
 

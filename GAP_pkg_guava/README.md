@@ -1,6 +1,6 @@
 # GAP_pkg_guava
 
-This is a generated Julia wrapper package for the GAP package GUAVA 3.17.
+This is a generated Julia wrapper package for the GAP package GUAVA 3.19.
 
 ## Usage
 

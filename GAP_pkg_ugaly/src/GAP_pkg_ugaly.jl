@@ -2,7 +2,7 @@
 """
     GAP_pkg_ugaly
 
-A wrapper for the GAP package UGALY 4.0.3.
+A wrapper for the GAP package UGALY 4.1.3.
 """
 module GAP_pkg_ugaly
 

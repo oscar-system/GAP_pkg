@@ -2,7 +2,7 @@
 """
     GAP_pkg_ctbllib
 
-A wrapper for the GAP package CTblLib 1.3.4.
+A wrapper for the GAP package CTblLib 1.3.9.
 """
 module GAP_pkg_ctbllib
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_gauss
 
-A wrapper for the GAP package Gauss 2022.11-01.
+A wrapper for the GAP package Gauss 2024.11-01.
 """
 module GAP_pkg_gauss
 

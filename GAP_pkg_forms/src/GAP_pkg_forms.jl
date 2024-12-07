@@ -2,7 +2,7 @@
 """
     GAP_pkg_forms
 
-A wrapper for the GAP package Forms 1.2.9.
+A wrapper for the GAP package Forms 1.2.12.
 """
 module GAP_pkg_forms
 

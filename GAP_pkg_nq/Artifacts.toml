@@ -1,6 +1,6 @@
 [nq]
-git-tree-sha1 = "f7eb75f688697dbc34d8258d78da9601821d18a9"
+git-tree-sha1 = "224c55c065fa3ecfc9c8159a44c1c20a02a29952"
 
     [[nq.download]]
-    sha256 = "0db49d81173dccd36fb80525fd61fac6213a3843837ae0eac9867161e26ebad8"
-    url = "https://github.com/gap-packages/nq/releases/download/v2.5.9/nq-2.5.9.tar.gz"
+    sha256 = "6a8ad97023d90564d789be55b12bbc68d26a3714126f46bc75b415eec8f0f406"
+    url = "https://github.com/gap-packages/nq/releases/download/v2.5.11/nq-2.5.11.tar.gz"

@@ -2,7 +2,7 @@
 """
     GAP_pkg_io
 
-A wrapper for the GAP package IO 4.8.0.
+A wrapper for the GAP package IO 4.9.1.
 """
 module GAP_pkg_io
 

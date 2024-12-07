@@ -1,6 +1,6 @@
 [caratinterface]
-git-tree-sha1 = "bc06254e6764a850b3870ab6ca7e36464e458399"
+git-tree-sha1 = "13ed4fe718f84009ff04e3bdfcf6ed472254e285"
 
     [[caratinterface.download]]
-    sha256 = "4f3c843f64175706ece12b826b970465d3e2bd9afc153f75603948ef7f05dd9e"
-    url = "https://www.math.uni-bielefeld.de/~gaehler/gap/CaratInterface/CaratInterface-2.3.4.tar.gz"
+    sha256 = "fdbc0f86befd8bf575c93475b33f58329ce99fe2ef97ba69af1478bc8664059c"
+    url = "https://www.math.uni-bielefeld.de/~gaehler/gap/CaratInterface/CaratInterface-2.3.7.tar.gz"

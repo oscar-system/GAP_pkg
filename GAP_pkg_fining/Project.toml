@@ -1,7 +1,7 @@
 name = "GAP_pkg_fining"
 uuid = "2d8fb819-174e-4dd7-93b7-21cb5bc2ece2"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.5.4"
+version = "1.5.6"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

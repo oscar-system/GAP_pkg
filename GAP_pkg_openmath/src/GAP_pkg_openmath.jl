@@ -2,7 +2,7 @@
 """
     GAP_pkg_openmath
 
-A wrapper for the GAP package OpenMath 11.5.2.
+A wrapper for the GAP package OpenMath 11.5.3.
 """
 module GAP_pkg_openmath
 

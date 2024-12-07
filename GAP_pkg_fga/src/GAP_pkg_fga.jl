@@ -2,7 +2,7 @@
 """
     GAP_pkg_fga
 
-A wrapper for the GAP package FGA 1.4.0.
+A wrapper for the GAP package FGA 1.5.0.
 """
 module GAP_pkg_fga
 

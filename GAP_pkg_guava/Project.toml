@@ -1,7 +1,7 @@
 name = "GAP_pkg_guava"
 uuid = "b4a054ed-bc10-4286-9f4b-092c249dd82e"
 authors = ["Max Horn <max@quendi.de>"]
-version = "3.17.0"
+version = "3.19.0"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

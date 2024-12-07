@@ -2,7 +2,7 @@
 """
     GAP_pkg_xmod
 
-A wrapper for the GAP package XMod 2.88.
+A wrapper for the GAP package XMod 2.92.
 """
 module GAP_pkg_xmod
 

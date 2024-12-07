@@ -2,7 +2,7 @@
 """
     GAP_pkg_smallsemi
 
-A wrapper for the GAP package Smallsemi 0.6.13.
+A wrapper for the GAP package Smallsemi 0.7.1.
 """
 module GAP_pkg_smallsemi
 

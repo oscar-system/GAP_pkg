@@ -1,6 +1,6 @@
 # GAP_pkg_images
 
-This is a generated Julia wrapper package for the GAP package images 1.3.1.
+This is a generated Julia wrapper package for the GAP package images 1.3.3.
 
 ## Usage
 

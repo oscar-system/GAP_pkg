@@ -2,7 +2,7 @@
 """
     GAP_pkg_circle
 
-A wrapper for the GAP package Circle 1.6.5.
+A wrapper for the GAP package Circle 1.6.6.
 """
 module GAP_pkg_circle
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_profiling
 
-A wrapper for the GAP package profiling 2.5.1.
+A wrapper for the GAP package profiling 2.6.0.
 """
 module GAP_pkg_profiling
 

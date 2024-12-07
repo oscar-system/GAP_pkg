@@ -2,7 +2,7 @@
 """
     GAP_pkg_agt
 
-A wrapper for the GAP package AGT 0.3.
+A wrapper for the GAP package AGT 0.3.1.
 """
 module GAP_pkg_agt
 

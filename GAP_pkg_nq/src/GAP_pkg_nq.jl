@@ -2,7 +2,7 @@
 """
     GAP_pkg_nq
 
-A wrapper for the GAP package nq 2.5.9.
+A wrapper for the GAP package nq 2.5.11.
 """
 module GAP_pkg_nq
 

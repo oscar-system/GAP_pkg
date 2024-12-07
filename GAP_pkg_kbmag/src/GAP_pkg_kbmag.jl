@@ -2,7 +2,7 @@
 """
     GAP_pkg_kbmag
 
-A wrapper for the GAP package kbmag 1.5.10.
+A wrapper for the GAP package kbmag 1.5.11.
 """
 module GAP_pkg_kbmag
 

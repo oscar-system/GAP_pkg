@@ -1,6 +1,6 @@
 # GAP_pkg_transgrp
 
-This is a generated Julia wrapper package for the GAP package TransGrp 3.6.3.
+This is a generated Julia wrapper package for the GAP package TransGrp 3.6.5.
 
 ## Usage
 
@@ -25,4 +25,4 @@ Report general issues with the GAP package at <https://github.com/hulpke/transgr
 
 This wrapper is under the MIT license (see file `LICENSE`).
 
-The license of the wrapped GAP package is unknown.
+The license of the wrapped GAP package is Artistic-2.0 AND (GPL-2.0-only OR GPL-3.0-only).

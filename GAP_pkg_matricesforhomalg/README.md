@@ -1,6 +1,6 @@
 # GAP_pkg_matricesforhomalg
 
-This is a generated Julia wrapper package for the GAP package MatricesForHomalg 2022.12-01.
+This is a generated Julia wrapper package for the GAP package MatricesForHomalg 2024.11-02.
 
 ## Usage
 

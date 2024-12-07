@@ -1,6 +1,6 @@
 [modules]
-git-tree-sha1 = "d748fb35ee02b365688d1b2d41398d21405e352b"
+git-tree-sha1 = "29fa8f97c4e5897d9d8c3879a895e333f6822b19"
 
     [[modules.download]]
-    sha256 = "6118572e279a6941117ddab37f0d53e77a386801c8b5c544e9dcdf2ff696b3a6"
-    url = "https://github.com/homalg-project/homalg_project/releases/download/Modules-2022.11-01/Modules-2022.11-01.tar.gz"
+    sha256 = "63abbfc5738355abec5bf64ae0b4217dfc217b674f1aaa514e0a5ea736268d80"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/Modules-2024.01-01/Modules-2024.01-01.tar.gz"

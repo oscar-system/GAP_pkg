@@ -1,6 +1,6 @@
 # GAP_pkg_smallgrp
 
-This is a generated Julia wrapper package for the GAP package SmallGrp 1.5.1.
+This is a generated Julia wrapper package for the GAP package SmallGrp 1.5.4.
 
 ## Usage
 

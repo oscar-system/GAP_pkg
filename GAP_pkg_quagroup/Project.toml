@@ -1,7 +1,7 @@
 name = "GAP_pkg_quagroup"
 uuid = "973e2bfa-2433-4cc0-8d22-79a60bc09b84"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.8.3"
+version = "1.8.4"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

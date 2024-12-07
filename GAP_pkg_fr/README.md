@@ -1,6 +1,6 @@
 # GAP_pkg_fr
 
-This is a generated Julia wrapper package for the GAP package FR 2.4.12.
+This is a generated Julia wrapper package for the GAP package FR 2.4.13.
 
 ## Usage
 

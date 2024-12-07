@@ -1,7 +1,7 @@
 name = "GAP_pkg_cohomolo"
 uuid = "af553728-c27c-4a18-9dda-3e7b775e7ca3"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.6.10"
+version = "1.6.11"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

@@ -1,7 +1,7 @@
 name = "GAP_pkg_io_forhomalg"
 uuid = "34901a13-5db8-47e4-b635-8610f3e49866"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.11.1"
+version = "2023.2.4"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

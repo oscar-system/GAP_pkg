@@ -1,6 +1,6 @@
 [gradedringforhomalg]
-git-tree-sha1 = "bcf624f65c7e1e68cd15bc3dc2e786b33637f3f8"
+git-tree-sha1 = "20105a8eaef7978225b3f57ea77984793c961faa"
 
     [[gradedringforhomalg.download]]
-    sha256 = "a23f101f616683cc5cf549c6358b149b9e7b8b5b126f7a533534515c04ab2fca"
-    url = "https://github.com/homalg-project/homalg_project/releases/download/GradedRingForHomalg-2022.11-01/GradedRingForHomalg-2022.11-01.tar.gz"
+    sha256 = "e5de3cfbe00921ab6d2a62c42185f68719a19029b081a0323cfbe24f7a505f64"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/GradedRingForHomalg-2024.07-01/GradedRingForHomalg-2024.07-01.tar.gz"

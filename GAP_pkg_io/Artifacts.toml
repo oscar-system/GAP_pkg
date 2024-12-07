@@ -1,6 +1,6 @@
 [io]
-git-tree-sha1 = "4a90d75bb4208e776c4dd94a9af65214ed166eba"
+git-tree-sha1 = "d502c7db86aa6c4bd0cb0726764446755b816a2c"
 
     [[io.download]]
-    sha256 = "c8a788ff26ffd9a1c3dc89c06b086dadf00c30250d6ef6f0ef138dd2c04c26df"
-    url = "https://github.com/gap-packages/io/releases/download/v4.8.0/io-4.8.0.tar.gz"
+    sha256 = "edb0a8ab61ad36664e2ddaab38af052ad3e063479dfdb7985a10ebb8b1c7795b"
+    url = "https://github.com/gap-packages/io/releases/download/v4.9.1/io-4.9.1.tar.gz"

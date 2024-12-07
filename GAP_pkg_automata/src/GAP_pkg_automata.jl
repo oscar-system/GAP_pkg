@@ -2,7 +2,7 @@
 """
     GAP_pkg_automata
 
-A wrapper for the GAP package Automata 1.15.
+A wrapper for the GAP package Automata 1.16.
 """
 module GAP_pkg_automata
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_patternclass
 
-A wrapper for the GAP package PatternClass 2.4.3.
+A wrapper for the GAP package PatternClass 2.4.5.
 """
 module GAP_pkg_patternclass
 

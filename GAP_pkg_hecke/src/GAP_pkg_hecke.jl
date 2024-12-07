@@ -2,7 +2,7 @@
 """
     GAP_pkg_hecke
 
-A wrapper for the GAP package hecke 1.5.3.
+A wrapper for the GAP package hecke 1.5.4.
 """
 module GAP_pkg_hecke
 

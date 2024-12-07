@@ -1,6 +1,6 @@
 # GAP_pkg_example
 
-This is a generated Julia wrapper package for the GAP package Example 4.3.2.
+This is a generated Julia wrapper package for the GAP package Example 4.4.0.
 
 ## Usage
 

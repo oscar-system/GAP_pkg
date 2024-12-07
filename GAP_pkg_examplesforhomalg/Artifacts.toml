@@ -1,6 +1,6 @@
 [examplesforhomalg]
-git-tree-sha1 = "6549c82f43448caa47af0f6616841bee3713e865"
+git-tree-sha1 = "71a13987025460a1c7aa6ce3c8e46fe55005f2c7"
 
     [[examplesforhomalg.download]]
-    sha256 = "f4366df98d3e9253c62aef0fcc40359748b61bc9e17a35a9af3c735190cde79a"
-    url = "https://github.com/homalg-project/homalg_project/releases/download/ExamplesForHomalg-2022.11-01/ExamplesForHomalg-2022.11-01.tar.gz"
+    sha256 = "a0e2898b9fd8df8bd3597574eba31d7eec9d38b41d0579dfce778d311903d764"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/ExamplesForHomalg-2023.10-01/ExamplesForHomalg-2023.10-01.tar.gz"

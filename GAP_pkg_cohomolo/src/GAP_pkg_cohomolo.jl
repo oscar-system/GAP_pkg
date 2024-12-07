@@ -2,7 +2,7 @@
 """
     GAP_pkg_cohomolo
 
-A wrapper for the GAP package cohomolo 1.6.10.
+A wrapper for the GAP package cohomolo 1.6.11.
 """
 module GAP_pkg_cohomolo
 

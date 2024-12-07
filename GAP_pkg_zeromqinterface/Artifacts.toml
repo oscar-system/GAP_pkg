@@ -1,6 +1,6 @@
 [zeromqinterface]
-git-tree-sha1 = "326968958fa08036558ffd860f1fa7480b17fe8b"
+git-tree-sha1 = "9b937276d64d41566a2c0ebea5756439675514af"
 
     [[zeromqinterface.download]]
-    sha256 = "db39cb43e639c6f62bc9391b62a73e4050ebe71b1ca96879f4a8bdbd080b4b77"
-    url = "https://github.com/gap-packages/ZeroMQInterface/releases/download/v0.14/ZeroMQInterface-0.14.tar.gz"
+    sha256 = "da9fc9ee04ba701b224d0809fdf4fc5b9782d9399326982273f77419fb3bd400"
+    url = "https://github.com/gap-packages/ZeroMQInterface/releases/download/v0.16/ZeroMQInterface-0.16.tar.gz"

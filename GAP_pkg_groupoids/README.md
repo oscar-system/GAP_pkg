@@ -1,6 +1,6 @@
 # GAP_pkg_groupoids
 
-This is a generated Julia wrapper package for the GAP package groupoids 1.71.
+This is a generated Julia wrapper package for the GAP package groupoids 1.76.
 
 ## Usage
 

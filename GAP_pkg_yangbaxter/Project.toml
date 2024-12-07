@@ -1,7 +1,7 @@
 name = "GAP_pkg_yangbaxter"
 uuid = "90761d72-ce38-4900-b3ee-bef1441e28b0"
 authors = ["Max Horn <max@quendi.de>"]
-version = "0.10.2"
+version = "0.10.6"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

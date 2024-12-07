@@ -1,7 +1,7 @@
 name = "GAP_pkg_digraphs"
 uuid = "cd076ae3-e278-400e-8806-78c90db70d4c"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.6.1"
+version = "1.9.0"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

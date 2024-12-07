@@ -1,6 +1,6 @@
 # GAP_pkg_gaussforhomalg
 
-This is a generated Julia wrapper package for the GAP package GaussForHomalg 2022.08-03.
+This is a generated Julia wrapper package for the GAP package GaussForHomalg 2024.08-01.
 
 ## Usage
 

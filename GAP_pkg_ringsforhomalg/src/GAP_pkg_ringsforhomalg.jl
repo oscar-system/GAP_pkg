@@ -2,7 +2,7 @@
 """
     GAP_pkg_ringsforhomalg
 
-A wrapper for the GAP package RingsForHomalg 2022.11-01.
+A wrapper for the GAP package RingsForHomalg 2024.11-02.
 """
 module GAP_pkg_ringsforhomalg
 

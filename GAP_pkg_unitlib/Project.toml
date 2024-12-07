@@ -1,7 +1,7 @@
 name = "GAP_pkg_unitlib"
 uuid = "21ab8e35-b07f-4b2f-a7c4-dc74d4e7c874"
 authors = ["Max Horn <max@quendi.de>"]
-version = "4.1.0"
+version = "4.2.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

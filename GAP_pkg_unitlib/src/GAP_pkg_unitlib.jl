@@ -2,7 +2,7 @@
 """
     GAP_pkg_unitlib
 
-A wrapper for the GAP package UnitLib 4.1.0.
+A wrapper for the GAP package UnitLib 4.2.0.
 """
 module GAP_pkg_unitlib
 

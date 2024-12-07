@@ -1,7 +1,7 @@
 name = "GAP_pkg_unipot"
 uuid = "f7a7ecdb-feff-4c9b-bf4c-d8ba1d8a86c8"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.5.0"
+version = "1.6.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

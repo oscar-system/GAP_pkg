@@ -1,6 +1,6 @@
 [guava]
-git-tree-sha1 = "40a69ae359ab56a73601c3a7273bee3dac17f500"
+git-tree-sha1 = "d0c29f276aa42255b6c96fff2404cfd68351ec03"
 
     [[guava.download]]
-    sha256 = "4f5b2495ac44684bc6318d52ed25e934aff05a14a8e24add242e167c461624a8"
-    url = "https://github.com/gap-packages/guava/releases/download/v3.17/guava-3.17.tar.gz"
+    sha256 = "653fa83dfb97702eab0936c2e8db6d293a4d55fd73f8e5e6f3847ee19da3fe3d"
+    url = "https://github.com/gap-packages/guava/releases/download/v3.19/guava-3.19.tar.gz"

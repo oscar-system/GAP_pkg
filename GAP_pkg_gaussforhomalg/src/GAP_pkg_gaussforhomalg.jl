@@ -2,7 +2,7 @@
 """
     GAP_pkg_gaussforhomalg
 
-A wrapper for the GAP package GaussForHomalg 2022.08-03.
+A wrapper for the GAP package GaussForHomalg 2024.08-01.
 """
 module GAP_pkg_gaussforhomalg
 

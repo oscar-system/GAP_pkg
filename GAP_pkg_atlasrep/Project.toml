@@ -1,7 +1,7 @@
 name = "GAP_pkg_atlasrep"
 uuid = "caa6e575-0907-4d9d-a0f9-dc847a7a9c0e"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.1.6"
+version = "2.1.9"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

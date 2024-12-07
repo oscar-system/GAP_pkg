@@ -2,7 +2,7 @@
 """
     GAP_pkg_toolsforhomalg
 
-A wrapper for the GAP package ToolsForHomalg 2022.12-01.
+A wrapper for the GAP package ToolsForHomalg 2024.09-01.
 """
 module GAP_pkg_toolsforhomalg
 

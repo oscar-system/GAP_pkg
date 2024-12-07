@@ -2,7 +2,7 @@
 """
     GAP_pkg_utils
 
-A wrapper for the GAP package utils 0.81.
+A wrapper for the GAP package utils 0.85.
 """
 module GAP_pkg_utils
 

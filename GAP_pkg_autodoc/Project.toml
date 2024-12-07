@@ -1,7 +1,7 @@
 name = "GAP_pkg_autodoc"
 uuid = "60547d83-1b09-478a-9fea-362ed2ea0c73"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.10.20"
+version = "2023.6.19"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

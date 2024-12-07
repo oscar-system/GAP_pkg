@@ -1,6 +1,6 @@
 [repndecomp]
-git-tree-sha1 = "7ca6efdc08987491bf86eb6482d9a5a51f7344b9"
+git-tree-sha1 = "e606b387fd5c3560554321b5de205fc9fe7a2ca5"
 
     [[repndecomp.download]]
-    sha256 = "c871d86d7876b85155cf2ed714e89971f324fa76337ab955c413e82c628f6fc1"
-    url = "https://github.com/gap-packages/RepnDecomp/releases/download/v1.2.1/RepnDecomp-1.2.1.tar.gz"
+    sha256 = "bda2ceadf512ffac17794c0b2c6640c4ea18d5a8929bb9de1cfe73eb5e04bbb2"
+    url = "https://github.com/gap-packages/RepnDecomp/releases/download/v1.3.0/RepnDecomp-1.3.0.tar.gz"

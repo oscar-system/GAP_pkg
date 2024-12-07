@@ -1,7 +1,7 @@
 name = "GAP_pkg_sla"
 uuid = "1fd3f773-24b5-4cc0-9bbf-d2aea634eb82"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.5.3"
+version = "1.6.2"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

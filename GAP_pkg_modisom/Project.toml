@@ -1,7 +1,7 @@
 name = "GAP_pkg_modisom"
 uuid = "cd2d1325-d326-4972-9638-f15fbbbc4211"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.5.3"
+version = "3.0.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

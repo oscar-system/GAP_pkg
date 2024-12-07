@@ -2,7 +2,7 @@
 """
     GAP_pkg_xgap
 
-A wrapper for the GAP package XGAP 4.31.
+A wrapper for the GAP package XGAP 4.32.
 """
 module GAP_pkg_xgap
 

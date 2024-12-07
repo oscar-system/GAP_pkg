@@ -2,7 +2,7 @@
 """
     GAP_pkg_sco
 
-A wrapper for the GAP package SCO 2022.09-01.
+A wrapper for the GAP package SCO 2023.08-01.
 """
 module GAP_pkg_sco
 

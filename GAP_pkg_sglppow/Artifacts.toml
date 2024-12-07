@@ -1,6 +1,6 @@
 [sglppow]
-git-tree-sha1 = "6befb559ad26a4804fcf3a98e69043e937847c30"
+git-tree-sha1 = "d8117da4d48ea5676110e84bfdc759cdbe5737fa"
 
     [[sglppow.download]]
-    sha256 = "15b2d346c94167984adf0ec8b7ac84ce2b6480227b5964e7108fb7afe369eb90"
-    url = "https://github.com/gap-packages/sglppow/releases/download/v2.3/sglppow-2.3.tar.gz"
+    sha256 = "bae760c9a4e7609ffbc12f0084fab17da4551748e09e87a446a0548db1fa1f46"
+    url = "https://github.com/gap-packages/sglppow/releases/download/v2.4/sglppow-2.4.tar.gz"

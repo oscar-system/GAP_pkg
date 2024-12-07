@@ -2,7 +2,7 @@
 """
     GAP_pkg_liepring
 
-A wrapper for the GAP package LiePRing 2.8.
+A wrapper for the GAP package LiePRing 2.9.1.
 """
 module GAP_pkg_liepring
 

@@ -1,7 +1,7 @@
 name = "GAP_pkg_genss"
 uuid = "734a8df1-6156-430d-ac2d-c27662d92d28"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.6.8"
+version = "1.6.9"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

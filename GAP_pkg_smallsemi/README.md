@@ -1,6 +1,6 @@
 # GAP_pkg_smallsemi
 
-This is a generated Julia wrapper package for the GAP package Smallsemi 0.6.13.
+This is a generated Julia wrapper package for the GAP package Smallsemi 0.7.1.
 
 ## Usage
 

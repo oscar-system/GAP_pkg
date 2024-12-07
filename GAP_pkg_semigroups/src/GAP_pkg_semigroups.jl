@@ -2,7 +2,7 @@
 """
     GAP_pkg_semigroups
 
-A wrapper for the GAP package Semigroups 5.2.0.
+A wrapper for the GAP package Semigroups 5.4.0.
 """
 module GAP_pkg_semigroups
 

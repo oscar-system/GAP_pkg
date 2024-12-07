@@ -2,7 +2,7 @@
 """
     GAP_pkg_permut
 
-A wrapper for the GAP package permut 2.0.4.
+A wrapper for the GAP package permut 2.0.5.
 """
 module GAP_pkg_permut
 

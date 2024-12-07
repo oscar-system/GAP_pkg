@@ -1,6 +1,6 @@
 [generalizedmorphismsforcap]
-git-tree-sha1 = "1ab9d6455c8663c20c1aa01767fea53140961e9e"
+git-tree-sha1 = "2abc76a796ba2cd63eda1f80d2c4ef44974259e2"
 
     [[generalizedmorphismsforcap.download]]
-    sha256 = "417c829631d6ec1c7fe73c059a3ce8e65458f86a1d930207f95f7a8d7c07f93f"
-    url = "https://github.com/homalg-project/CAP_project/releases/download/GeneralizedMorphismsForCAP-2022.12-01/GeneralizedMorphismsForCAP-2022.12-01.tar.gz"
+    sha256 = "c696b939b22105edd13e86abbc88ff20844f32b766eb11e006f541885391a453"
+    url = "https://github.com/homalg-project/CAP_project/releases/download/GeneralizedMorphismsForCAP-2024.09-03/GeneralizedMorphismsForCAP-2024.09-03.tar.gz"

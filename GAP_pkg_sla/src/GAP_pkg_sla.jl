@@ -2,7 +2,7 @@
 """
     GAP_pkg_sla
 
-A wrapper for the GAP package SLA 1.5.3.
+A wrapper for the GAP package SLA 1.6.2.
 """
 module GAP_pkg_sla
 

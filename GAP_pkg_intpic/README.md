@@ -1,6 +1,6 @@
 # GAP_pkg_intpic
 
-This is a generated Julia wrapper package for the GAP package IntPic 0.3.0.
+This is a generated Julia wrapper package for the GAP package IntPic 0.4.0.
 
 ## Usage
 

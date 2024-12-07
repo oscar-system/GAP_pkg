@@ -2,7 +2,7 @@
 """
     GAP_pkg_modules
 
-A wrapper for the GAP package Modules 2022.11-01.
+A wrapper for the GAP package Modules 2024.01-01.
 """
 module GAP_pkg_modules
 

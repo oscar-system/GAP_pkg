@@ -1,6 +1,6 @@
 # GAP_pkg_idrel
 
-This is a generated Julia wrapper package for the GAP package idrel 2.44.
+This is a generated Julia wrapper package for the GAP package idrel 2.48.
 
 ## Usage
 

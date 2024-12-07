@@ -2,7 +2,7 @@
 """
     GAP_pkg_cvec
 
-A wrapper for the GAP package cvec 2.7.6.
+A wrapper for the GAP package cvec 2.8.2.
 """
 module GAP_pkg_cvec
 

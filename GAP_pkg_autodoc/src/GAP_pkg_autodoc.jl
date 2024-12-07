@@ -2,7 +2,7 @@
 """
     GAP_pkg_autodoc
 
-A wrapper for the GAP package AutoDoc 2022.10.20.
+A wrapper for the GAP package AutoDoc 2023.06.19.
 """
 module GAP_pkg_autodoc
 

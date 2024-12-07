@@ -1,6 +1,6 @@
 [grape]
-git-tree-sha1 = "05b53c40bb93f6053750a905a2d35c63832439fb"
+git-tree-sha1 = "3bae6ff0cbde133ccb35564f20605d14515d55c3"
 
     [[grape.download]]
-    sha256 = "78d7739c7b84702f93b71bda9b38ce704e5ea37040550541a6f615c542c7ae2f"
-    url = "https://github.com/gap-packages/grape/releases/download/v4.9.0/grape-4.9.0.tar.gz"
+    sha256 = "2ee2482649236c029c65bf71818cdb7ded0b7589e5ab545be164a47a212075a0"
+    url = "https://github.com/gap-packages/grape/releases/download/v4.9.2/grape-4.9.2.tar.gz"

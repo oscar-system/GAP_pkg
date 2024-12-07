@@ -1,6 +1,6 @@
 # GAP_pkg_forms
 
-This is a generated Julia wrapper package for the GAP package Forms 1.2.9.
+This is a generated Julia wrapper package for the GAP package Forms 1.2.12.
 
 ## Usage
 

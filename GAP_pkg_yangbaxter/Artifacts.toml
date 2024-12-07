@@ -1,6 +1,6 @@
 [yangbaxter]
-git-tree-sha1 = "3b495a8e99d2a1e9385bc9950956cacc73ae4bc9"
+git-tree-sha1 = "bd8216f03f32b2b2a0bc796dce631cd5a74e9dc1"
 
     [[yangbaxter.download]]
-    sha256 = "1119d3452f201b512eebf1b2e026f30f9b7149c87e29b91ea0fb0bfd3e6f0811"
-    url = "https://github.com/gap-packages/YangBaxter/releases/download/v0.10.2/YangBaxter-0.10.2.tar.gz"
+    sha256 = "07ffb52c317d6da02e7618efcf4010f687e0d9463602e96a4d3d2d4d81d7d8b1"
+    url = "https://github.com/gap-packages/YangBaxter/releases/download/v0.10.6/YangBaxter-0.10.6.tar.gz"

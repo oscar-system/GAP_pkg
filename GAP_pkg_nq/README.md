@@ -1,6 +1,6 @@
 # GAP_pkg_nq
 
-This is a generated Julia wrapper package for the GAP package nq 2.5.9.
+This is a generated Julia wrapper package for the GAP package nq 2.5.11.
 
 ## Usage
 

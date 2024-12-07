@@ -1,6 +1,6 @@
 # GAP_pkg_standardff
 
-This is a generated Julia wrapper package for the GAP package StandardFF 0.9.4.
+This is a generated Julia wrapper package for the GAP package StandardFF 1.0.
 
 ## Usage
 
@@ -25,4 +25,4 @@ Report general issues with the GAP package at <https://github.com/frankluebeck/S
 
 This wrapper is under the MIT license (see file `LICENSE`).
 
-The license of the wrapped GAP package is unknown.
+The license of the wrapped GAP package is GPL-3.0-or-later.

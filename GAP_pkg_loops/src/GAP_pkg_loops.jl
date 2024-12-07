@@ -2,7 +2,7 @@
 """
     GAP_pkg_loops
 
-A wrapper for the GAP package loops 3.4.3.
+A wrapper for the GAP package loops 3.4.4.
 """
 module GAP_pkg_loops
 

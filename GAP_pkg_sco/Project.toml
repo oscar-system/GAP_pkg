@@ -1,7 +1,7 @@
 name = "GAP_pkg_sco"
 uuid = "ed025e68-a78c-4d46-81d4-db42b2925165"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.9.1"
+version = "2023.8.1"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

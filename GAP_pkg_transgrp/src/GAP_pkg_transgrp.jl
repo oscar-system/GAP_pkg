@@ -2,7 +2,7 @@
 """
     GAP_pkg_transgrp
 
-A wrapper for the GAP package TransGrp 3.6.3.
+A wrapper for the GAP package TransGrp 3.6.5.
 """
 module GAP_pkg_transgrp
 

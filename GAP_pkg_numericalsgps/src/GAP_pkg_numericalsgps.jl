@@ -2,7 +2,7 @@
 """
     GAP_pkg_numericalsgps
 
-A wrapper for the GAP package NumericalSgps 1.3.1.
+A wrapper for the GAP package NumericalSgps 1.4.0.
 """
 module GAP_pkg_numericalsgps
 

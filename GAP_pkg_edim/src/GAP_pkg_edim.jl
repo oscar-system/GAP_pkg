@@ -2,7 +2,7 @@
 """
     GAP_pkg_edim
 
-A wrapper for the GAP package EDIM 1.3.6.
+A wrapper for the GAP package EDIM 1.3.8.
 """
 module GAP_pkg_edim
 

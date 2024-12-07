@@ -1,6 +1,6 @@
 [ringsforhomalg]
-git-tree-sha1 = "1064aabbf572cf958757461639b47b853959f814"
+git-tree-sha1 = "63bf4621f553288a025543761edf07cf7efffeab"
 
     [[ringsforhomalg.download]]
-    sha256 = "18c631e5a97003a49228a83377e8f63b345505b94d4147f72b6935065cf5484b"
-    url = "https://github.com/homalg-project/homalg_project/releases/download/RingsForHomalg-2022.11-01/RingsForHomalg-2022.11-01.tar.gz"
+    sha256 = "acfbbb152b48629988232748e2936e35fa65e5bdccaee21e21b18683ccfd11ca"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/RingsForHomalg-2024.11-02/RingsForHomalg-2024.11-02.tar.gz"

@@ -2,7 +2,7 @@
 """
     GAP_pkg_genss
 
-A wrapper for the GAP package genss 1.6.8.
+A wrapper for the GAP package genss 1.6.9.
 """
 module GAP_pkg_genss
 

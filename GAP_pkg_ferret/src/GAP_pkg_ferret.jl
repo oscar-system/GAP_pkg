@@ -2,7 +2,7 @@
 """
     GAP_pkg_ferret
 
-A wrapper for the GAP package ferret 1.0.9.
+A wrapper for the GAP package ferret 1.0.14.
 """
 module GAP_pkg_ferret
 

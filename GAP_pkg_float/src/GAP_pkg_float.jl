@@ -2,7 +2,7 @@
 """
     GAP_pkg_float
 
-A wrapper for the GAP package float 1.0.3.
+A wrapper for the GAP package float 1.0.5.
 """
 module GAP_pkg_float
 

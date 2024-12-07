@@ -1,6 +1,6 @@
 # GAP_pkg_cryst
 
-This is a generated Julia wrapper package for the GAP package Cryst 4.1.25.
+This is a generated Julia wrapper package for the GAP package Cryst 4.1.27.
 
 ## Usage
 

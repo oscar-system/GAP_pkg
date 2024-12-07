@@ -2,7 +2,7 @@
 """
     GAP_pkg_primgrp
 
-A wrapper for the GAP package PrimGrp 3.4.3.
+A wrapper for the GAP package PrimGrp 3.4.4.
 """
 module GAP_pkg_primgrp
 

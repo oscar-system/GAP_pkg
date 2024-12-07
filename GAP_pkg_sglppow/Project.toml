@@ -1,7 +1,7 @@
 name = "GAP_pkg_sglppow"
 uuid = "39007a4a-e350-472c-b105-50547e73b7f5"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.3.0"
+version = "2.4.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

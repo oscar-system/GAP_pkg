@@ -1,6 +1,6 @@
 [lpres]
-git-tree-sha1 = "18b8d997a2b7670efb69c886b4f99ca4aeb1bf74"
+git-tree-sha1 = "95afad2a750fbc23a09cd580f7b97e8902583a1c"
 
     [[lpres.download]]
-    sha256 = "11b6644650459cccbe45ebcd791c5e8c713843604ae0b622a19a17b8d486b5c2"
-    url = "https://github.com/gap-packages/lpres/releases/download/v1.0.3/lpres-1.0.3.tar.gz"
+    sha256 = "4dddad0905b2ed77cf7ac15fd0f95fdececc82a1dfeb1ea17d9b7a97dab59740"
+    url = "https://github.com/gap-packages/lpres/releases/download/v1.1.1/lpres-1.1.1.tar.gz"

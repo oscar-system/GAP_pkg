@@ -1,6 +1,6 @@
 [standardff]
-git-tree-sha1 = "8ab9ba99f16c392e4cf594188da2473dc9967e68"
+git-tree-sha1 = "28827b60cbeb2aceb8825eb956aec446d8cf5e12"
 
     [[standardff.download]]
-    sha256 = "a4066f06249f73fe864afcb4a448adae99a9bb259b5abb5cbbe16f114d3e44b0"
-    url = "https://www.math.rwth-aachen.de/~Frank.Luebeck/gap/StandardFF//StandardFF-0.9.4.tar.gz"
+    sha256 = "7e9ffeb9dbe0ddab862a524b1379c09732ef7b40bea2b04ce01db3fb9c27e28e"
+    url = "https://www.math.rwth-aachen.de/~Frank.Luebeck/gap/StandardFF//StandardFF-1.0.tar.gz"

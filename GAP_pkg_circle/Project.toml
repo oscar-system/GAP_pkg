@@ -1,7 +1,7 @@
 name = "GAP_pkg_circle"
 uuid = "1a407fd8-8ec6-458f-8fb4-0cb89162a483"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.6.5"
+version = "1.6.6"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

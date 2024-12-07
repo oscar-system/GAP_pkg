@@ -1,6 +1,6 @@
 # GAP_pkg_examplesforhomalg
 
-This is a generated Julia wrapper package for the GAP package ExamplesForHomalg 2022.11-01.
+This is a generated Julia wrapper package for the GAP package ExamplesForHomalg 2023.10-01.
 
 ## Usage
 

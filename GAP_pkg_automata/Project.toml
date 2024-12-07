@@ -1,7 +1,7 @@
 name = "GAP_pkg_automata"
 uuid = "f5def0db-83aa-4431-b194-f88971f61084"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.15.0"
+version = "1.16.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

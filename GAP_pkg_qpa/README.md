@@ -1,6 +1,6 @@
 # GAP_pkg_qpa
 
-This is a generated Julia wrapper package for the GAP package QPA 1.34.
+This is a generated Julia wrapper package for the GAP package QPA 1.35.
 
 ## Usage
 

@@ -1,6 +1,6 @@
 # GAP_pkg_hap
 
-This is a generated Julia wrapper package for the GAP package HAP 1.47.
+This is a generated Julia wrapper package for the GAP package HAP 1.66.
 
 ## Usage
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_curlinterface
 
-A wrapper for the GAP package curlInterface 2.3.1.
+A wrapper for the GAP package curlInterface 2.4.0.
 """
 module GAP_pkg_curlinterface
 

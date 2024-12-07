@@ -1,6 +1,6 @@
 [anupq]
-git-tree-sha1 = "fecd4219f6cd739655f63b2a4409ade74caaebc7"
+git-tree-sha1 = "4ef38b5b8864cf31b2a58d13ea154eb0e2eaee5a"
 
     [[anupq.download]]
-    sha256 = "9df9f662c4df3b32916c61e0becd2d04162b75150368b2dadc50f1c432ca8579"
-    url = "https://github.com/gap-packages/anupq/releases/download/v3.2.6/anupq-3.2.6.tar.gz"
+    sha256 = "fba1526f9e904e13ee7a9b980c795fbf27a8276c6734d684c1f91ebb3a1926b6"
+    url = "https://github.com/gap-packages/anupq/releases/download/v3.3.1/anupq-3.3.1.tar.gz"

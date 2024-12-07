@@ -1,7 +1,7 @@
 name = "GAP_pkg_permut"
 uuid = "2ede43fc-2430-483a-899f-f874dc65346a"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.0.4"
+version = "2.0.5"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

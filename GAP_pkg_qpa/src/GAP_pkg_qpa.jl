@@ -2,7 +2,7 @@
 """
     GAP_pkg_qpa
 
-A wrapper for the GAP package QPA 1.34.
+A wrapper for the GAP package QPA 1.35.
 """
 module GAP_pkg_qpa
 

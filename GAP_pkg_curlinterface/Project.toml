@@ -1,7 +1,7 @@
 name = "GAP_pkg_curlinterface"
 uuid = "a0d106a5-6018-4a8e-ad12-3d03dae2a9d6"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.3.1"
+version = "2.4.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

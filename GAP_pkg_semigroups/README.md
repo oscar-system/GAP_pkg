@@ -1,6 +1,6 @@
 # GAP_pkg_semigroups
 
-This is a generated Julia wrapper package for the GAP package Semigroups 5.2.0.
+This is a generated Julia wrapper package for the GAP package Semigroups 5.4.0.
 
 ## Usage
 

@@ -1,6 +1,6 @@
 # GAP_pkg_sla
 
-This is a generated Julia wrapper package for the GAP package SLA 1.5.3.
+This is a generated Julia wrapper package for the GAP package SLA 1.6.2.
 
 ## Usage
 

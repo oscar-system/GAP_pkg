@@ -1,6 +1,6 @@
 [4ti2interface]
-git-tree-sha1 = "ed988e64138b752e00a1a15e9f3b24bdb7676f87"
+git-tree-sha1 = "0cfc2ae54301261dad1f4fa233047ded8e719cfc"
 
     [[4ti2interface.download]]
-    sha256 = "fbfc0d30b1ab6a107a564765b3e1b2075f87b7e3358db72ec108a560c5393cdd"
-    url = "https://github.com/homalg-project/homalg_project/releases/download/4ti2Interface-2022.09-01/4ti2Interface-2022.09-01.tar.gz"
+    sha256 = "6716431f63a5b29e20333b2bc4b432198528e9b50c28dea988658962857659e7"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/4ti2Interface-2024.11-01/4ti2Interface-2024.11-01.tar.gz"

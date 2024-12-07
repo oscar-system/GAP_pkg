@@ -1,6 +1,6 @@
 [polymaking]
-git-tree-sha1 = "d6cc0986b74403122ab95034647ae257ac18155c"
+git-tree-sha1 = "87a1302e830d9cc9a0c39b3eb58a2508db038e2d"
 
     [[polymaking.download]]
-    sha256 = "eb18f12e78f0142142c054cdefe49868b3a31ebbcc18073a411342f17db2007f"
-    url = "https://github.com/gap-packages/polymaking/releases/download/v0.8.6/polymaking-0.8.6.tar.gz"
+    sha256 = "8975c1f08fe4362c946de4775dfd37a566b4607b6e697d94666dfea9d552eee6"
+    url = "https://github.com/gap-packages/polymaking/releases/download/v0.8.7/polymaking-0.8.7.tar.gz"

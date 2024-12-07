@@ -1,7 +1,7 @@
 name = "GAP_pkg_hecke"
 uuid = "845bd389-ec36-4fea-9c9b-2fa6e6b72d70"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.5.3"
+version = "1.5.4"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

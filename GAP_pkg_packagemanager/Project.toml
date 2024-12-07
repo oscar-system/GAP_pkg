@@ -1,7 +1,7 @@
 name = "GAP_pkg_packagemanager"
 uuid = "77b223f6-98f1-4d47-a627-a61da16cdc20"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.3.2"
+version = "1.6.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

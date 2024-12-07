@@ -1,6 +1,6 @@
 # GAP_pkg_generalizedmorphismsforcap
 
-This is a generated Julia wrapper package for the GAP package GeneralizedMorphismsForCAP 2022.12-01.
+This is a generated Julia wrapper package for the GAP package GeneralizedMorphismsForCAP 2024.09-03.
 
 ## Usage
 

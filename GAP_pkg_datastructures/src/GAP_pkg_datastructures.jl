@@ -2,7 +2,7 @@
 """
     GAP_pkg_datastructures
 
-A wrapper for the GAP package datastructures 0.3.0.
+A wrapper for the GAP package datastructures 0.3.1.
 """
 module GAP_pkg_datastructures
 

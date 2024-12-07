@@ -1,7 +1,7 @@
 name = "GAP_pkg_sgpviz"
 uuid = "3ff976c4-6db9-4de4-963d-6ffe45d20550"
 authors = ["Max Horn <max@quendi.de>"]
-version = "0.999.5"
+version = "0.999.6"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

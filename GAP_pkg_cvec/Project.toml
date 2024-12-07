@@ -1,7 +1,7 @@
 name = "GAP_pkg_cvec"
 uuid = "0c7c8706-c342-4f07-95b6-eaac458819d8"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.7.6"
+version = "2.8.2"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

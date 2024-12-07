@@ -2,7 +2,7 @@
 """
     GAP_pkg_browse
 
-A wrapper for the GAP package Browse 1.8.19.
+A wrapper for the GAP package Browse 1.8.21.
 """
 module GAP_pkg_browse
 

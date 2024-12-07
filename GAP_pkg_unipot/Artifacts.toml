@@ -1,6 +1,6 @@
 [unipot]
-git-tree-sha1 = "64823690d04ece21f0fdecb58d22140b5669a54a"
+git-tree-sha1 = "d0fbd9a65b6f2eba764078ed347473dfcff3c8df"
 
     [[unipot.download]]
-    sha256 = "8e055d97c7bf0ce1c177a489f6783e4de9253e593017416c96c6fc5870dd0e47"
-    url = "https://github.com/gap-packages/unipot/releases/download/v1.5/unipot-1.5.tar.gz"
+    sha256 = "2028808e74fd67c9ff88442b701a7e9946b4a5cde6f718259efc98f2c9d44e1c"
+    url = "https://github.com/gap-packages/unipot/releases/download/v1.6/unipot-1.6.tar.gz"

@@ -2,7 +2,7 @@
 """
     GAP_pkg_monoidalcategories
 
-A wrapper for the GAP package MonoidalCategories 2022.12-01.
+A wrapper for the GAP package MonoidalCategories 2024.09-05.
 """
 module GAP_pkg_monoidalcategories
 

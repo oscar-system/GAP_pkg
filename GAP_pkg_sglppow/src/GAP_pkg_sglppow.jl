@@ -2,7 +2,7 @@
 """
     GAP_pkg_sglppow
 
-A wrapper for the GAP package SglPPow 2.3.
+A wrapper for the GAP package SglPPow 2.4.
 """
 module GAP_pkg_sglppow
 

@@ -1,7 +1,7 @@
 name = "GAP_pkg_io"
 uuid = "b385582e-9628-4fed-8f60-9a4f3165a09f"
 authors = ["Max Horn <max@quendi.de>"]
-version = "4.8.0"
+version = "4.9.1"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

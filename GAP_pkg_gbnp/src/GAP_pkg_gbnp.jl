@@ -2,7 +2,7 @@
 """
     GAP_pkg_gbnp
 
-A wrapper for the GAP package GBNP 1.0.5.
+A wrapper for the GAP package GBNP 1.1.0.
 """
 module GAP_pkg_gbnp
 

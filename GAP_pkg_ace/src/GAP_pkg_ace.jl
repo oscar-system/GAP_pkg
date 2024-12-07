@@ -2,7 +2,7 @@
 """
     GAP_pkg_ace
 
-A wrapper for the GAP package ACE 5.6.1.
+A wrapper for the GAP package ACE 5.6.2.
 """
 module GAP_pkg_ace
 

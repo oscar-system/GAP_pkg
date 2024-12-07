@@ -1,7 +1,7 @@
 name = "GAP_pkg_browse"
 uuid = "f0415deb-02b2-4b87-9808-6e5cf367eb0a"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.8.19"
+version = "1.8.21"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

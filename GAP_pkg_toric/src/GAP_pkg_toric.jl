@@ -2,7 +2,7 @@
 """
     GAP_pkg_toric
 
-A wrapper for the GAP package Toric 1.9.5.
+A wrapper for the GAP package Toric 1.9.6.
 """
 module GAP_pkg_toric
 

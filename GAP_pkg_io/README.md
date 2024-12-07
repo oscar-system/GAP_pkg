@@ -1,6 +1,6 @@
 # GAP_pkg_io
 
-This is a generated Julia wrapper package for the GAP package IO 4.8.0.
+This is a generated Julia wrapper package for the GAP package IO 4.9.1.
 
 ## Usage
 

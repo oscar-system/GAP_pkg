@@ -1,7 +1,7 @@
 name = "GAP_pkg_linearalgebraforcap"
 uuid = "ad625d54-c89e-4bb7-ac1e-405d3c21b420"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.12.4"
+version = "2024.10.1"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

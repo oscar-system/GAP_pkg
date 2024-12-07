@@ -2,7 +2,7 @@
 """
     GAP_pkg_francy
 
-A wrapper for the GAP package Francy 1.2.5.
+A wrapper for the GAP package francy 2.0.3.
 """
 module GAP_pkg_francy
 
@@ -25,7 +25,7 @@ end
 """
     load(; banner::Bool=true, only_needed::Bool=true)
 
-Load the GAP package Francy into GAP. Use `banner` to control
+Load the GAP package francy into GAP. Use `banner` to control
 whether package banners are shown. Use `only_needed` to control
 whether GAP should try to load all dependencies of the package
 (including optional ones, if there are any), or only the needed ones.

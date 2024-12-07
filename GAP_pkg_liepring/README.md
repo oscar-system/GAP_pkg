@@ -1,6 +1,6 @@
 # GAP_pkg_liepring
 
-This is a generated Julia wrapper package for the GAP package LiePRing 2.8.
+This is a generated Julia wrapper package for the GAP package LiePRing 2.9.1.
 
 ## Usage
 

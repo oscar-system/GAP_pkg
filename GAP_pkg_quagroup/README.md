@@ -1,6 +1,6 @@
 # GAP_pkg_quagroup
 
-This is a generated Julia wrapper package for the GAP package QuaGroup 1.8.3.
+This is a generated Julia wrapper package for the GAP package QuaGroup 1.8.4.
 
 ## Usage
 

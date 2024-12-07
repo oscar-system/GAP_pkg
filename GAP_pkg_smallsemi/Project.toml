@@ -1,7 +1,7 @@
 name = "GAP_pkg_smallsemi"
 uuid = "fee9c766-ecaf-4fbe-b7ef-8d994cd763cd"
 authors = ["Max Horn <max@quendi.de>"]
-version = "0.6.13"
+version = "0.7.1"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

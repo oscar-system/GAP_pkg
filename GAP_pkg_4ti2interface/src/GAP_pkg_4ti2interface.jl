@@ -2,7 +2,7 @@
 """
     GAP_pkg_4ti2interface
 
-A wrapper for the GAP package 4ti2Interface 2022.09-01.
+A wrapper for the GAP package 4ti2Interface 2024.11-01.
 """
 module GAP_pkg_4ti2interface
 

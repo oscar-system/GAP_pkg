@@ -2,7 +2,7 @@
 """
     GAP_pkg_guava
 
-A wrapper for the GAP package GUAVA 3.17.
+A wrapper for the GAP package GUAVA 3.19.
 """
 module GAP_pkg_guava
 

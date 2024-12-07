@@ -1,7 +1,7 @@
 name = "GAP_pkg_edim"
 uuid = "09fd22cd-e33a-4c19-9cda-c7f179d983b1"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.3.6"
+version = "1.3.8"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

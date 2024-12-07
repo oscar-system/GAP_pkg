@@ -2,7 +2,7 @@
 """
     GAP_pkg_matricesforhomalg
 
-A wrapper for the GAP package MatricesForHomalg 2022.12-01.
+A wrapper for the GAP package MatricesForHomalg 2024.11-02.
 """
 module GAP_pkg_matricesforhomalg
 

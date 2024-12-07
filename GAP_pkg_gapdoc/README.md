@@ -1,6 +1,6 @@
 # GAP_pkg_gapdoc
 
-This is a generated Julia wrapper package for the GAP package GAPDoc 1.6.6.
+This is a generated Julia wrapper package for the GAP package GAPDoc 1.6.7.
 
 ## Usage
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_orb
 
-A wrapper for the GAP package orb 4.9.0.
+A wrapper for the GAP package orb 4.9.1.
 """
 module GAP_pkg_orb
 

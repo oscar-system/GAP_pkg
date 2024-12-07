@@ -2,7 +2,7 @@
 """
     GAP_pkg_caratinterface
 
-A wrapper for the GAP package CaratInterface 2.3.4.
+A wrapper for the GAP package CaratInterface 2.3.7.
 """
 module GAP_pkg_caratinterface
 

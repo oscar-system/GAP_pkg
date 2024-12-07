@@ -2,7 +2,7 @@
 """
     GAP_pkg_tomlib
 
-A wrapper for the GAP package TomLib 1.2.9.
+A wrapper for the GAP package TomLib 1.2.11.
 """
 module GAP_pkg_tomlib
 

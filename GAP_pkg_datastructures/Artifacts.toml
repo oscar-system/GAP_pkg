@@ -1,6 +1,6 @@
 [datastructures]
-git-tree-sha1 = "5ad886b718c919e971806b24205ea37d73dbb936"
+git-tree-sha1 = "9e3a90a40bc6d729881300de017e7e8bf20dafcc"
 
     [[datastructures.download]]
-    sha256 = "452798be2e3cc6f9f78e876c20120ae55f2ec40661654ac1e12d478e99b393bb"
-    url = "https://github.com/gap-packages/datastructures/releases/download/v0.3.0/datastructures-0.3.0.tar.gz"
+    sha256 = "0d4fba02f80e7c5eada63fae0402effbbe2ccbeb4d204c1d826cc85e67a582b0"
+    url = "https://github.com/gap-packages/datastructures/releases/download/v0.3.1/datastructures-0.3.1.tar.gz"

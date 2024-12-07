@@ -1,6 +1,6 @@
 [patternclass]
-git-tree-sha1 = "553ce30e70b374189e9501a19fcc7cc5ee536438"
+git-tree-sha1 = "fee90f5d2b6a3b57ab2a64a9da71bfc9b59d57ae"
 
     [[patternclass.download]]
-    sha256 = "2a6ef691afa4cf1c2c3d07abcb78870d53dc86fb6d5ca619bbde8f0bd8177883"
-    url = "https://github.com/gap-packages/PatternClass/releases/download/v2.4.3/PatternClass-2.4.3.tar.gz"
+    sha256 = "01310b9d13258779df14bcb452df0341104b373fa4bdb8861bcceb7bf7f07103"
+    url = "https://github.com/gap-packages/PatternClass/releases/download/v2.4.5/PatternClass-2.4.5.tar.gz"

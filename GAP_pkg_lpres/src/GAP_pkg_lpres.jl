@@ -2,7 +2,7 @@
 """
     GAP_pkg_lpres
 
-A wrapper for the GAP package lpres 1.0.3.
+A wrapper for the GAP package lpres 1.1.1.
 """
 module GAP_pkg_lpres
 

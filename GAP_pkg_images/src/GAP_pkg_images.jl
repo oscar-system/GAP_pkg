@@ -2,7 +2,7 @@
 """
     GAP_pkg_images
 
-A wrapper for the GAP package images 1.3.1.
+A wrapper for the GAP package images 1.3.3.
 """
 module GAP_pkg_images
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_majoranaalgebras
 
-A wrapper for the GAP package MajoranaAlgebras 1.5.1.
+A wrapper for the GAP package MajoranaAlgebras 1.5.2.
 """
 module GAP_pkg_majoranaalgebras
 

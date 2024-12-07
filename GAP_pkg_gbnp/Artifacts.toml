@@ -1,6 +1,6 @@
 [gbnp]
-git-tree-sha1 = "2294eab57d72f1f1050feaab502f0bb0e1f7c8bb"
+git-tree-sha1 = "52bd959fce1fc3c83ef346a6549001122519753e"
 
     [[gbnp.download]]
-    sha256 = "3dfdc1a2c4fa3a80d704cfeb22398640fecf777760a750aa94f69e7fbcffaa51"
-    url = "https://github.com/gap-packages/gbnp/releases/download/v1.0.5/gbnp-1.0.5.tar.gz"
+    sha256 = "eb1f6d5eba80318ad88ac268d3f3b9e3affca05940f56cfaf6a31556e3a46056"
+    url = "https://github.com/gap-packages/gbnp/releases/download/v1.1.0/gbnp-1.1.0.tar.gz"

@@ -1,7 +1,7 @@
 name = "GAP_pkg_grpconst"
 uuid = "b99f7a03-7cf6-48f1-9f46-b20e3f32c1c8"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.6.3"
+version = "2.6.5"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

@@ -2,7 +2,7 @@
 """
     GAP_pkg_modulepresentationsforcap
 
-A wrapper for the GAP package ModulePresentationsForCAP 2022.12-01.
+A wrapper for the GAP package ModulePresentationsForCAP 2024.09-02.
 """
 module GAP_pkg_modulepresentationsforcap
 

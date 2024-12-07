@@ -1,6 +1,6 @@
 # GAP_pkg_modules
 
-This is a generated Julia wrapper package for the GAP package Modules 2022.11-01.
+This is a generated Julia wrapper package for the GAP package Modules 2024.01-01.
 
 ## Usage
 

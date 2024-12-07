@@ -2,7 +2,7 @@
 """
     GAP_pkg_yangbaxter
 
-A wrapper for the GAP package YangBaxter 0.10.2.
+A wrapper for the GAP package YangBaxter 0.10.6.
 """
 module GAP_pkg_yangbaxter
 

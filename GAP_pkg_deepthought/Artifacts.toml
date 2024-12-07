@@ -1,6 +1,6 @@
 [deepthought]
-git-tree-sha1 = "5ff15ae74a76bedea14cb529d427e45c4f64faec"
+git-tree-sha1 = "5a676de87f040e9587ec42f2abeba233d2e16462"
 
     [[deepthought.download]]
-    sha256 = "d07f23ab21f3faa3cd0505e5a042c74226d8efa3d0f6ef9d0b29cd8025f0c775"
-    url = "https://github.com/gap-packages/DeepThought/releases/download/v1.0.6/DeepThought-1.0.6.tar.gz"
+    sha256 = "01d89babd2f62307bb0c4fe42303c6c645192ca6141ce02299c1c240e92ea93a"
+    url = "https://github.com/gap-packages/DeepThought/releases/download/v1.0.7/DeepThought-1.0.7.tar.gz"

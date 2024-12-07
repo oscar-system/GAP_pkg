@@ -2,7 +2,7 @@
 """
     GAP_pkg_jupyterkernel
 
-A wrapper for the GAP package JupyterKernel 1.4.1.
+A wrapper for the GAP package JupyterKernel 1.5.1.
 """
 module GAP_pkg_jupyterkernel
 

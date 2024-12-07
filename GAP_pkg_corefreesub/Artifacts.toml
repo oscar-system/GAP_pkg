@@ -1,0 +1,6 @@
+[corefreesub]
+git-tree-sha1 = "c78621fc8364c80c42a30157b3dbbf30acdddff0"
+
+    [[corefreesub.download]]
+    sha256 = "fae461748299951dc191f8cc195553cd5b8df7996627ac8891292fdeee1d8c25"
+    url = "https://github.com/CAPiedade/corefreesub/releases/download/v0.6/corefreesub-0.6.tar.gz"

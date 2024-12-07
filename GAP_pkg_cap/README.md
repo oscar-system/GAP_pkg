@@ -1,6 +1,6 @@
 # GAP_pkg_cap
 
-This is a generated Julia wrapper package for the GAP package CAP 2022.12-11.
+This is a generated Julia wrapper package for the GAP package CAP 2024.11-02.
 
 ## Usage
 

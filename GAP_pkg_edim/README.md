@@ -1,6 +1,6 @@
 # GAP_pkg_edim
 
-This is a generated Julia wrapper package for the GAP package EDIM 1.3.6.
+This is a generated Julia wrapper package for the GAP package EDIM 1.3.8.
 
 ## Usage
 

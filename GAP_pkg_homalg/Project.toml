@@ -1,7 +1,7 @@
 name = "GAP_pkg_homalg"
 uuid = "536e74c0-5f3f-4c59-b90f-79c21a3f7e2e"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.11.1"
+version = "2024.1.1"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

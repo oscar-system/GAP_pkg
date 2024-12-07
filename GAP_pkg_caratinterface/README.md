@@ -1,6 +1,6 @@
 # GAP_pkg_caratinterface
 
-This is a generated Julia wrapper package for the GAP package CaratInterface 2.3.4.
+This is a generated Julia wrapper package for the GAP package CaratInterface 2.3.7.
 
 ## Usage
 

@@ -1,6 +1,6 @@
 # GAP_pkg_genss
 
-This is a generated Julia wrapper package for the GAP package genss 1.6.8.
+This is a generated Julia wrapper package for the GAP package genss 1.6.9.
 
 ## Usage
 

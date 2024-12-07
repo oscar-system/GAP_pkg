@@ -1,6 +1,6 @@
 [primgrp]
-git-tree-sha1 = "b4bd08cbab9cf00f1a21091b85e4550a7115d026"
+git-tree-sha1 = "f21a1e00bcecbba5daff832e0d7dcd3f7b2b30ed"
 
     [[primgrp.download]]
-    sha256 = "bf3c180c450429b2119f0662a635377c701c618c245b0683075e6b70d17b5030"
-    url = "https://github.com/gap-packages/primgrp/releases/download/v3.4.3/primgrp-3.4.3.tar.gz"
+    sha256 = "9d6fde0fa4658100f662c364f77c9fd67b1699e9f3dbb60306ed357cc5837cff"
+    url = "https://github.com/gap-packages/primgrp/releases/download/v3.4.4/primgrp-3.4.4.tar.gz"

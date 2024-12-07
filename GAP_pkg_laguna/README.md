@@ -1,6 +1,6 @@
 # GAP_pkg_laguna
 
-This is a generated Julia wrapper package for the GAP package LAGUNA 3.9.5.
+This is a generated Julia wrapper package for the GAP package LAGUNA 3.9.7.
 
 ## Usage
 

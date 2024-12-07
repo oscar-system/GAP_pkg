@@ -1,6 +1,6 @@
 # GAP_pkg_matgrp
 
-This is a generated Julia wrapper package for the GAP package matgrp 0.70.
+This is a generated Julia wrapper package for the GAP package matgrp 0.71.
 
 ## Usage
 

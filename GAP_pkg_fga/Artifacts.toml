@@ -1,6 +1,6 @@
 [fga]
-git-tree-sha1 = "bfa9483c26218eb43db545ee0f41d881e97d1064"
+git-tree-sha1 = "cd44c5b7f477ac3969607e5ae9ed051020c5647c"
 
     [[fga.download]]
-    sha256 = "7c9e01ead442441bdf5635ebb9ccf1b75fa9eceae52b4c7957afb54ab9a23507"
-    url = "http://www.icm.tu-bs.de/ag_algebra/software/FGA/FGA-1.4.0.tar.gz"
+    sha256 = "da426e208afbec533db2a5e3c5370756309b7735e4306d2ddf2bf35b5afb8592"
+    url = "https://github.com/gap-packages/fga/releases/download/v1.5.0/fga-1.5.0.tar.gz"

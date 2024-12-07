@@ -1,6 +1,6 @@
 [profiling]
-git-tree-sha1 = "fcf9f159582951889d9fb0476e0f12d4ab48b5e9"
+git-tree-sha1 = "46f4a7af935e98a00d0fa56634d02e5e5dc84b4b"
 
     [[profiling.download]]
-    sha256 = "e4ba8c9132a282561a8a315c29b0df127b145e0a129fd74f955b61cef56ffe09"
-    url = "https://github.com/gap-packages/profiling/releases/download/v2.5.1/profiling-2.5.1.tar.gz"
+    sha256 = "6bdb7e3e908c45d4b683be4fbb60a733ec75a171c242e16251d5ed8602cac43a"
+    url = "https://github.com/gap-packages/profiling/releases/download/v2.6.0/profiling-2.6.0.tar.gz"

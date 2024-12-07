@@ -2,7 +2,7 @@
 """
     GAP_pkg_atlasrep
 
-A wrapper for the GAP package AtlasRep 2.1.6.
+A wrapper for the GAP package AtlasRep 2.1.9.
 """
 module GAP_pkg_atlasrep
 

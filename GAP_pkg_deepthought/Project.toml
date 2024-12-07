@@ -1,7 +1,7 @@
 name = "GAP_pkg_deepthought"
 uuid = "f48a36a4-acd3-4e1f-9c0f-73916dfdff0f"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.0.6"
+version = "1.0.7"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

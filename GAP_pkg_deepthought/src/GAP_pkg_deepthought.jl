@@ -2,7 +2,7 @@
 """
     GAP_pkg_deepthought
 
-A wrapper for the GAP package DeepThought 1.0.6.
+A wrapper for the GAP package DeepThought 1.0.7.
 """
 module GAP_pkg_deepthought
 

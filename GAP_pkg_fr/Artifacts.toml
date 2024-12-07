@@ -1,6 +1,6 @@
 [fr]
-git-tree-sha1 = "352324029223d4dc5a11242b507a55634f72338e"
+git-tree-sha1 = "010eefd229a50c10f468be2df812320add0713b6"
 
     [[fr.download]]
-    sha256 = "3f71ecab0101a830da7fa99dd1072b5991347f0cdbbb98bd7c08dbc97c12fd00"
-    url = "https://github.com/gap-packages/fr/releases/download/v2.4.12/fr-2.4.12.tar.gz"
+    sha256 = "826e209e21e14c986f21e8a399c96931effad7fe206bf8ae7bf69f4974455aa5"
+    url = "https://github.com/gap-packages/fr/releases/download/v2.4.13/fr-2.4.13.tar.gz"

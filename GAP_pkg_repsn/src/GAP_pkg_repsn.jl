@@ -2,7 +2,7 @@
 """
     GAP_pkg_repsn
 
-A wrapper for the GAP package Repsn 3.1.0.
+A wrapper for the GAP package Repsn 3.1.2.
 """
 module GAP_pkg_repsn
 

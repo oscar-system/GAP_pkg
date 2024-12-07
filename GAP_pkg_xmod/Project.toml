@@ -1,7 +1,7 @@
 name = "GAP_pkg_xmod"
 uuid = "10cc47be-2727-4c98-b552-bdd70f2d88f7"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.88.0"
+version = "2.92.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

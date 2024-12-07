@@ -1,7 +1,7 @@
 name = "GAP_pkg_tomlib"
 uuid = "881089e1-8e51-4953-9c8b-a3464109c24d"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.2.9"
+version = "1.2.11"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

@@ -2,7 +2,7 @@
 """
     GAP_pkg_groupoids
 
-A wrapper for the GAP package groupoids 1.71.
+A wrapper for the GAP package groupoids 1.76.
 """
 module GAP_pkg_groupoids
 

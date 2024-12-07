@@ -1,6 +1,6 @@
 [autodoc]
-git-tree-sha1 = "223492564e01ccad4be45b4aad3d3c67125e0f65"
+git-tree-sha1 = "f36c330a29237f06bbb1c6448eeb0b7a8ee436fc"
 
     [[autodoc.download]]
-    sha256 = "3eea38eeb4d1dc20cd74c3a213ed30a18e1480dd1f5a9ef999f639e885b93a5e"
-    url = "https://github.com/gap-packages/AutoDoc/releases/download/v2022.10.20/AutoDoc-2022.10.20.tar.gz"
+    sha256 = "4e85f13a278245fff3cd9bed28c366f4bfef642a7ad3611b9ed394dab9abd4ea"
+    url = "https://github.com/gap-packages/AutoDoc/releases/download/v2023.06.19/AutoDoc-2023.06.19.tar.gz"

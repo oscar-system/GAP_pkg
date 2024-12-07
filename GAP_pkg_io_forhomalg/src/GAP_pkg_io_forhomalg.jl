@@ -2,7 +2,7 @@
 """
     GAP_pkg_io_forhomalg
 
-A wrapper for the GAP package IO_ForHomalg 2022.11-01.
+A wrapper for the GAP package IO_ForHomalg 2023.02-04.
 """
 module GAP_pkg_io_forhomalg
 

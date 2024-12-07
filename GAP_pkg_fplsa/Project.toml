@@ -1,7 +1,7 @@
 name = "GAP_pkg_fplsa"
 uuid = "00e41779-2dc3-4177-8683-8a5787ae04de"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.2.5"
+version = "1.2.6"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

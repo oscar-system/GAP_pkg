@@ -2,7 +2,7 @@
 """
     GAP_pkg_grape
 
-A wrapper for the GAP package GRAPE 4.9.0.
+A wrapper for the GAP package GRAPE 4.9.2.
 """
 module GAP_pkg_grape
 

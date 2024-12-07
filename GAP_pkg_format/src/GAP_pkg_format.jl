@@ -2,7 +2,7 @@
 """
     GAP_pkg_format
 
-A wrapper for the GAP package FORMAT 1.4.3.
+A wrapper for the GAP package FORMAT 1.4.4.
 """
 module GAP_pkg_format
 

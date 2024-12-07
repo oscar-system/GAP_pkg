@@ -1,6 +1,6 @@
 [utils]
-git-tree-sha1 = "1f54a2348949c506ec5b82941b14c979b03d1056"
+git-tree-sha1 = "d43af8ab6206ed6b2d127d46360317869d691a34"
 
     [[utils.download]]
-    sha256 = "5a3de5269a8febc626a643558f31ca53548b2e5952838465a740c30ec5ce836f"
-    url = "https://github.com/gap-packages/utils/releases/download/v0.81/utils-0.81.tar.gz"
+    sha256 = "bed23a5b58ffe8492c700aa048fe2e72dca6c9b608dd314265e8b9ad16ad82b9"
+    url = "https://github.com/gap-packages/utils/releases/download/v0.85/utils-0.85.tar.gz"

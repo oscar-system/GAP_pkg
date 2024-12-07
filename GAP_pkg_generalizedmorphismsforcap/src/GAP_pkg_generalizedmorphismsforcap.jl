@@ -2,7 +2,7 @@
 """
     GAP_pkg_generalizedmorphismsforcap
 
-A wrapper for the GAP package GeneralizedMorphismsForCAP 2022.12-01.
+A wrapper for the GAP package GeneralizedMorphismsForCAP 2024.09-03.
 """
 module GAP_pkg_generalizedmorphismsforcap
 

@@ -1,6 +1,6 @@
 # GAP_pkg_grape
 
-This is a generated Julia wrapper package for the GAP package GRAPE 4.9.0.
+This is a generated Julia wrapper package for the GAP package GRAPE 4.9.2.
 
 ## Usage
 

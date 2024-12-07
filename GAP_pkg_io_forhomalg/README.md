@@ -1,6 +1,6 @@
 # GAP_pkg_io_forhomalg
 
-This is a generated Julia wrapper package for the GAP package IO_ForHomalg 2022.11-01.
+This is a generated Julia wrapper package for the GAP package IO_ForHomalg 2023.02-04.
 
 ## Usage
 

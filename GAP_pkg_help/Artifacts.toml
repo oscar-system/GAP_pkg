@@ -1,6 +1,6 @@
 [help]
-git-tree-sha1 = "1f6a337b2de6e97c40013f7d2762e339a1101d2c"
+git-tree-sha1 = "1898d1b37724af94042eed1b62e69614e2fe333b"
 
     [[help.download]]
-    sha256 = "f650a53ac7840a7cb6e7a3616bc25ae0459b281bbf87426898567209245e26a8"
-    url = "https://github.com/gap-packages/HeLP/releases/download/v3.5/HeLP-3.5.tar.gz"
+    sha256 = "49a8533b98030a1feea6c8e02601e5219a51a37c85bebd06d3cdd2ca951b7f86"
+    url = "https://github.com/gap-packages/HeLP/releases/download/v4.0/HeLP-4.0.tar.gz"

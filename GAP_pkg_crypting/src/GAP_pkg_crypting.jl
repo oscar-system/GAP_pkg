@@ -2,7 +2,7 @@
 """
     GAP_pkg_crypting
 
-A wrapper for the GAP package crypting 0.10.4.
+A wrapper for the GAP package crypting 0.10.5.
 """
 module GAP_pkg_crypting
 

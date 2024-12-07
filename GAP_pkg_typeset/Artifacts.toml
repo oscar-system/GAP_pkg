@@ -1,0 +1,6 @@
+[typeset]
+git-tree-sha1 = "706936b2d834f0f5bc1b39408bddbd926f8f038d"
+
+    [[typeset.download]]
+    sha256 = "cbceb7c4ce567a5a1fb9e86c4a2f1890d52cb3a5f349a88e13af3e8bb7a708ef"
+    url = "https://github.com/gap-packages/typeset/releases/download/v1.2.2/typeset-1.2.2.tar.gz"

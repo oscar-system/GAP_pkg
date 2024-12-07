@@ -1,7 +1,7 @@
 name = "GAP_pkg_monoidalcategories"
 uuid = "c99bc466-6381-47e3-aa61-8bf19ac8def2"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.12.1"
+version = "2024.9.5"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

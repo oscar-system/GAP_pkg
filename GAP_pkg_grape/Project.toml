@@ -1,7 +1,7 @@
 name = "GAP_pkg_grape"
 uuid = "070a2f6a-f0a2-4bfb-8d71-dd7e9789e325"
 authors = ["Max Horn <max@quendi.de>"]
-version = "4.9.0"
+version = "4.9.2"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

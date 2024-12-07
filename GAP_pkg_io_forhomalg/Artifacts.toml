@@ -1,6 +1,6 @@
 [io_forhomalg]
-git-tree-sha1 = "c39eca28e40de437c167782ec369a166771e655b"
+git-tree-sha1 = "58894f1b9f692c1f94e1a837631859eb9b73d2a6"
 
     [[io_forhomalg.download]]
-    sha256 = "282f945407b84300017b3783e4a7ec10751409fb98755b1327d9d3450dfe6e4e"
-    url = "https://github.com/homalg-project/homalg_project/releases/download/IO_ForHomalg-2022.11-01/IO_ForHomalg-2022.11-01.tar.gz"
+    sha256 = "aeadb504b3b9347f53c6c9e344a49a2c4380424a1b4a540da4002f98a55645b3"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/IO_ForHomalg-2023.02-04/IO_ForHomalg-2023.02-04.tar.gz"

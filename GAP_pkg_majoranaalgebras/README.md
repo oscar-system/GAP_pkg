@@ -1,6 +1,6 @@
 # GAP_pkg_majoranaalgebras
 
-This is a generated Julia wrapper package for the GAP package MajoranaAlgebras 1.5.1.
+This is a generated Julia wrapper package for the GAP package MajoranaAlgebras 1.5.2.
 
 ## Usage
 

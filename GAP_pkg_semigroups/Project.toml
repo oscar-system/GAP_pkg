@@ -1,7 +1,7 @@
 name = "GAP_pkg_semigroups"
 uuid = "cba24dc6-ecbb-43df-8f70-a009550d7475"
 authors = ["Max Horn <max@quendi.de>"]
-version = "5.2.0"
+version = "5.4.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

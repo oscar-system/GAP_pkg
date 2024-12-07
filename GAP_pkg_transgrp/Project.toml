@@ -1,7 +1,7 @@
 name = "GAP_pkg_transgrp"
 uuid = "961097a6-ba5f-449c-b6a7-fa86404cb036"
 authors = ["Max Horn <max@quendi.de>"]
-version = "3.6.3"
+version = "3.6.5"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

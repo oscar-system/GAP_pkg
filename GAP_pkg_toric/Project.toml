@@ -1,7 +1,7 @@
 name = "GAP_pkg_toric"
 uuid = "988949cb-e9bc-405e-a224-ab727eb776bd"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.9.5"
+version = "1.9.6"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

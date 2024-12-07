@@ -2,7 +2,7 @@
 """
     GAP_pkg_sgpviz
 
-A wrapper for the GAP package SgpViz 0.999.5.
+A wrapper for the GAP package SgpViz 0.999.6.
 """
 module GAP_pkg_sgpviz
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_fining
 
-A wrapper for the GAP package FinInG 1.5.4.
+A wrapper for the GAP package FinInG 1.5.6.
 """
 module GAP_pkg_fining
 

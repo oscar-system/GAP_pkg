@@ -1,6 +1,6 @@
 [intpic]
-git-tree-sha1 = "15beed56fd2d95e6f65836fedff11b9fadd54002"
+git-tree-sha1 = "d2f7b5f8b69b1f2f14b64fd61d86b744b039f5a6"
 
     [[intpic.download]]
-    sha256 = "fb3a3a5d83e5dc604345e71a88271990576a36f924afd02c6488f31cb1401c80"
-    url = "https://github.com/gap-packages/intpic/releases/download/v0.3.0/IntPic-0.3.0.tar.gz"
+    sha256 = "52f0a1e31755736f4cb2c2f52a385bef46f133a7fc3936dfbaeac0c61de54536"
+    url = "https://github.com/gap-packages/intpic/releases/download/v0.4.0/IntPic-0.4.0.tar.gz"

@@ -2,7 +2,7 @@
 """
     GAP_pkg_fr
 
-A wrapper for the GAP package FR 2.4.12.
+A wrapper for the GAP package FR 2.4.13.
 """
 module GAP_pkg_fr
 

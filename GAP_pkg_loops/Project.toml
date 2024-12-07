@@ -1,7 +1,7 @@
 name = "GAP_pkg_loops"
 uuid = "e6ab6384-7676-477e-b57e-35544eef3a6a"
 authors = ["Max Horn <max@quendi.de>"]
-version = "3.4.3"
+version = "3.4.4"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

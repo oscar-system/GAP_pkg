@@ -2,7 +2,7 @@
 """
     GAP_pkg_laguna
 
-A wrapper for the GAP package LAGUNA 3.9.5.
+A wrapper for the GAP package LAGUNA 3.9.7.
 """
 module GAP_pkg_laguna
 

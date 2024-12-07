@@ -1,10 +1,10 @@
 # GAP_pkg_francy
 
-This is a generated Julia wrapper package for the GAP package Francy 1.2.5.
+This is a generated Julia wrapper package for the GAP package francy 2.0.3.
 
 ## Usage
 
-Using Francy in your Julia session for technical reasons requires two steps:
+Using francy in your Julia session for technical reasons requires two steps:
 
     using GAP_pkg_francy
     GAP_pkg_francy.load()
@@ -19,7 +19,7 @@ arguments to load. For example:
 
 Please report issues specific to this wrapper package at <https://github.com/oscar-system/GAP_pkg>.
 
-Report general issues with the GAP package at <https://github.com/gap-packages/Francy/issues>.
+Report general issues with the GAP package at <https://github.com/gap-packages/francy/issues>.
 
 ## License
 

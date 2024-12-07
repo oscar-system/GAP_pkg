@@ -2,7 +2,7 @@
 """
     GAP_pkg_example
 
-A wrapper for the GAP package Example 4.3.2.
+A wrapper for the GAP package Example 4.4.0.
 """
 module GAP_pkg_example
 

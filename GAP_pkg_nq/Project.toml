@@ -1,7 +1,7 @@
 name = "GAP_pkg_nq"
 uuid = "b153fd4b-a316-4999-8822-2d185fbd7c1d"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2.5.9"
+version = "2.5.11"
 
 [deps]
 BinaryWrappers = "f01c122e-0ea1-4f85-ad8f-907073ad7a9f"

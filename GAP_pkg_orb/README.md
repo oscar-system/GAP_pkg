@@ -1,6 +1,6 @@
 # GAP_pkg_orb
 
-This is a generated Julia wrapper package for the GAP package orb 4.9.0.
+This is a generated Julia wrapper package for the GAP package orb 4.9.1.
 
 ## Usage
 

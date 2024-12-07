@@ -2,7 +2,7 @@
 """
     GAP_pkg_gapdoc
 
-A wrapper for the GAP package GAPDoc 1.6.6.
+A wrapper for the GAP package GAPDoc 1.6.7.
 """
 module GAP_pkg_gapdoc
 

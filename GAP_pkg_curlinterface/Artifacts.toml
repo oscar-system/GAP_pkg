@@ -1,6 +1,6 @@
 [curlinterface]
-git-tree-sha1 = "436b9d8a5bad8837a696af648f882b92a3c78d41"
+git-tree-sha1 = "b8a06a673e380404d268262e4a73863ca5e0374b"
 
     [[curlinterface.download]]
-    sha256 = "bdce5de61d50cd21ecd7c3267e5e9df2b604b99ec8add824a7e64ccc3a907a97"
-    url = "https://github.com/gap-packages/curlInterface/releases/download/v2.3.1/curlInterface-2.3.1.tar.gz"
+    sha256 = "6f758ad512edf033ba8892875c3216cf111feb5b856909b84889cad89c78a4ff"
+    url = "https://github.com/gap-packages/curlInterface/releases/download/v2.4.0/curlInterface-2.4.0.tar.gz"

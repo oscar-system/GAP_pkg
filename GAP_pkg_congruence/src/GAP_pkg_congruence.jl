@@ -2,7 +2,7 @@
 """
     GAP_pkg_congruence
 
-A wrapper for the GAP package Congruence 1.2.4.
+A wrapper for the GAP package Congruence 1.2.7.
 """
 module GAP_pkg_congruence
 

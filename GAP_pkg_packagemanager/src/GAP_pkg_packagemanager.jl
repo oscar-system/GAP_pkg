@@ -2,7 +2,7 @@
 """
     GAP_pkg_packagemanager
 
-A wrapper for the GAP package PackageManager 1.3.2.
+A wrapper for the GAP package PackageManager 1.6.
 """
 module GAP_pkg_packagemanager
 

@@ -2,7 +2,7 @@
 """
     GAP_pkg_polymaking
 
-A wrapper for the GAP package polymaking 0.8.6.
+A wrapper for the GAP package polymaking 0.8.7.
 """
 module GAP_pkg_polymaking
 

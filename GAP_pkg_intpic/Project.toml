@@ -1,7 +1,7 @@
 name = "GAP_pkg_intpic"
 uuid = "9588b285-67c5-4875-aab5-cca19b54b3e6"
 authors = ["Max Horn <max@quendi.de>"]
-version = "0.3.0"
+version = "0.4.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

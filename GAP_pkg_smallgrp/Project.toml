@@ -1,7 +1,7 @@
 name = "GAP_pkg_smallgrp"
 uuid = "adeebd5f-8e24-40dc-b8ba-d9d12c9c005f"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.5.1"
+version = "1.5.4"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

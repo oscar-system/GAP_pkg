@@ -2,7 +2,7 @@
 """
     GAP_pkg_cryst
 
-A wrapper for the GAP package Cryst 4.1.25.
+A wrapper for the GAP package Cryst 4.1.27.
 """
 module GAP_pkg_cryst
 

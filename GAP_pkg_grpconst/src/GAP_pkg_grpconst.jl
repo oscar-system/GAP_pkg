@@ -2,7 +2,7 @@
 """
     GAP_pkg_grpconst
 
-A wrapper for the GAP package GrpConst 2.6.3.
+A wrapper for the GAP package GrpConst 2.6.5.
 """
 module GAP_pkg_grpconst
 

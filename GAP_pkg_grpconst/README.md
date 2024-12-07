@@ -1,6 +1,6 @@
 # GAP_pkg_grpconst
 
-This is a generated Julia wrapper package for the GAP package GrpConst 2.6.3.
+This is a generated Julia wrapper package for the GAP package GrpConst 2.6.5.
 
 ## Usage
 

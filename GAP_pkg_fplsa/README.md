@@ -1,6 +1,6 @@
 # GAP_pkg_fplsa
 
-This is a generated Julia wrapper package for the GAP package FPLSA 1.2.5.
+This is a generated Julia wrapper package for the GAP package FPLSA 1.2.6.
 
 ## Usage
 

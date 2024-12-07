@@ -2,7 +2,7 @@
 """
     GAP_pkg_wedderga
 
-A wrapper for the GAP package Wedderga 4.10.2.
+A wrapper for the GAP package Wedderga 4.10.5.
 """
 module GAP_pkg_wedderga
 

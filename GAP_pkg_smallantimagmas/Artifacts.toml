@@ -1,0 +1,6 @@
+[smallantimagmas]
+git-tree-sha1 = "54d99710c906623194e051396e877f461537e4e7"
+
+    [[smallantimagmas.download]]
+    sha256 = "d44cf44f760a5c3c94d97fc914317ca2509582090ea1c3b1bd038a1c2182c3c0"
+    url = "https://github.com/limakzi/smallantimagmas/releases/download/v0.2.12/smallantimagmas-v0.2.12.tar.gz"

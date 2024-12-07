@@ -1,0 +1,6 @@
+[sotgrps]
+git-tree-sha1 = "f824058c15ef51debbdac8dfafff61efb9af9d0a"
+
+    [[sotgrps.download]]
+    sha256 = "4998f8aeba6666cfddf40b7cc4f94b4740f57704d3b0ce6ff7e0d7402ed1449b"
+    url = "https://github.com/gap-packages/sotgrps/releases/download/v1.3/SOTGrps-1.3.tar.gz"

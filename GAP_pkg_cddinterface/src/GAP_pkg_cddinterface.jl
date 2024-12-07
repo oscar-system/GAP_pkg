@@ -2,7 +2,7 @@
 """
     GAP_pkg_cddinterface
 
-A wrapper for the GAP package CddInterface 2022.11.01.
+A wrapper for the GAP package CddInterface 2024.09.02.
 """
 module GAP_pkg_cddinterface
 

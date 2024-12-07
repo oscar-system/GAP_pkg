@@ -1,6 +1,6 @@
 # GAP_pkg_jupyterkernel
 
-This is a generated Julia wrapper package for the GAP package JupyterKernel 1.4.1.
+This is a generated Julia wrapper package for the GAP package JupyterKernel 1.5.1.
 
 ## Usage
 

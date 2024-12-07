@@ -1,7 +1,7 @@
 name = "GAP_pkg_jupyterkernel"
 uuid = "92ee285b-3b46-4e2d-868a-cb08d95f5b07"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.4.1"
+version = "1.5.1"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

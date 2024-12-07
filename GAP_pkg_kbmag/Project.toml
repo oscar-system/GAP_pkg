@@ -1,7 +1,7 @@
 name = "GAP_pkg_kbmag"
 uuid = "14575856-15eb-4b87-b340-2fe24e9cc0b7"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.5.10"
+version = "1.5.11"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

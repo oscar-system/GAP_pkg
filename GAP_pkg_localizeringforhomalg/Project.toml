@@ -1,7 +1,7 @@
 name = "GAP_pkg_localizeringforhomalg"
 uuid = "4db6610a-1afe-42a0-9ba3-dfcd45e0bef9"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.11.1"
+version = "2023.10.1"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

@@ -1,6 +1,6 @@
 # GAP_pkg_json
 
-This is a generated Julia wrapper package for the GAP package json 2.1.1.
+This is a generated Julia wrapper package for the GAP package json 2.2.2.
 
 ## Usage
 

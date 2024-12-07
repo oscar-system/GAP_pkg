@@ -2,7 +2,7 @@
 """
     GAP_pkg_linearalgebraforcap
 
-A wrapper for the GAP package LinearAlgebraForCAP 2022.12-04.
+A wrapper for the GAP package LinearAlgebraForCAP 2024.10-01.
 """
 module GAP_pkg_linearalgebraforcap
 

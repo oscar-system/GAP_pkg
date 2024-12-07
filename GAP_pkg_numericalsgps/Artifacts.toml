@@ -1,6 +1,6 @@
 [numericalsgps]
-git-tree-sha1 = "f71ecfdbfb7eccbdeb5dc3b6f55542c765c81439"
+git-tree-sha1 = "7083b299466acc2fd79356ac8f9ca0971f7566fa"
 
     [[numericalsgps.download]]
-    sha256 = "7fa1966f3b5b50638eaf952a48667fd1ce09034d9e5d042c3f78f6d8d3c01e10"
-    url = "https://github.com/gap-packages/numericalsgps/releases/download/v1.3.1/NumericalSgps-1.3.1.tar.gz"
+    sha256 = "a28bdea0c129c9aa9b302ee57fa51612c4e343a249775551133cb5a32a68cea1"
+    url = "https://github.com/gap-packages/numericalsgps/releases/download/v1.4.0/NumericalSgps-1.4.0.tar.gz"

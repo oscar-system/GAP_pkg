@@ -1,7 +1,7 @@
 name = "GAP_pkg_zeromqinterface"
 uuid = "ec373114-3e01-48c0-b009-622a608c9468"
 authors = ["Max Horn <max@quendi.de>"]
-version = "0.14.0"
+version = "0.16.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

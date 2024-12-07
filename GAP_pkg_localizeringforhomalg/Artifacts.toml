@@ -1,6 +1,6 @@
 [localizeringforhomalg]
-git-tree-sha1 = "c5c2551cf9abc88eb7df67b02cdafe59cc176aca"
+git-tree-sha1 = "b57f2abf1316847574d127a274634c9e863c7ed6"
 
     [[localizeringforhomalg.download]]
-    sha256 = "5c3eb91b789962b28b30bb605939fa752d2fb8a56697eee37b10d47870dcbd72"
-    url = "https://github.com/homalg-project/homalg_project/releases/download/LocalizeRingForHomalg-2022.11-01/LocalizeRingForHomalg-2022.11-01.tar.gz"
+    sha256 = "26a040a56df49f2a4d4b068ae1ae006f5b359379d9575f4a08c002bb1ccf95ad"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/LocalizeRingForHomalg-2023.10-01/LocalizeRingForHomalg-2023.10-01.tar.gz"

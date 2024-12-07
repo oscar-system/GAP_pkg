@@ -1,7 +1,7 @@
 name = "GAP_pkg_ringsforhomalg"
 uuid = "a0eac41b-b811-4e18-a428-19f60febb424"
 authors = ["Max Horn <max@quendi.de>"]
-version = "2022.11.1"
+version = "2024.11.2"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

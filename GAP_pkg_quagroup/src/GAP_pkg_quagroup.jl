@@ -2,7 +2,7 @@
 """
     GAP_pkg_quagroup
 
-A wrapper for the GAP package QuaGroup 1.8.3.
+A wrapper for the GAP package QuaGroup 1.8.4.
 """
 module GAP_pkg_quagroup
 

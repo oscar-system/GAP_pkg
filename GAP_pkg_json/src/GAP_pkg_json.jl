@@ -2,7 +2,7 @@
 """
     GAP_pkg_json
 
-A wrapper for the GAP package json 2.1.1.
+A wrapper for the GAP package json 2.2.2.
 """
 module GAP_pkg_json
 

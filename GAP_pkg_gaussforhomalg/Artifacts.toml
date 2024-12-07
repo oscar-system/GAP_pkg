@@ -1,6 +1,6 @@
 [gaussforhomalg]
-git-tree-sha1 = "21f2308b09e2f691c06f666bb84fef92b3d14ae4"
+git-tree-sha1 = "cb03dee6fd645cc006076a03ca5dab5943335ccd"
 
     [[gaussforhomalg.download]]
-    sha256 = "ef788cddd69fc0b383c3498c6fb17fd2c4c40d911e537a6353f9549798f0c59a"
-    url = "https://github.com/homalg-project/homalg_project/releases/download/GaussForHomalg-2022.08-03/GaussForHomalg-2022.08-03.tar.gz"
+    sha256 = "4ab05eb6d92e88cdf53296826f8df1aaf575a0e3349b298341bd0a30bd1c3979"
+    url = "https://github.com/homalg-project/homalg_project/releases/download/GaussForHomalg-2024.08-01/GaussForHomalg-2024.08-01.tar.gz"

@@ -1,7 +1,7 @@
 name = "GAP_pkg_fga"
 uuid = "6f0bf57b-4df8-4181-9fd3-bb5aa2f415ab"
 authors = ["Max Horn <max@quendi.de>"]
-version = "1.4.0"
+version = "1.5.0"
 
 [deps]
 GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"

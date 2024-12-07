@@ -2,7 +2,7 @@
 """
     GAP_pkg_cap
 
-A wrapper for the GAP package CAP 2022.12-11.
+A wrapper for the GAP package CAP 2024.11-02.
 """
 module GAP_pkg_cap
 

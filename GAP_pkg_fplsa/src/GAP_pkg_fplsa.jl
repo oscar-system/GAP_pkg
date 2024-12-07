@@ -2,7 +2,7 @@
 """
     GAP_pkg_fplsa
 
-A wrapper for the GAP package FPLSA 1.2.5.
+A wrapper for the GAP package FPLSA 1.2.6.
 """
 module GAP_pkg_fplsa
 

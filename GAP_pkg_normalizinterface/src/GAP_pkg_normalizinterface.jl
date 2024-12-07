@@ -2,7 +2,7 @@
 """
     GAP_pkg_normalizinterface
 
-A wrapper for the GAP package NormalizInterface 1.3.5.
+A wrapper for the GAP package NormalizInterface 1.3.7.
 """
 module GAP_pkg_normalizinterface
 
