@@ -10,5 +10,5 @@ GAP_pkg_cddinterface_jll = "edf6cd94-1a94-567d-837e-37d1f3b87eed"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [compat]
-GAP = "0.9"
+GAP = "0.12"
 julia = "1.6"

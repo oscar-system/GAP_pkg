@@ -10,6 +10,6 @@ GAP_pkg_ferret_jll = "d6652ff9-bdf9-5f19-9e6f-c10727807222"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [compat]
-GAP = "0.9"
+GAP = "0.12"
 GAP_pkg_ferret_jll = "~100.0.501"
 julia = "1.6"

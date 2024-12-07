@@ -10,5 +10,5 @@ GAP_pkg_nq_jll = "00bf61e5-c0f9-5a3f-ba8b-68a621695b53"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [compat]
-GAP = "0.9"
+GAP = "0.12"
 julia = "1.6"

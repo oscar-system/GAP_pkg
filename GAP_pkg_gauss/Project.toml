@@ -10,5 +10,5 @@ GAP_pkg_gauss_jll = "296a3c51-2614-5f89-afa9-2c5cd84b74d9"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 
 [compat]
-GAP = "0.9"
+GAP = "0.12"
 julia = "1.6"

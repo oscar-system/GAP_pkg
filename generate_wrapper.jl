@@ -13,7 +13,7 @@ using LocalRegistry
 using TOML
 
 # GAP.jl compat string for use in Project.toml
-GAP_jl_version = "0.9"
+GAP_jl_version = "0.12"
 
 """
     lookup_pkg(pkgname::String)
