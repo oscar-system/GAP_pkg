@@ -262,13 +262,66 @@ function update_pkg(pkginfo)
     # generate a simple test
     #
     mkpath("$(julia_pkgname)/test")
+    open(joinpath(julia_pkgname, "test", "Project.toml"), "w") do f
+        write(f,"""
+        [deps]
+        Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+        [compat]
+        """)
+    end
+
     open(joinpath(julia_pkgname, "test", "runtests.jl"), "w") do f
         write(f,"""
-        using $julia_pkgname
         using Test
 
         import $julia_pkgname
+        import $julia_pkgname.GAP
+
+        # verify loading works
         $julia_pkgname.load()
+
+        # run package test suite
+        # we need to hack around the fact that most of them end with quitting
+        # the running process...
+        # TODO: allow specifying a collection of (name => value) pairs...
+        function with_gap_var(f, n::String, val)
+            name = GAP.Obj(n)
+            old_value = GAP.Globals.ValueGlobal(name)
+            GAP.Globals.MakeReadWriteGlobal(name)
+            GAP.Globals.UnbindGlobal(name)
+            GAP.Globals.BindGlobal(name, val)
+            try
+                f()
+            finally
+              GAP.Globals.MakeReadWriteGlobal(name);
+              GAP.Globals.UnbindGlobal(name);
+              GAP.Globals.BindGlobal(name, old_value);
+            end
+        end
+
+        error_occurred = false
+        function fake_QuitGap(code)
+             global error_occurred
+             if code != 0
+                 error_occurred = true
+             end
+        end
+
+        GAP.disable_error_handler[] = true
+        try
+            with_gap_var("ERROR_OUTPUT", GAP.Globals._JULIAINTERFACE_ORIGINAL_ERROR_OUTPUT) do
+                with_gap_var("QuitGap", fake_QuitGap) do
+                    with_gap_var("FORCE_QUIT_GAP", identity) do
+                        GAP.Globals.TestPackage(GAP.Obj("$pkgname"))
+                    end
+                end
+            end
+        finally
+            GAP.disable_error_handler[] = false
+        end
+
+        @test !error_occurred
         """)
     end
 
